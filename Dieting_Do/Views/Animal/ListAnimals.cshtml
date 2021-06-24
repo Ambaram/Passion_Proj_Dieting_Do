@@ -1,0 +1,13 @@
+﻿@model IEnumerable<Dieting_Do.Models.Animal>
+@{
+    ViewBag.Title = "ListAnimals";
+}
+
+<h2>Animal Listings</h2>
+
+@foreach(var animal in Model)
+            {
+                <h3>animal.AnimalName</h3>
+                <h3>animal.AnimalSpecies</h3>
+                <h3>animal.AnimalBMI</h3>
+            }
