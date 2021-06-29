@@ -25,7 +25,7 @@ namespace Dieting_Do.Controllers
         // GET: Animal/Details/5
         public ActionResult Details(int id)
         {
-            return View();
+            return View(id);
         }
 
         // GET: Animal/Create
