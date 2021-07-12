@@ -16,17 +16,48 @@ namespace Dieting_Do.Controllers
     {
         private ApplicationDbContext db = new ApplicationDbContext();
 
+        /// <summary>
+        /// Get the list of available standard food requirement data
+        /// </summary>
+        /// <returns>
+        /// Header: 200(OK)
+        /// Content : The standard food requirement data for every species present in the database
+        /// </returns>
         // GET: api/Standard_Data_Data
-        public IQueryable<Standard_Data> GetStandard_Data()
+        [HttpGet]
+        public IEnumerable<Standard_Data> StandardList()
         {
-            return db.Standard_Data;
+            List<Standard_Data> St_Data = db.Standard_Data.ToList();
+            List<Standard_Data> St_Dto = new List<Standard_Data>();
+            St_Data.ForEach(s => St_Dto.Add(new Standard_Data()
+            {
+                SpeciesId = s.SpeciesId,
+                SpeciesName = s.SpeciesName,
+                St_Protein = s.St_Protein,
+                St_Carbs = s.St_Carbs,
+                St_Fat = s.St_Fat,
+                St_Vitamin = s.St_Vitamin,
+                St_Fibre = s.St_Fibre
+            }));
+            return St_Dto;
         }
 
-        // GET: api/Standard_Data_Data/5
+        /// <summary>
+        /// Find the standard food requirement of specific species.
+        /// </summary>
+        /// <param name="id"></param>
+        /// <returns>
+        /// Header : ResponseCode : 200(OK)
+        /// Header : ResponseCode : 404 (Not Found)
+        /// Content :Standard food requiremnt of the selected species. 
+        /// </returns>
+        // GET: api/Standard_Data_Data/FindStandard/5
         [ResponseType(typeof(Standard_Data))]
-        public IHttpActionResult GetStandard_Data(int id)
+        [HttpGet]
+        public IHttpActionResult FindStandard(int id)
         {
             Standard_Data standard_Data = db.Standard_Data.Find(id);
+
             if (standard_Data == null)
             {
                 return NotFound();
@@ -35,16 +66,24 @@ namespace Dieting_Do.Controllers
             return Ok(standard_Data);
         }
 
-        // PUT: api/Standard_Data_Data/5
+        /// <summary>
+        /// Update the standard food requirement of a species.
+        /// </summary>
+        /// <param name="id"></param>
+        /// <param name="standard_Data"></param>
+        /// <returns>Updated standard food requirement of selected species</returns>
+        // Post: api/Standard_Data_Data/UpdataStandard/5
         [ResponseType(typeof(void))]
-        public IHttpActionResult PutStandard_Data(int id, Standard_Data standard_Data)
+        [HttpPost]
+        [Authorize]
+        public IHttpActionResult UpdateStandard(int id, Standard_Data standard_Data)
         {
             if (!ModelState.IsValid)
             {
                 return BadRequest(ModelState);
             }
 
-            if (id != standard_Data.DataId)
+            if (id != standard_Data.SpeciesId)
             {
                 return BadRequest();
             }
@@ -70,9 +109,16 @@ namespace Dieting_Do.Controllers
             return StatusCode(HttpStatusCode.NoContent);
         }
 
-        // POST: api/Standard_Data_Data
+        /// <summary>
+        /// Add standard food requirement for a new species
+        /// </summary>
+        /// <param name="standard_Data"></param>
+        /// <returns>New species food requirement data</returns>
+        // POST: api/Standard_Data_Data/AddStandard
         [ResponseType(typeof(Standard_Data))]
-        public IHttpActionResult PostStandard_Data(Standard_Data standard_Data)
+        [HttpPost]
+        [Authorize]
+        public IHttpActionResult AddStandard(Standard_Data standard_Data)
         {
             if (!ModelState.IsValid)
             {
@@ -82,11 +128,20 @@ namespace Dieting_Do.Controllers
             db.Standard_Data.Add(standard_Data);
             db.SaveChanges();
 
-            return CreatedAtRoute("DefaultApi", new { id = standard_Data.DataId }, standard_Data);
+            return CreatedAtRoute("DefaultApi", new { id = standard_Data.SpeciesId }, standard_Data);
         }
 
-        // DELETE: api/Standard_Data_Data/5
+        /// <summary>
+        /// Deletes a species standard foor requirement data
+        /// </summary>
+        /// <param name="id"></param>
+        /// <returns>
+        /// Header: ResponseCode: 200(OK)
+        /// Header: ResponseCode: 404(Not Found)
+        /// </returns>
         [ResponseType(typeof(Standard_Data))]
+        [HttpPost]
+        [Authorize]
         public IHttpActionResult DeleteStandard_Data(int id)
         {
             Standard_Data standard_Data = db.Standard_Data.Find(id);
@@ -112,7 +167,7 @@ namespace Dieting_Do.Controllers
 
         private bool Standard_DataExists(int id)
         {
-            return db.Standard_Data.Count(e => e.DataId == id) > 0;
+            return db.Standard_Data.Count(e => e.SpeciesId == id) > 0;
         }
     }
 }

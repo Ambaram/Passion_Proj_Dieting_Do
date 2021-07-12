@@ -14,12 +14,14 @@ namespace Dieting_Do.Models
         public string AnimalName { get; set; }
         public int AnimalWeight { get; set; }
         public int AnimalHeight { get; set; }
+        public bool animalwithpic { get; set; }
+        public string picformat { get; set; }
 
 
         // ForeignKey SpeciedId
-        [ForeignKey("Species")]
+        [ForeignKey("Standard_Data")]
         public int SpeciesId { get; set; }
-        public virtual Species Species { get; set; }
+        public virtual Standard_Data Standard_Data { get; set; }
 
     }
     public class AnimalDto
@@ -28,6 +30,8 @@ namespace Dieting_Do.Models
         public string AnimalName { get; set; }
         public int AnimalWeight { get; set; }
         public int AnimalHeight { get; set; }
-        public string AnimalSpecies { get; set; }
+        public string SpeciesName { get; set; }
+        public bool Animalwithpic { get; set; }
+        public string Picformat { get; set; }
     }
 }

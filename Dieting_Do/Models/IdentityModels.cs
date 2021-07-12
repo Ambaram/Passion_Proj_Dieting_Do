@@ -27,10 +27,10 @@ namespace Dieting_Do.Models
         // Add entities
         public DbSet<Animal> Animal { get; set; }
         public DbSet<Species> Species { get; set; }
-        public DbSet<BMI> BodyMassIndex { get; set; }
-        public DbSet<Requirements> Requirements { get; set; }
         public DbSet<Standard_Data> Standard_Data { get; set; }
-        public DbSet<Feed_Schedule> Feed_Schedule { get; set; }
+        public DbSet<Vet> Vets { get; set; }
+        public DbSet<AnnualEvent> AnnualEvents { get; set; }
+        public DbSet<Shelter> Shelters { get; set; }
 
         public static ApplicationDbContext Create()
         {

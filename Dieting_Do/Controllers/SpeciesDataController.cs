@@ -14,30 +14,79 @@ namespace Dieting_Do.Controllers
 {
     public class SpeciesDataController : ApiController
     {
+        /// <summary>
+        /// Retrieve species data for all the species available in the database
+        /// </summary>
+        /// <returns>
+        /// HEADER : StatusCode: 200(OK)
+        /// CONTENT : All Species in the database
+        /// </returns>
+        /// <example>
+        /// GET: api/SpeciesData/ListSpecies
+        /// </example>
         private ApplicationDbContext db = new ApplicationDbContext();
-
-        // GET: api/SpeciesData
-        public IQueryable<Species> GetSpecies()
+        [HttpGet]
+        public IHttpActionResult ListSpecies()
         {
-            return db.Species;
+            List<Species> Species = db.Species.ToList();
+            List<SpeciesDto> SpeciesDto = new List<SpeciesDto>();
+            Species.ForEach(s => SpeciesDto.Add(new SpeciesDto()
+            {
+                SpeciesId = s.SpeciesId,
+                AnimalSpecies = s.AnimalSpecies
+            }));
+            return Ok(SpeciesDto);
         }
 
-        // GET: api/SpeciesData/5
+        /// <summary>
+        /// Find species data for a specific species id
+        /// </summary>
+        /// <param name="id"></param>
+        /// <returns>
+        /// HEADER : StatusCode: 200(OK)
+        /// CONTENT: Species Data for requested species id
+        /// or
+        /// HEADER : StatusCode: 404(NOT Found)
+        /// </returns>
+        /// <example>
+        /// GET: api/SpeciesData/FindSpecies/5
+        /// </example>
         [ResponseType(typeof(Species))]
-        public IHttpActionResult GetSpecies(int id)
+        public IHttpActionResult FindSpecies(int id)
         {
             Species species = db.Species.Find(id);
+            SpeciesDto speciesDto = new SpeciesDto()
+            {
+                SpeciesId = species.SpeciesId,
+                AnimalSpecies = species.AnimalSpecies
+            };
+
             if (species == null)
             {
                 return NotFound();
             }
 
-            return Ok(species);
+            return Ok(speciesDto);
         }
 
-        // PUT: api/SpeciesData/5
+        /// <summary>
+        /// Update species data for a specific species id
+        /// </summary>
+        /// <param name="id"></param>
+        /// <param name="species"></param>
+        /// <returns>
+        /// HEADER : StatusCode: 200(OK)
+        /// or
+        /// HEADER : StatusCode: 400(Bad Request)
+        /// or
+        /// HEADER : StatusCode: 404(NOT Found)
+        /// </returns>
+        /// <example>
+        /// // POST: api/SpeciesData/UpdateSpecies/5
+        /// FORM DATA : Species JSON object
+        /// </example>
         [ResponseType(typeof(void))]
-        public IHttpActionResult PutSpecies(int id, Species species)
+        public IHttpActionResult UpdateSpecies(int id, Species species)
         {
             if (!ModelState.IsValid)
             {
@@ -70,9 +119,22 @@ namespace Dieting_Do.Controllers
             return StatusCode(HttpStatusCode.NoContent);
         }
 
-        // POST: api/SpeciesData
+        /// <summary>
+        /// Add species data to the database
+        /// </summary>
+        /// <param name="species"></param>
+        /// <returns>
+        /// HEADER : StatusCode: 201(Created)
+        /// CONTENT: SpeciesID, Species Data
+        /// or
+        /// HEADER : StatusCode: 400(Bad Request)
+        /// </returns>
+        /// <example>
+        /// POST: api/ShelterData/AddSpecies
+        /// FORM DATA : Species JSON object
+        /// </example>
         [ResponseType(typeof(Species))]
-        public IHttpActionResult PostSpecies(Species species)
+        public IHttpActionResult AddSpecies(Species species)
         {
             if (!ModelState.IsValid)
             {
@@ -85,7 +147,19 @@ namespace Dieting_Do.Controllers
             return CreatedAtRoute("DefaultApi", new { id = species.SpeciesId }, species);
         }
 
-        // DELETE: api/SpeciesData/5
+        /// <summary>
+        /// Deletes species data for a specific species id
+        /// </summary>
+        /// <param name="id"></param>
+        /// <returns>
+        /// HEADER : StatusCode: 200(OK)
+        /// or
+        /// HEADER : StatusCode: 404(NOT Found)
+        /// </returns>
+        /// <example>
+        /// POST: api/SpeciesData/DeleteSpecies/5
+        /// FORM DATA : empty
+        /// </example>
         [ResponseType(typeof(Species))]
         public IHttpActionResult DeleteSpecies(int id)
         {
@@ -98,7 +172,7 @@ namespace Dieting_Do.Controllers
             db.Species.Remove(species);
             db.SaveChanges();
 
-            return Ok(species);
+            return Ok();
         }
 
         protected override void Dispose(bool disposing)

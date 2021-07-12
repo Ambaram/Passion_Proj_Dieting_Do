@@ -1,0 +1,2816 @@
+<!-- uxtResponsiveBasicContentPage.tag --><!doctype html>
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <link rel="stylesheet" type="text/css" media="screen, print" href="https://shop-content-cdn.mediazs.com/acdd7f06787b7151870b7fb5fbf6bf55/theme/zooplus/zooplus.co.uk/css/static-pages/static.css">
+  <link rel="SHORTCUT ICON" href="https://shop-content-cdn.mediazs.com/acdd7f06787b7151870b7fb5fbf6bf55/theme/zooplus/zooplus.co.uk/image/icons/favicon.ico">
+  <meta name="apple-itunes-app" content="app-id=582639260, app-argument=www.zooplus.co.uk/?isIosAppBanner=true">
+  <script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.2.1/jquery.min.js"></script>
+  <script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/js-cookie/2.2.0/js.cookie.min.js"></script>
+  <script src="//shop-adtm-assets.shpp.ext.zooplus.io/launch-EN699a853db84042d9acc90b47f7ead848.min.js" async></script>
+  <script type="text/javascript" src="https://polyfill.io/v3/polyfill.min.js"></script>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <style>
+          #webc-shop-header {
+            width: 100%;
+            max-width: 1024px;
+            background: #fff;
+          }
+          #webc-shop-header:before, #webc-shop-header:after {
+            display: block;
+            content: '';
+          }
+          #webc-shop-header:before {
+            background: linear-gradient(to right, #f2f3f4, #fff);
+          }
+          #webc-shop-header:after {
+              background: linear-gradient(to right, #3c9700, #66b100);
+          }
+          @media screen and (max-width: 543px) {
+            #webc-shop-header:before {
+              height: 20px;
+            }
+            #webc-shop-header:after {
+              height: 2px;
+            }
+            #webc-shop-header > div {
+              height: 56px;
+            }
+          }
+          @media screen and (min-width: 544px) {
+            #webc-shop-header:before {
+              height: 36px;
+            }
+            #webc-shop-header:after {
+              height: 56px;
+            }
+            #webc-shop-header > div {
+              height: 76px;
+            }
+          }
+        </style>
+  <script type="text/javascript" src="https://vam-cdn-prod.mediazs.com/js/shop/polyfill.js"></script>
+  <script type="text/javascript" defer src="https://shop-common-cdn-prod.mediazs.com/shop-header/2.0.2/js/shop-header.js"></script>
+  <script type="text/javascript" defer src="https://vam-cdn-prod.mediazs.com/js/react/react_16.8.5__react-dom_16.8.5.js"></script>
+  <script type="text/javascript" defer src="https://vam-cdn-prod.mediazs.com/js/shop/events-bus.js"></script>
+  <script type="text/javascript" defer src="https://vam-cdn-prod.mediazs.com/js/sentry/sentry_5.27.js"></script>
+  <meta charset="utf-8">
+  <meta http-equiv="x-ua-compatible" content="ie=edge; chrome=1">
+  <link rel="canonical" href="https://www.zooplus.co.uk/info/about/animal-welfare">
+  <link rel="stylesheet" type="text/css" href="//cdnjs.cloudflare.com/ajax/libs/lightslider/1.1.6/css/lightslider.min.css">
+  <link rel="stylesheet" type="text/css" href="https://shop-common-cdn-prod.mediazs.com/shop-styleguide/v3/css/zooplus-theme.css">
+  <link rel="stylesheet" type="text/css" href="https://shop-common-cdn-prod.mediazs.com/shop-styleguide/v3/css/grid.css">
+  <link rel="stylesheet" type="text/css" href="https://shop-common-cdn-prod.mediazs.com/shop-icon-fonts/v5/css/shop-icon-fonts.css">
+  <link rel="stylesheet" type="text/css" href="//uxt-components-prod.mediazs.com/static-page-general/1.49.0/zooplus/static-page-general-1.49.0.min.css">
+  <meta name="description" content="The well-being of our pets is at the core of our business. We believe that all pets deserve care, affection and a loving family. ">
+  <meta name="robots" content="index,follow">
+  <title>Animal Welfare at zooplus  |  We help your four-legged friends!</title>
+  <script src="//cdnjs.cloudflare.com/ajax/libs/jquery/3.2.1/jquery.min.js" type="text/javascript"></script>
+  <script src="//cdnjs.cloudflare.com/ajax/libs/lightslider/1.1.6/js/lightslider.min.js" type="text/javascript"></script>
+  <script src="//d2rfqvo8asz3ui.cloudfront.net/js/food-advisor.js" type="text/javascript"></script>
+  <script src="//uxt-components-prod.mediazs.com/static-page-general/1.49.0/zooplus/static-page-general-1.49.0.min.js" type="text/javascript"></script>   
+  <!--[if lt IE 9]>
+<script type="text/javascript" src="https://shop-content-cdn.mediazs.com/acdd7f06787b7151870b7fb5fbf6bf55/theme/zooplus/zooplus.co.uk/javascript/html5shiv.min.js" ></script>
+<![endif]-->      
+  <!-- Removed Maxymiser script --> 
+ </head> 
+ <body class="catalog zooplus"> 
+  <!-- uxtResponsiveBasicContentPage.tag --> 
+  <div id="page-content" class="page__content">  
+   <div> 
+    <div id="shop-header-component-init" data-show-multilanguage="false" data-show-categories="true" data-exorbyte-id="2634" data-brand="zooplus" data-media-server-url="https://shop-common-cdn-prod.mediazs.com/shop-header/2.0.2" data-component-available="true" data-shipping-fee-url="https://uxt-shop-header-delivery-information-prod.mediazs.com/shop-header-delivery-information/zooplus.co.uk/en-GB" data-bonuspoints-available="true" data-translations-locale="en_GB" data-exorbyte-path-key="2634_zooplus_co_uk" data-security-icons-url="https://uxt-shop-header-logos-prod.mediazs.com/shop-header-logos/zooplus.co.uk/en-GB" data-help-link="/contact_us" data-show-search="true" data-domain="zooplus.co.uk" data-shop-mini-cart-url="https://shop-mini-cart.prod.zooplus.net/v1/miniCart?bundle=zooplus" data-bundle="zooplus" data-show-cart="true" data-locale="en-GB" data-translations="{
+  &quot;shop.header.search.autocomplete.title.suggestion&quot; : &quot;Search suggestions for&quot;,
+  &quot;shop.header.accessible.catalog.menu&quot; : &quot;Catalog Menu&quot;,
+  &quot;shop.header.search.autocomplete.title.products&quot; : &quot;Products&quot;,
+  &quot;shop.header.minicart.flyout.header&quot; : &quot;Your Shopping Basket&quot;,
+  &quot;shop.header.main.navigation.title&quot; : &quot;zooplus main menu&quot;,
+  &quot;shop.header.top.reorder&quot; : &quot;Re-order&quot;,
+  &quot;shop.header.top.help&quot; : &quot;Contact us&quot;,
+  &quot;shop.header.burger.navigation.shop.by&quot; : &quot;Shop by&quot;,
+  &quot;shop.header.minicart.flyout.empty.header&quot; : &quot;Your Shopping Basket is empty :(&quot;,
+  &quot;shop.header.accessible.account.menu&quot; : &quot;my zooplus Menu&quot;,
+  &quot;shop.header.minicart.flyout.total&quot; : &quot;Total&quot;,
+  &quot;shop.header.account.login&quot; : &quot;Login&quot;,
+  &quot;shop.header.search.label&quot; : &quot;Search&quot;,
+  &quot;shop.header.burger.navigation.all.products&quot; : &quot;All products&quot;,
+  &quot;shop.header.account.reorder&quot; : &quot;Re-order&quot;,
+  &quot;shop.header.accessible.secure.payment.alternative&quot; : &quot;Secure Payment SSL&quot;,
+  &quot;shop.header.account.orderoverview&quot; : &quot;My orders&quot;,
+  &quot;shop.header.account.flyout.accessible.description&quot; : &quot;Press ENTER to open account submenu&quot;,
+  &quot;shop.header.search.placeholder&quot; : &quot;Search the store&quot;,
+  &quot;shop.header.account.salutation&quot; : &quot;Welcome back&quot;,
+  &quot;shop.header.account.bonusprogram&quot; : &quot;Rewards&quot;,
+  &quot;shop.header.burger.navigation.category&quot; : &quot;Category&quot;,
+  &quot;shop.header.cart.button.label&quot; : &quot;Shopping Cart&quot;,
+  &quot;shop.header.account.logout&quot; : &quot;Logout&quot;,
+  &quot;shop.header.accessible.logo.alternative&quot; : &quot;zooplus logo&quot;,
+  &quot;shop.header.main.navigation.category.accessible.button.label&quot; : &quot;Open category menu&quot;,
+  &quot;shop.header.minicart.flyout.empty.text&quot; : &quot;There are no products in your shopping basket&quot;,
+  &quot;shop.header.search.autocomplete.title.services&quot; : &quot;Service&quot;,
+  &quot;shop.header.search.autocomplete.separator&quot; : &quot;» in&quot;,
+  &quot;shop.header.accessible.search.menu&quot; : &quot;Toggle Search Menu&quot;,
+  &quot;shop.header.callcenter&quot; : &quot;+44 1234 430366&quot;,
+  &quot;shop.header.account.overview&quot; : &quot;my zooplus&quot;,
+  &quot;shop.header.account.customerId&quot; : &quot;Customer Number&quot;,
+  &quot;shop.header.multilanguage.accessible.text&quot; : &quot;Change language to ${language}&quot;,
+  &quot;shop.header.minicart.flyout.button&quot; : &quot;Go to Basket&quot;,
+  &quot;shop.header.top.account&quot; : &quot;my zooplus&quot;,
+  &quot;shop.header.categories.all.products.link&quot; : &quot;All products&quot;
+}" data-categories="[{
+  &quot;animalType&quot; : &quot;DOGS&quot;,
+  &quot;children&quot; : [ {
+    &quot;animalType&quot; : &quot;DOGS&quot;,
+    &quot;children&quot; : [ {
+      &quot;animalType&quot; : &quot;DOGS&quot;,
+      &quot;description&quot; : &quot;Arden Grange Dry Dog Food&quot;,
+      &quot;extId&quot; : 41707,
+      &quot;level&quot; : 4,
+      &quot;path&quot; : &quot;/shop/dogs/dry_dog_food/arden_grange&quot;,
+      &quot;title&quot; : &quot;Arden Grange&quot;,
+      &quot;type&quot; : &quot;ANIMAL&quot;,
+      &quot;whitespaceAfter&quot; : 0
+    }, {
+      &quot;animalType&quot; : &quot;DOGS&quot;,
+      &quot;description&quot; : &quot;Burns Dog Food&quot;,
+      &quot;extId&quot; : 18092,
+      &quot;level&quot; : 4,
+      &quot;path&quot; : &quot;/shop/dogs/dry_dog_food/burns&quot;,
+      &quot;title&quot; : &quot;Burns&quot;,
+      &quot;type&quot; : &quot;ANIMAL&quot;,
+      &quot;whitespaceAfter&quot; : 0
+    }, {
+      &quot;animalType&quot; : &quot;DOGS&quot;,
+      &quot;description&quot; : &quot;★ Concept for Life Dry Dog Food&quot;,
+      &quot;extId&quot; : 240381,
+      &quot;level&quot; : 4,
+      &quot;path&quot; : &quot;/shop/dogs/dry_dog_food/concept_for_life&quot;,
+      &quot;title&quot; : &quot;★ Concept for Life&quot;,
+      &quot;type&quot; : &quot;ANIMAL&quot;,
+      &quot;whitespaceAfter&quot; : 0
+    }, {
+      &quot;animalType&quot; : &quot;DOGS&quot;,
+      &quot;description&quot; : &quot;Eukanuba Dog Food&quot;,
+      &quot;extId&quot; : 3375,
+      &quot;level&quot; : 4,
+      &quot;path&quot; : &quot;/shop/dogs/dry_dog_food/eukanuba&quot;,
+      &quot;title&quot; : &quot;Eukanuba&quot;,
+      &quot;type&quot; : &quot;ANIMAL&quot;,
+      &quot;whitespaceAfter&quot; : 0
+    }, {
+      &quot;animalType&quot; : &quot;DOGS&quot;,
+      &quot;description&quot; : &quot;Hill's Prescription Diet Dog Food&quot;,
+      &quot;extId&quot; : 34641,
+      &quot;level&quot; : 4,
+      &quot;path&quot; : &quot;/shop/dogs/dry_dog_food/hills_prescription&quot;,
+      &quot;title&quot; : &quot;Hill's Prescription Diet Canine&quot;,
+      &quot;type&quot; : &quot;ANIMAL&quot;,
+      &quot;whitespaceAfter&quot; : 0
+    }, {
+      &quot;animalType&quot; : &quot;DOGS&quot;,
+      &quot;description&quot; : &quot;Hill's Science Plan Dry Dog Food&quot;,
+      &quot;extId&quot; : 3431,
+      &quot;level&quot; : 4,
+      &quot;path&quot; : &quot;/shop/dogs/dry_dog_food/hills_science_plan&quot;,
+      &quot;title&quot; : &quot;Hill's Science Plan&quot;,
+      &quot;type&quot; : &quot;ANIMAL&quot;,
+      &quot;whitespaceAfter&quot; : 0
+    }, {
+      &quot;animalType&quot; : &quot;DOGS&quot;,
+      &quot;description&quot; : &quot;James Wellbeloved Dry Dog Food&quot;,
+      &quot;extId&quot; : 16869,
+      &quot;level&quot; : 4,
+      &quot;path&quot; : &quot;/shop/dogs/dry_dog_food/james_wellbeloved&quot;,
+      &quot;title&quot; : &quot;James Wellbeloved&quot;,
+      &quot;type&quot; : &quot;ANIMAL&quot;,
+      &quot;whitespaceAfter&quot; : 0
+    }, {
+      &quot;animalType&quot; : &quot;DOGS&quot;,
+      &quot;description&quot; : &quot;★ Purizon Dog Food&quot;,
+      &quot;extId&quot; : 74821,
+      &quot;level&quot; : 4,
+      &quot;path&quot; : &quot;/shop/dogs/dry_dog_food/purizon_dog_food&quot;,
+      &quot;title&quot; : &quot;★ Purizon&quot;,
+      &quot;type&quot; : &quot;ANIMAL&quot;,
+      &quot;whitespaceAfter&quot; : 0
+    }, {
+      &quot;animalType&quot; : &quot;DOGS&quot;,
+      &quot;description&quot; : &quot;Royal Canin Breed Dry Dog Food&quot;,
+      &quot;extId&quot; : 3650,
+      &quot;level&quot; : 4,
+      &quot;path&quot; : &quot;/shop/dogs/dry_dog_food/royal_canin_breed&quot;,
+      &quot;title&quot; : &quot;Royal Canin Breed&quot;,
+      &quot;type&quot; : &quot;ANIMAL&quot;,
+      &quot;whitespaceAfter&quot; : 0
+    }, {
+      &quot;animalType&quot; : &quot;DOGS&quot;,
+      &quot;description&quot; : &quot;Royal Canin Care Nutrition Dry Dog Food&quot;,
+      &quot;extId&quot; : 333575,
+      &quot;level&quot; : 4,
+      &quot;path&quot; : &quot;/shop/dogs/dry_dog_food/royal_canin_care_nutrition&quot;,
+      &quot;title&quot; : &quot;Royal Canin Care Nutrition &quot;,
+      &quot;type&quot; : &quot;ANIMAL&quot;,
+      &quot;whitespaceAfter&quot; : 0
+    }, {
+      &quot;animalType&quot; : &quot;DOGS&quot;,
+      &quot;description&quot; : &quot;Royal Canin Size Dry Dog Food&quot;,
+      &quot;extId&quot; : 3418,
+      &quot;level&quot; : 4,
+      &quot;path&quot; : &quot;/shop/dogs/dry_dog_food/royal_canin_size&quot;,
+      &quot;pictureFile&quot; : &quot;royalcanin_logo_10_1.gif&quot;,
+      &quot;title&quot; : &quot;Royal Canin Size&quot;,
+      &quot;type&quot; : &quot;ANIMAL&quot;,
+      &quot;whitespaceAfter&quot; : 0
+    }, {
+      &quot;animalType&quot; : &quot;DOGS&quot;,
+      &quot;description&quot; : &quot;Royal Canin Veterinary Diet Dry Dog Food&quot;,
+      &quot;extId&quot; : 85517,
+      &quot;level&quot; : 4,
+      &quot;path&quot; : &quot;/shop/dogs/dry_dog_food/royal_canin_vet_diet&quot;,
+      &quot;title&quot; : &quot;Royal Canin Veterinary Diet&quot;,
+      &quot;type&quot; : &quot;ANIMAL&quot;,
+      &quot;whitespaceAfter&quot; : 0
+    }, {
+      &quot;animalType&quot; : &quot;DOGS&quot;,
+      &quot;description&quot; : &quot;★ Wolf of Wilderness Dry Dog Food&quot;,
+      &quot;extId&quot; : 196880,
+      &quot;level&quot; : 4,
+      &quot;path&quot; : &quot;/shop/dogs/dry_dog_food/wolf_of_wilderness&quot;,
+      &quot;title&quot; : &quot;★ Wolf of Wilderness&quot;,
+      &quot;type&quot; : &quot;ANIMAL&quot;,
+      &quot;whitespaceAfter&quot; : 1
+    } ],
+    &quot;description&quot; : &quot;Dry Dog Food&quot;,
+    &quot;extId&quot; : 3326,
+    &quot;level&quot; : 3,
+    &quot;path&quot; : &quot;/shop/dogs/dry_dog_food&quot;,
+    &quot;pictureFile&quot; : &quot;Dog_Dryfood_1000x1000_3.jpg&quot;,
+    &quot;title&quot; : &quot;Dry Dog Food&quot;,
+    &quot;type&quot; : &quot;ANIMAL&quot;,
+    &quot;whitespaceAfter&quot; : 0
+  }, {
+    &quot;animalType&quot; : &quot;DOGS&quot;,
+    &quot;children&quot; : [ {
+      &quot;animalType&quot; : &quot;DOGS&quot;,
+      &quot;description&quot; : &quot;Applaws Natural Dog Food&quot;,
+      &quot;extId&quot; : 13335,
+      &quot;level&quot; : 4,
+      &quot;path&quot; : &quot;/shop/dogs/wet_dog_food/applaws&quot;,
+      &quot;title&quot; : &quot;Applaws&quot;,
+      &quot;type&quot; : &quot;ANIMAL&quot;,
+      &quot;whitespaceAfter&quot; : 0
+    }, {
+      &quot;animalType&quot; : &quot;DOGS&quot;,
+      &quot;description&quot; : &quot;Arden Grange Wet Dog Food&quot;,
+      &quot;extId&quot; : 46076,
+      &quot;level&quot; : 4,
+      &quot;path&quot; : &quot;/shop/dogs/wet_dog_food/arden_grange&quot;,
+      &quot;title&quot; : &quot;Arden Grange&quot;,
+      &quot;type&quot; : &quot;ANIMAL&quot;,
+      &quot;whitespaceAfter&quot; : 0
+    }, {
+      &quot;animalType&quot; : &quot;DOGS&quot;,
+      &quot;description&quot; : &quot;Forthglade Wet Dog Food&quot;,
+      &quot;extId&quot; : 233573,
+      &quot;level&quot; : 4,
+      &quot;path&quot; : &quot;/shop/dogs/wet_dog_food/forthglade&quot;,
+      &quot;title&quot; : &quot;Forthglade&quot;,
+      &quot;type&quot; : &quot;ANIMAL&quot;,
+      &quot;whitespaceAfter&quot; : 0
+    }, {
+      &quot;animalType&quot; : &quot;DOGS&quot;,
+      &quot;description&quot; : &quot;Hill's Prescription Diet Wet Dog Food&quot;,
+      &quot;extId&quot; : 182044,
+      &quot;level&quot; : 4,
+      &quot;path&quot; : &quot;/shop/dogs/wet_dog_food/hills_prescription_diet&quot;,
+      &quot;title&quot; : &quot;Hill's Prescription Diet&quot;,
+      &quot;type&quot; : &quot;ANIMAL&quot;,
+      &quot;whitespaceAfter&quot; : 0
+    }, {
+      &quot;animalType&quot; : &quot;DOGS&quot;,
+      &quot;description&quot; : &quot;Hill's Science Plan Wet Dog Food&quot;,
+      &quot;extId&quot; : 3430,
+      &quot;level&quot; : 4,
+      &quot;path&quot; : &quot;/shop/dogs/wet_dog_food/hills_science_plan&quot;,
+      &quot;title&quot; : &quot;Hill's Science Plan&quot;,
+      &quot;type&quot; : &quot;ANIMAL&quot;,
+      &quot;whitespaceAfter&quot; : 0
+    }, {
+      &quot;animalType&quot; : &quot;DOGS&quot;,
+      &quot;description&quot; : &quot;James Wellbeloved Wet Dog Food&quot;,
+      &quot;extId&quot; : 107827,
+      &quot;level&quot; : 4,
+      &quot;path&quot; : &quot;/shop/dogs/wet_dog_food/jameswellbeloved&quot;,
+      &quot;title&quot; : &quot;James Wellbeloved&quot;,
+      &quot;type&quot; : &quot;ANIMAL&quot;,
+      &quot;whitespaceAfter&quot; : 0
+    }, {
+      &quot;animalType&quot; : &quot;DOGS&quot;,
+      &quot;description&quot; : &quot;Lily's Kitchen Wet Dog Food&quot;,
+      &quot;extId&quot; : 120296,
+      &quot;level&quot; : 4,
+      &quot;path&quot; : &quot;/shop/dogs/wet_dog_food/lilys_kitchen_wet_dog_food&quot;,
+      &quot;title&quot; : &quot;Lily's Kitchen&quot;,
+      &quot;type&quot; : &quot;ANIMAL&quot;,
+      &quot;whitespaceAfter&quot; : 0
+    }, {
+      &quot;animalType&quot; : &quot;DOGS&quot;,
+      &quot;description&quot; : &quot;★ Lukullus Dog Food&quot;,
+      &quot;extId&quot; : 14876,
+      &quot;level&quot; : 4,
+      &quot;path&quot; : &quot;/shop/dogs/wet_dog_food/lukullus&quot;,
+      &quot;title&quot; : &quot;★ Lukullus&quot;,
+      &quot;type&quot; : &quot;ANIMAL&quot;,
+      &quot;whitespaceAfter&quot; : 0
+    }, {
+      &quot;animalType&quot; : &quot;DOGS&quot;,
+      &quot;description&quot; : &quot;★ Rocco Dog Food&quot;,
+      &quot;extId&quot; : 7880,
+      &quot;level&quot; : 4,
+      &quot;path&quot; : &quot;/shop/dogs/wet_dog_food/rocco&quot;,
+      &quot;title&quot; : &quot;★ Rocco&quot;,
+      &quot;type&quot; : &quot;ANIMAL&quot;,
+      &quot;whitespaceAfter&quot; : 0
+    }, {
+      &quot;animalType&quot; : &quot;DOGS&quot;,
+      &quot;description&quot; : &quot;★ Rosie's Farm Wet Dog Food&quot;,
+      &quot;extId&quot; : 353369,
+      &quot;level&quot; : 4,
+      &quot;path&quot; : &quot;/shop/dogs/wet_dog_food/rosies_farm&quot;,
+      &quot;title&quot; : &quot;★ Rosie's Farm&quot;,
+      &quot;type&quot; : &quot;ANIMAL&quot;,
+      &quot;whitespaceAfter&quot; : 0
+    }, {
+      &quot;animalType&quot; : &quot;DOGS&quot;,
+      &quot;description&quot; : &quot;Royal Canin Wet Dog Food&quot;,
+      &quot;extId&quot; : 109462,
+      &quot;level&quot; : 4,
+      &quot;path&quot; : &quot;/shop/dogs/wet_dog_food/royal_canin_wet_dog_food&quot;,
+      &quot;title&quot; : &quot;Royal Canin&quot;,
+      &quot;type&quot; : &quot;ANIMAL&quot;,
+      &quot;whitespaceAfter&quot; : 0
+    }, {
+      &quot;animalType&quot; : &quot;DOGS&quot;,
+      &quot;description&quot; : &quot;Royal Canin Veterinary Diet Wet Dog Food&quot;,
+      &quot;extId&quot; : 243267,
+      &quot;level&quot; : 4,
+      &quot;path&quot; : &quot;/shop/dogs/wet_dog_food/royal_canin_veterinary&quot;,
+      &quot;title&quot; : &quot;Royal Canin Veterinary Diet&quot;,
+      &quot;type&quot; : &quot;ANIMAL&quot;,
+      &quot;whitespaceAfter&quot; : 0
+    }, {
+      &quot;animalType&quot; : &quot;DOGS&quot;,
+      &quot;description&quot; : &quot;★ Wolf of Wilderness Dog Food&quot;,
+      &quot;extId&quot; : 196918,
+      &quot;level&quot; : 4,
+      &quot;path&quot; : &quot;/shop/dogs/wet_dog_food/wolf_of_wilderness&quot;,
+      &quot;title&quot; : &quot;★ Wolf of Wilderness&quot;,
+      &quot;type&quot; : &quot;ANIMAL&quot;,
+      &quot;whitespaceAfter&quot; : 1
+    } ],
+    &quot;description&quot; : &quot;Wet Dog Food: Cans and Pouches&quot;,
+    &quot;extId&quot; : 3327,
+    &quot;level&quot; : 3,
+    &quot;path&quot; : &quot;/shop/dogs/wet_dog_food&quot;,
+    &quot;pictureFile&quot; : &quot;Dog_Wetfood_1000x1000_2.jpg&quot;,
+    &quot;title&quot; : &quot;Wet Dog Food&quot;,
+    &quot;type&quot; : &quot;ANIMAL&quot;,
+    &quot;whitespaceAfter&quot; : 0
+  }, {
+    &quot;animalType&quot; : &quot;DOGS&quot;,
+    &quot;description&quot; : &quot;Dog Treats &amp; Dog Bones&quot;,
+    &quot;extId&quot; : 3331,
+    &quot;level&quot; : 3,
+    &quot;path&quot; : &quot;/shop/dogs/dog_treats_chews&quot;,
+    &quot;pictureFile&quot; : &quot;Dog_Snacks_1000x1000_1.jpg&quot;,
+    &quot;title&quot; : &quot;Dog Treats &amp; Dog Bones&quot;,
+    &quot;type&quot; : &quot;ANIMAL&quot;,
+    &quot;whitespaceAfter&quot; : 0
+  }, {
+    &quot;animalType&quot; : &quot;DOGS&quot;,
+    &quot;description&quot; : &quot;★ Exclusive Dog Food &amp; Treats&quot;,
+    &quot;extId&quot; : 361784,
+    &quot;level&quot; : 3,
+    &quot;path&quot; : &quot;/shop/dogs/exclusive_dog_food_treats&quot;,
+    &quot;pictureFile&quot; : &quot;ExclusiveDog_Prod_1000x1000_UK_1.jpg&quot;,
+    &quot;title&quot; : &quot;★ Exclusive Dog Food &amp; Treats&quot;,
+    &quot;type&quot; : &quot;ANIMAL&quot;,
+    &quot;whitespaceAfter&quot; : 0
+  }, {
+    &quot;animalType&quot; : &quot;DOGS&quot;,
+    &quot;description&quot; : &quot;Dog Specialist Diets &amp; Supplements&quot;,
+    &quot;extId&quot; : 50323,
+    &quot;level&quot; : 3,
+    &quot;path&quot; : &quot;/shop/dogs/dog_health&quot;,
+    &quot;pictureFile&quot; : &quot;Dog_Supplements_1000x1000_UK_1.jpg&quot;,
+    &quot;title&quot; : &quot;Dog Specialist Diets &amp; Supplements&quot;,
+    &quot;type&quot; : &quot;ANIMAL&quot;,
+    &quot;whitespaceAfter&quot; : 0
+  }, {
+    &quot;animalType&quot; : &quot;DOGS&quot;,
+    &quot;description&quot; : &quot;Dog Beds &amp; Dog Baskets&quot;,
+    &quot;extId&quot; : 10794,
+    &quot;level&quot; : 3,
+    &quot;path&quot; : &quot;/shop/dogs/dog_beds_baskets&quot;,
+    &quot;pictureFile&quot; : &quot;Dog_Beds_1000x1000_1.jpg&quot;,
+    &quot;title&quot; : &quot;Dog Beds &amp; Dog Baskets&quot;,
+    &quot;type&quot; : &quot;ANIMAL&quot;,
+    &quot;whitespaceAfter&quot; : 0
+  }, {
+    &quot;animalType&quot; : &quot;DOGS&quot;,
+    &quot;description&quot; : &quot;Dog Leads &amp; Collars&quot;,
+    &quot;extId&quot; : 3426,
+    &quot;level&quot; : 3,
+    &quot;path&quot; : &quot;/shop/dogs/dog_collars_dog_leads&quot;,
+    &quot;pictureFile&quot; : &quot;Dog_Leads_Collars_1000x1000_1.jpg&quot;,
+    &quot;title&quot; : &quot;Dog Leads &amp; Dog Collars&quot;,
+    &quot;type&quot; : &quot;ANIMAL&quot;,
+    &quot;whitespaceAfter&quot; : 0
+  }, {
+    &quot;animalType&quot; : &quot;DOGS&quot;,
+    &quot;description&quot; : &quot;Dog Toys &amp; Sports Accessories&quot;,
+    &quot;extId&quot; : 10796,
+    &quot;level&quot; : 3,
+    &quot;path&quot; : &quot;/shop/dogs/dog_toys_dog_training&quot;,
+    &quot;pictureFile&quot; : &quot;Dog_Toys_Sports_Acc_1000x1000_1.jpg&quot;,
+    &quot;title&quot; : &quot;Dog Toys &amp; Sports Accessories&quot;,
+    &quot;type&quot; : &quot;ANIMAL&quot;,
+    &quot;whitespaceAfter&quot; : 0
+  }, {
+    &quot;animalType&quot; : &quot;DOGS&quot;,
+    &quot;description&quot; : &quot;Dog Grooming &amp; Care&quot;,
+    &quot;extId&quot; : 3427,
+    &quot;level&quot; : 3,
+    &quot;path&quot; : &quot;/shop/dogs/dog_grooming_care&quot;,
+    &quot;pictureFile&quot; : &quot;Dog_Grooming_Care_1000x1000_1.jpg&quot;,
+    &quot;title&quot; : &quot;Dog Grooming &amp; Care&quot;,
+    &quot;type&quot; : &quot;ANIMAL&quot;,
+    &quot;whitespaceAfter&quot; : 0
+  }, {
+    &quot;animalType&quot; : &quot;DOGS&quot;,
+    &quot;description&quot; : &quot;Dog Bowls &amp; Feeders&quot;,
+    &quot;extId&quot; : 3425,
+    &quot;level&quot; : 3,
+    &quot;path&quot; : &quot;/shop/dogs/dog_bowls_feeders&quot;,
+    &quot;pictureFile&quot; : &quot;Dog_Bowls_1000x1000_1.jpg&quot;,
+    &quot;title&quot; : &quot;Dog Bowls &amp; Feeders&quot;,
+    &quot;type&quot; : &quot;ANIMAL&quot;,
+    &quot;whitespaceAfter&quot; : 0
+  }, {
+    &quot;animalType&quot; : &quot;DOGS&quot;,
+    &quot;description&quot; : &quot;Dog Crates &amp; Dog Travel&quot;,
+    &quot;extId&quot; : 10795,
+    &quot;level&quot; : 3,
+    &quot;path&quot; : &quot;/shop/dogs/dog_cages_carriers&quot;,
+    &quot;pictureFile&quot; : &quot;Dog_Transport_1000x1000_7.jpg&quot;,
+    &quot;title&quot; : &quot;Dog Crates &amp; Dog Travel&quot;,
+    &quot;type&quot; : &quot;ANIMAL&quot;,
+    &quot;whitespaceAfter&quot; : 0
+  }, {
+    &quot;animalType&quot; : &quot;DOGS&quot;,
+    &quot;description&quot; : &quot;Dog Houses, Flaps &amp; Gates&quot;,
+    &quot;extId&quot; : 10797,
+    &quot;level&quot; : 3,
+    &quot;path&quot; : &quot;/shop/dogs/dog_kennels_flaps&quot;,
+    &quot;pictureFile&quot; : &quot;Dog_Kennel_1000x1000_1.jpg&quot;,
+    &quot;title&quot; : &quot;Dog Kennels &amp; Flaps&quot;,
+    &quot;type&quot; : &quot;ANIMAL&quot;,
+    &quot;whitespaceAfter&quot; : 0
+  }, {
+    &quot;animalType&quot; : &quot;DOGS&quot;,
+    &quot;description&quot; : &quot;Dog Clothing&quot;,
+    &quot;extId&quot; : 43886,
+    &quot;level&quot; : 3,
+    &quot;path&quot; : &quot;/shop/dogs/dog_clothing&quot;,
+    &quot;pictureFile&quot; : &quot;Dog_Clothing_1000x1000_1.jpg&quot;,
+    &quot;title&quot; : &quot;Dog Clothing&quot;,
+    &quot;type&quot; : &quot;ANIMAL&quot;,
+    &quot;whitespaceAfter&quot; : 0
+  }, {
+    &quot;animalType&quot; : &quot;DOGS&quot;,
+    &quot;description&quot; : &quot;Dog Agility &amp; Training Accessories&quot;,
+    &quot;extId&quot; : 107869,
+    &quot;level&quot; : 3,
+    &quot;path&quot; : &quot;/shop/dogs/agility_training&quot;,
+    &quot;pictureFile&quot; : &quot;Dog_Sport_1000x1000_1.jpg&quot;,
+    &quot;title&quot; : &quot;Dog Agility &amp; Training Accessories&quot;,
+    &quot;type&quot; : &quot;ANIMAL&quot;,
+    &quot;whitespaceAfter&quot; : 0
+  }, {
+    &quot;animalType&quot; : &quot;DOGS&quot;,
+    &quot;description&quot; : &quot;Puppy Products&quot;,
+    &quot;extId&quot; : 46984,
+    &quot;level&quot; : 3,
+    &quot;path&quot; : &quot;/shop/dogs/puppy_products&quot;,
+    &quot;pictureFile&quot; : &quot;Puppy_Junior_1000x1000_1.jpg&quot;,
+    &quot;title&quot; : &quot;Puppy Products&quot;,
+    &quot;type&quot; : &quot;ANIMAL&quot;,
+    &quot;whitespaceAfter&quot; : 0
+  } ],
+  &quot;description&quot; : &quot;Dog Food &amp; Dog Supplies &amp; Accessories&quot;,
+  &quot;extId&quot; : 3317,
+  &quot;level&quot; : 2,
+  &quot;path&quot; : &quot;/shop/dogs&quot;,
+  &quot;pictureFile&quot; : &quot;Dog_adult_1000x1000px_1.jpg&quot;,
+  &quot;specials&quot; : [ {
+    &quot;animalType&quot; : &quot;DOGS&quot;,
+    &quot;description&quot; : &quot;Special Offers: Dog Supplies&quot;,
+    &quot;extId&quot; : 4908,
+    &quot;level&quot; : 4,
+    &quot;path&quot; : &quot;/specials/dogs/special_offers/food/34874&quot;,
+    &quot;pictureFile&quot; : &quot;Dog_Seasonal_1000x1000_2.jpg&quot;,
+    &quot;title&quot; : &quot;Dog Special Offers&quot;,
+    &quot;type&quot; : &quot;SPECIAL_OFFERS&quot;,
+    &quot;whitespaceAfter&quot; : 0
+  }, {
+    &quot;animalType&quot; : &quot;DOGS&quot;,
+    &quot;description&quot; : &quot;Dog  Food &amp; Snacks Trial Packs&quot;,
+    &quot;extId&quot; : 80010,
+    &quot;level&quot; : 3,
+    &quot;path&quot; : &quot;/specials/dogs/trial_specials&quot;,
+    &quot;pictureFile&quot; : &quot;Trialpacks_Dry_D_1000x1000_3.jpg&quot;,
+    &quot;title&quot; : &quot;Dog Trial Packs&quot;,
+    &quot;type&quot; : &quot;TRIAL_OFFERS&quot;,
+    &quot;whitespaceAfter&quot; : 0
+  }, {
+    &quot;animalType&quot; : &quot;DOGS&quot;,
+    &quot;description&quot; : &quot;Dog Supplies – New &amp; Seasonal Products&quot;,
+    &quot;extId&quot; : 4906,
+    &quot;level&quot; : 3,
+    &quot;path&quot; : &quot;/specials/dogs/new_products&quot;,
+    &quot;pictureFile&quot; : &quot;Xmas_LP_Grids_Pet_D_1000x1000_INT_1.jpg&quot;,
+    &quot;title&quot; : &quot;New &amp; Seasonal Products&quot;,
+    &quot;type&quot; : &quot;NEW_PRODUCTS&quot;,
+    &quot;whitespaceAfter&quot; : 0
+  } ],
+  &quot;title&quot; : &quot;Dog&quot;,
+  &quot;type&quot; : &quot;ANIMAL&quot;,
+  &quot;whitespaceAfter&quot; : 0
+}, {
+  &quot;animalType&quot; : &quot;CATS&quot;,
+  &quot;children&quot; : [ {
+    &quot;animalType&quot; : &quot;CATS&quot;,
+    &quot;children&quot; : [ {
+      &quot;animalType&quot; : &quot;CATS&quot;,
+      &quot;description&quot; : &quot;Applaws&quot;,
+      &quot;extId&quot; : 23584,
+      &quot;level&quot; : 4,
+      &quot;path&quot; : &quot;/shop/cats/dry_cat_food/applaws&quot;,
+      &quot;title&quot; : &quot;Applaws&quot;,
+      &quot;type&quot; : &quot;ANIMAL&quot;,
+      &quot;whitespaceAfter&quot; : 0
+    }, {
+      &quot;animalType&quot; : &quot;CATS&quot;,
+      &quot;description&quot; : &quot;★ Concept for Life&quot;,
+      &quot;extId&quot; : 213972,
+      &quot;level&quot; : 4,
+      &quot;path&quot; : &quot;/shop/cats/dry_cat_food/concept_for_life_cat_dry&quot;,
+      &quot;title&quot; : &quot;★ Concept for Life&quot;,
+      &quot;type&quot; : &quot;ANIMAL&quot;,
+      &quot;whitespaceAfter&quot; : 0
+    }, {
+      &quot;animalType&quot; : &quot;CATS&quot;,
+      &quot;description&quot; : &quot;Hill's Feline Prescription Diet Cat Food&quot;,
+      &quot;extId&quot; : 34642,
+      &quot;level&quot; : 4,
+      &quot;path&quot; : &quot;/shop/cats/dry_cat_food/hills_prescription&quot;,
+      &quot;title&quot; : &quot;Hill's Prescription Diet&quot;,
+      &quot;type&quot; : &quot;ANIMAL&quot;,
+      &quot;whitespaceAfter&quot; : 0
+    }, {
+      &quot;animalType&quot; : &quot;CATS&quot;,
+      &quot;description&quot; : &quot;Hill's Science Plan Dry Cat Food&quot;,
+      &quot;extId&quot; : 3404,
+      &quot;level&quot; : 4,
+      &quot;path&quot; : &quot;/shop/cats/dry_cat_food/hills_feline&quot;,
+      &quot;title&quot; : &quot;Hill's Science Plan&quot;,
+      &quot;type&quot; : &quot;ANIMAL&quot;,
+      &quot;whitespaceAfter&quot; : 0
+    }, {
+      &quot;animalType&quot; : &quot;CATS&quot;,
+      &quot;description&quot; : &quot;IAMS&nbsp;Cat Food&quot;,
+      &quot;extId&quot; : 3341,
+      &quot;level&quot; : 4,
+      &quot;path&quot; : &quot;/shop/cats/dry_cat_food/iams&quot;,
+      &quot;title&quot; : &quot;IAMS&quot;,
+      &quot;type&quot; : &quot;ANIMAL&quot;,
+      &quot;whitespaceAfter&quot; : 0
+    }, {
+      &quot;animalType&quot; : &quot;CATS&quot;,
+      &quot;description&quot; : &quot;James Wellbeloved Dry Cat Food&quot;,
+      &quot;extId&quot; : 17626,
+      &quot;level&quot; : 4,
+      &quot;path&quot; : &quot;/shop/cats/dry_cat_food/wellbeloved_catfood&quot;,
+      &quot;title&quot; : &quot;James Wellbeloved&quot;,
+      &quot;type&quot; : &quot;ANIMAL&quot;,
+      &quot;whitespaceAfter&quot; : 0
+    }, {
+      &quot;animalType&quot; : &quot;CATS&quot;,
+      &quot;description&quot; : &quot;Purina ONE Cat Food&quot;,
+      &quot;extId&quot; : 43301,
+      &quot;level&quot; : 4,
+      &quot;path&quot; : &quot;/shop/cats/dry_cat_food/purina_one&quot;,
+      &quot;title&quot; : &quot;Purina ONE&quot;,
+      &quot;type&quot; : &quot;ANIMAL&quot;,
+      &quot;whitespaceAfter&quot; : 0
+    }, {
+      &quot;animalType&quot; : &quot;CATS&quot;,
+      &quot;description&quot; : &quot;★ Purizon Cat Food&quot;,
+      &quot;extId&quot; : 90800,
+      &quot;level&quot; : 4,
+      &quot;path&quot; : &quot;/shop/cats/dry_cat_food/purizon&quot;,
+      &quot;title&quot; : &quot;★ Purizon&quot;,
+      &quot;type&quot; : &quot;ANIMAL&quot;,
+      &quot;whitespaceAfter&quot; : 0
+    }, {
+      &quot;animalType&quot; : &quot;CATS&quot;,
+      &quot;description&quot; : &quot;Royal Canin Feline &quot;,
+      &quot;extId&quot; : 3398,
+      &quot;level&quot; : 4,
+      &quot;path&quot; : &quot;/shop/cats/dry_cat_food/royal_canin&quot;,
+      &quot;title&quot; : &quot;Royal Canin Feline&quot;,
+      &quot;type&quot; : &quot;ANIMAL&quot;,
+      &quot;whitespaceAfter&quot; : 0
+    }, {
+      &quot;animalType&quot; : &quot;CATS&quot;,
+      &quot;description&quot; : &quot;Royal Canin Veterinary Diet&quot;,
+      &quot;extId&quot; : 85520,
+      &quot;level&quot; : 4,
+      &quot;path&quot; : &quot;/shop/cats/dry_cat_food/royal_canin_feline_vet_diet&quot;,
+      &quot;title&quot; : &quot;Royal Canin Veterinary Diet&quot;,
+      &quot;type&quot; : &quot;ANIMAL&quot;,
+      &quot;whitespaceAfter&quot; : 0
+    }, {
+      &quot;animalType&quot; : &quot;CATS&quot;,
+      &quot;description&quot; : &quot;Sanabelle&quot;,
+      &quot;extId&quot; : 3728,
+      &quot;level&quot; : 4,
+      &quot;path&quot; : &quot;/shop/cats/dry_cat_food/sanabelle&quot;,
+      &quot;title&quot; : &quot;Sanabelle&quot;,
+      &quot;type&quot; : &quot;ANIMAL&quot;,
+      &quot;whitespaceAfter&quot; : 0
+    }, {
+      &quot;animalType&quot; : &quot;CATS&quot;,
+      &quot;description&quot; : &quot;★ Wild Freedom Dry Cat Food&quot;,
+      &quot;extId&quot; : 290164,
+      &quot;level&quot; : 4,
+      &quot;path&quot; : &quot;/shop/cats/dry_cat_food/wild_freedom&quot;,
+      &quot;title&quot; : &quot;★ Wild Freedom&quot;,
+      &quot;type&quot; : &quot;ANIMAL&quot;,
+      &quot;whitespaceAfter&quot; : 1
+    } ],
+    &quot;description&quot; : &quot;Dry Cat Food&quot;,
+    &quot;extId&quot; : 3325,
+    &quot;level&quot; : 3,
+    &quot;path&quot; : &quot;/shop/cats/dry_cat_food&quot;,
+    &quot;pictureFile&quot; : &quot;Cat_Dryfood_1000x1000_1.jpg&quot;,
+    &quot;title&quot; : &quot;Dry Cat Food&quot;,
+    &quot;type&quot; : &quot;ANIMAL&quot;,
+    &quot;whitespaceAfter&quot; : 0
+  }, {
+    &quot;animalType&quot; : &quot;CATS&quot;,
+    &quot;children&quot; : [ {
+      &quot;animalType&quot; : &quot;CATS&quot;,
+      &quot;description&quot; : &quot;Animonda Carny Cat Food&quot;,
+      &quot;extId&quot; : 37839,
+      &quot;level&quot; : 4,
+      &quot;path&quot; : &quot;/shop/cats/canned_cat_food_pouches/rafine&quot;,
+      &quot;title&quot; : &quot;Animonda Carny&quot;,
+      &quot;type&quot; : &quot;ANIMAL&quot;,
+      &quot;whitespaceAfter&quot; : 0
+    }, {
+      &quot;animalType&quot; : &quot;CATS&quot;,
+      &quot;description&quot; : &quot;Applaws Wet Cat Food&quot;,
+      &quot;extId&quot; : 13334,
+      &quot;level&quot; : 4,
+      &quot;path&quot; : &quot;/shop/cats/canned_cat_food_pouches/applaws&quot;,
+      &quot;title&quot; : &quot;Applaws&quot;,
+      &quot;type&quot; : &quot;ANIMAL&quot;,
+      &quot;whitespaceAfter&quot; : 0
+    }, {
+      &quot;animalType&quot; : &quot;CATS&quot;,
+      &quot;description&quot; : &quot;Bozita Cat Food&quot;,
+      &quot;extId&quot; : 9418,
+      &quot;level&quot; : 4,
+      &quot;path&quot; : &quot;/shop/cats/canned_cat_food_pouches/bozita&quot;,
+      &quot;title&quot; : &quot;Bozita&quot;,
+      &quot;type&quot; : &quot;ANIMAL&quot;,
+      &quot;whitespaceAfter&quot; : 0
+    }, {
+      &quot;animalType&quot; : &quot;CATS&quot;,
+      &quot;description&quot; : &quot;★ Cosma Cat Food&quot;,
+      &quot;extId&quot; : 3345,
+      &quot;level&quot; : 4,
+      &quot;path&quot; : &quot;/shop/cats/canned_cat_food_pouches/cosma&quot;,
+      &quot;title&quot; : &quot;★ Cosma&quot;,
+      &quot;type&quot; : &quot;ANIMAL&quot;,
+      &quot;whitespaceAfter&quot; : 0
+    }, {
+      &quot;animalType&quot; : &quot;CATS&quot;,
+      &quot;description&quot; : &quot;Felix Cat Food&quot;,
+      &quot;extId&quot; : 4853,
+      &quot;level&quot; : 4,
+      &quot;path&quot; : &quot;/shop/cats/canned_cat_food_pouches/felix&quot;,
+      &quot;title&quot; : &quot;Felix&quot;,
+      &quot;type&quot; : &quot;ANIMAL&quot;,
+      &quot;whitespaceAfter&quot; : 0
+    }, {
+      &quot;animalType&quot; : &quot;CATS&quot;,
+      &quot;description&quot; : &quot;★ Feringa Cat Food&quot;,
+      &quot;extId&quot; : 89312,
+      &quot;level&quot; : 4,
+      &quot;path&quot; : &quot;/shop/cats/canned_cat_food_pouches/feringa_wet_cat_food&quot;,
+      &quot;title&quot; : &quot;★ Feringa&quot;,
+      &quot;type&quot; : &quot;ANIMAL&quot;,
+      &quot;whitespaceAfter&quot; : 0
+    }, {
+      &quot;animalType&quot; : &quot;CATS&quot;,
+      &quot;description&quot; : &quot;Gourmet Gold Cat Food&quot;,
+      &quot;extId&quot; : 15593,
+      &quot;level&quot; : 4,
+      &quot;path&quot; : &quot;/shop/cats/canned_cat_food_pouches/gourmet&quot;,
+      &quot;title&quot; : &quot;Gourmet Gold&quot;,
+      &quot;type&quot; : &quot;ANIMAL&quot;,
+      &quot;whitespaceAfter&quot; : 0
+    }, {
+      &quot;animalType&quot; : &quot;CATS&quot;,
+      &quot;description&quot; : &quot;Gourmet Perle/ Mon Petit/ À La Carte&quot;,
+      &quot;extId&quot; : 272806,
+      &quot;level&quot; : 4,
+      &quot;path&quot; : &quot;/shop/cats/canned_cat_food_pouches/gourmet_wet&quot;,
+      &quot;title&quot; : &quot;Gourmet Perle/ Mon Petit/ À La Carte&quot;,
+      &quot;type&quot; : &quot;ANIMAL&quot;,
+      &quot;whitespaceAfter&quot; : 0
+    }, {
+      &quot;animalType&quot; : &quot;CATS&quot;,
+      &quot;description&quot; : &quot;Hill's Prescription Diet Wet Cat Food&quot;,
+      &quot;extId&quot; : 40112,
+      &quot;level&quot; : 4,
+      &quot;path&quot; : &quot;/shop/cats/canned_cat_food_pouches/hills_prescription&quot;,
+      &quot;title&quot; : &quot;Hill's Prescription Diet&quot;,
+      &quot;type&quot; : &quot;ANIMAL&quot;,
+      &quot;whitespaceAfter&quot; : 0
+    }, {
+      &quot;animalType&quot; : &quot;CATS&quot;,
+      &quot;description&quot; : &quot;★ Rosie's Farm Wet Cat Food&quot;,
+      &quot;extId&quot; : 366027,
+      &quot;level&quot; : 4,
+      &quot;path&quot; : &quot;/shop/cats/canned_cat_food_pouches/rosies_farm&quot;,
+      &quot;title&quot; : &quot;★ Rosie's Farm&quot;,
+      &quot;type&quot; : &quot;ANIMAL&quot;,
+      &quot;whitespaceAfter&quot; : 0
+    }, {
+      &quot;animalType&quot; : &quot;CATS&quot;,
+      &quot;description&quot; : &quot;Royal Canin Wet Cat Food&quot;,
+      &quot;extId&quot; : 23007,
+      &quot;level&quot; : 4,
+      &quot;path&quot; : &quot;/shop/cats/canned_cat_food_pouches/royal_canin_cat_food&quot;,
+      &quot;title&quot; : &quot;Royal Canin&quot;,
+      &quot;type&quot; : &quot;ANIMAL&quot;,
+      &quot;whitespaceAfter&quot; : 0
+    }, {
+      &quot;animalType&quot; : &quot;CATS&quot;,
+      &quot;description&quot; : &quot;Royal Canin Veterinary Diet Wet Cat Food&quot;,
+      &quot;extId&quot; : 217599,
+      &quot;level&quot; : 4,
+      &quot;path&quot; : &quot;/shop/cats/canned_cat_food_pouches/royal_canin_vet_diet_wet_cat&quot;,
+      &quot;title&quot; : &quot;Royal Canin Veterinary Diet&quot;,
+      &quot;type&quot; : &quot;ANIMAL&quot;,
+      &quot;whitespaceAfter&quot; : 0
+    }, {
+      &quot;animalType&quot; : &quot;CATS&quot;,
+      &quot;description&quot; : &quot;Whiskas Cat Food&quot;,
+      &quot;extId&quot; : 3369,
+      &quot;level&quot; : 4,
+      &quot;path&quot; : &quot;/shop/cats/canned_cat_food_pouches/whiskas&quot;,
+      &quot;pictureFile&quot; : &quot;whiskas_logo_1.gif&quot;,
+      &quot;title&quot; : &quot;Whiskas&quot;,
+      &quot;type&quot; : &quot;ANIMAL&quot;,
+      &quot;whitespaceAfter&quot; : 1
+    } ],
+    &quot;description&quot; : &quot;Wet Cat Food - Cans, Pouches and Trays&quot;,
+    &quot;extId&quot; : 3335,
+    &quot;level&quot; : 3,
+    &quot;path&quot; : &quot;/shop/cats/canned_cat_food_pouches&quot;,
+    &quot;pictureFile&quot; : &quot;Cat_Wetfood_1000x1000_1.jpg&quot;,
+    &quot;title&quot; : &quot;Wet Cat Food&quot;,
+    &quot;type&quot; : &quot;ANIMAL&quot;,
+    &quot;whitespaceAfter&quot; : 0
+  }, {
+    &quot;animalType&quot; : &quot;CATS&quot;,
+    &quot;description&quot; : &quot;Cat Litter&quot;,
+    &quot;extId&quot; : 6465,
+    &quot;level&quot; : 3,
+    &quot;path&quot; : &quot;/shop/cats/cat_litter&quot;,
+    &quot;pictureFile&quot; : &quot;Cat_Litter_1000x1000_4.jpg&quot;,
+    &quot;title&quot; : &quot;Cat Litter&quot;,
+    &quot;type&quot; : &quot;ANIMAL&quot;,
+    &quot;whitespaceAfter&quot; : 0
+  }, {
+    &quot;animalType&quot; : &quot;CATS&quot;,
+    &quot;description&quot; : &quot;★ Exclusive Cat Food, Litter &amp; Treats&quot;,
+    &quot;extId&quot; : 361855,
+    &quot;level&quot; : 3,
+    &quot;path&quot; : &quot;/shop/cats/exclusive_cat_food_treats&quot;,
+    &quot;pictureFile&quot; : &quot;ExclusiveCat_Prod_1000x1000_UK_1.jpg&quot;,
+    &quot;title&quot; : &quot;★ Exclusive Cat Food, Litter &amp; Treats&quot;,
+    &quot;type&quot; : &quot;ANIMAL&quot;,
+    &quot;whitespaceAfter&quot; : 0
+  }, {
+    &quot;animalType&quot; : &quot;CATS&quot;,
+    &quot;description&quot; : &quot;Cat Litter Boxes &amp; Litter Trays&quot;,
+    &quot;extId&quot; : 3438,
+    &quot;level&quot; : 3,
+    &quot;path&quot; : &quot;/shop/cats/cat_litter_litter_boxes&quot;,
+    &quot;pictureFile&quot; : &quot;Cat_Toilet_1000x1000_1.jpg&quot;,
+    &quot;title&quot; : &quot;Cat Litter Boxes &amp; Litter Trays&quot;,
+    &quot;type&quot; : &quot;ANIMAL&quot;,
+    &quot;whitespaceAfter&quot; : 0
+  }, {
+    &quot;animalType&quot; : &quot;CATS&quot;,
+    &quot;description&quot; : &quot;Cat Trees &amp; Cat Scratching Posts&quot;,
+    &quot;extId&quot; : 3419,
+    &quot;level&quot; : 3,
+    &quot;path&quot; : &quot;/shop/cats/scratching_posts&quot;,
+    &quot;pictureFile&quot; : &quot;Cat_Scratchtree_1000x1000_1.jpg&quot;,
+    &quot;title&quot; : &quot;Cat Trees &amp; Cat Scratching Posts&quot;,
+    &quot;type&quot; : &quot;ANIMAL&quot;,
+    &quot;whitespaceAfter&quot; : 0
+  }, {
+    &quot;animalType&quot; : &quot;CATS&quot;,
+    &quot;description&quot; : &quot;Cat Treats&quot;,
+    &quot;extId&quot; : 10799,
+    &quot;level&quot; : 3,
+    &quot;path&quot; : &quot;/shop/cats/cat_treats_catnip&quot;,
+    &quot;pictureFile&quot; : &quot;Cat_Snacks_1000x1000_1.jpg&quot;,
+    &quot;title&quot; : &quot;Cat Treats&quot;,
+    &quot;type&quot; : &quot;ANIMAL&quot;,
+    &quot;whitespaceAfter&quot; : 0
+  }, {
+    &quot;animalType&quot; : &quot;CATS&quot;,
+    &quot;description&quot; : &quot;Cat Specialist Diets &amp; Supplements&quot;,
+    &quot;extId&quot; : 10798,
+    &quot;level&quot; : 3,
+    &quot;path&quot; : &quot;/shop/cats/supplements_specialty_cat_food&quot;,
+    &quot;pictureFile&quot; : &quot;Cat_Supplements_SpecialDiet_1000x1000_1.jpg&quot;,
+    &quot;title&quot; : &quot;Cat Specialist Diets &amp; Supplements&quot;,
+    &quot;type&quot; : &quot;ANIMAL&quot;,
+    &quot;whitespaceAfter&quot; : 0
+  }, {
+    &quot;animalType&quot; : &quot;CATS&quot;,
+    &quot;description&quot; : &quot;Feliway &amp; Care&quot;,
+    &quot;extId&quot; : 50958,
+    &quot;level&quot; : 3,
+    &quot;path&quot; : &quot;/shop/cats/cat_health&quot;,
+    &quot;pictureFile&quot; : &quot;Cat_Grooming_Care_1000x1000_UK_2.jpg&quot;,
+    &quot;title&quot; : &quot;Feliway &amp; Care&quot;,
+    &quot;type&quot; : &quot;ANIMAL&quot;,
+    &quot;whitespaceAfter&quot; : 0
+  }, {
+    &quot;animalType&quot; : &quot;CATS&quot;,
+    &quot;description&quot; : &quot;Cat Beds &amp; Cat Baskets&quot;,
+    &quot;extId&quot; : 3422,
+    &quot;level&quot; : 3,
+    &quot;path&quot; : &quot;/shop/cats/cat_beds_baskets&quot;,
+    &quot;pictureFile&quot; : &quot;Cat_Beds_1000x1000_1.jpg&quot;,
+    &quot;title&quot; : &quot;Cat Beds &amp; Cat Baskets&quot;,
+    &quot;type&quot; : &quot;ANIMAL&quot;,
+    &quot;whitespaceAfter&quot; : 0
+  }, {
+    &quot;animalType&quot; : &quot;CATS&quot;,
+    &quot;description&quot; : &quot;Cat Flaps &amp; Nets&quot;,
+    &quot;extId&quot; : 10800,
+    &quot;level&quot; : 3,
+    &quot;path&quot; : &quot;/shop/cats/cat_flaps_nets&quot;,
+    &quot;pictureFile&quot; : &quot;Cat_Flaps_1000x1000px_1.jpg&quot;,
+    &quot;title&quot; : &quot;Cat Flaps &amp; Nets&quot;,
+    &quot;type&quot; : &quot;ANIMAL&quot;,
+    &quot;whitespaceAfter&quot; : 0
+  }, {
+    &quot;animalType&quot; : &quot;CATS&quot;,
+    &quot;description&quot; : &quot;Cat Toys&quot;,
+    &quot;extId&quot; : 3372,
+    &quot;level&quot; : 3,
+    &quot;path&quot; : &quot;/shop/cats/cat_toys&quot;,
+    &quot;pictureFile&quot; : &quot;Cat_Toys_1000x1000_1.jpg&quot;,
+    &quot;title&quot; : &quot;Cat Toys&quot;,
+    &quot;type&quot; : &quot;ANIMAL&quot;,
+    &quot;whitespaceAfter&quot; : 0
+  }, {
+    &quot;animalType&quot; : &quot;CATS&quot;,
+    &quot;description&quot; : &quot;Cat Bowls &amp; Cat Fountains&quot;,
+    &quot;extId&quot; : 3424,
+    &quot;level&quot; : 3,
+    &quot;path&quot; : &quot;/shop/cats/cat_bowls_feeders&quot;,
+    &quot;pictureFile&quot; : &quot;Cat_Bowls_1000x1000_1.jpg&quot;,
+    &quot;title&quot; : &quot;Cat Bowls &amp; Cat Fountains&quot;,
+    &quot;type&quot; : &quot;ANIMAL&quot;,
+    &quot;whitespaceAfter&quot; : 0
+  }, {
+    &quot;animalType&quot; : &quot;CATS&quot;,
+    &quot;description&quot; : &quot;Cat Collars &amp; Transport&quot;,
+    &quot;extId&quot; : 10801,
+    &quot;level&quot; : 3,
+    &quot;path&quot; : &quot;/shop/cats/cat_carriers_travel&quot;,
+    &quot;pictureFile&quot; : &quot;Cat_Transport_1000x1000_1.jpg&quot;,
+    &quot;title&quot; : &quot;Cat Collars &amp; Transport&quot;,
+    &quot;type&quot; : &quot;ANIMAL&quot;,
+    &quot;whitespaceAfter&quot; : 0
+  }, {
+    &quot;animalType&quot; : &quot;CATS&quot;,
+    &quot;description&quot; : &quot;Kitten Products&quot;,
+    &quot;extId&quot; : 47584,
+    &quot;level&quot; : 3,
+    &quot;path&quot; : &quot;/shop/cats/kitten_products&quot;,
+    &quot;pictureFile&quot; : &quot;Cat_Kitten_General_1000x1000_1.jpg&quot;,
+    &quot;title&quot; : &quot;Kitten Products&quot;,
+    &quot;type&quot; : &quot;ANIMAL&quot;,
+    &quot;whitespaceAfter&quot; : 0
+  } ],
+  &quot;description&quot; : &quot;Cat Shop: Cat Supplies &amp; Cat Accessories&quot;,
+  &quot;extId&quot; : 3316,
+  &quot;level&quot; : 2,
+  &quot;path&quot; : &quot;/shop/cats&quot;,
+  &quot;pictureFile&quot; : &quot;Cat_Breed_MaineCoon_1000x1000_2.jpg&quot;,
+  &quot;specials&quot; : [ {
+    &quot;animalType&quot; : &quot;CATS&quot;,
+    &quot;description&quot; : &quot;Special Offers: Cat Supplies&quot;,
+    &quot;extId&quot; : 4909,
+    &quot;level&quot; : 4,
+    &quot;path&quot; : &quot;/specials/cats/special_offers/cat_trees_/34883&quot;,
+    &quot;pictureFile&quot; : &quot;Cat_Seasonal_1000x1000_2.jpg&quot;,
+    &quot;title&quot; : &quot;Cat Special Offers&quot;,
+    &quot;type&quot; : &quot;SPECIAL_OFFERS&quot;,
+    &quot;whitespaceAfter&quot; : 0
+  }, {
+    &quot;animalType&quot; : &quot;CATS&quot;,
+    &quot;description&quot; : &quot;Cat Food Trial Packs&quot;,
+    &quot;extId&quot; : 80070,
+    &quot;level&quot; : 3,
+    &quot;path&quot; : &quot;/specials/cats/trial_specials&quot;,
+    &quot;pictureFile&quot; : &quot;Trialpacks_Dry_C_1000x1000_2.jpg&quot;,
+    &quot;title&quot; : &quot;Cat Trial Packs&quot;,
+    &quot;type&quot; : &quot;TRIAL_OFFERS&quot;,
+    &quot;whitespaceAfter&quot; : 0
+  }, {
+    &quot;animalType&quot; : &quot;CATS&quot;,
+    &quot;description&quot; : &quot;Cat Supplies – New &amp; Seasonal Products&quot;,
+    &quot;extId&quot; : 4910,
+    &quot;level&quot; : 3,
+    &quot;path&quot; : &quot;/specials/cats/new_products&quot;,
+    &quot;pictureFile&quot; : &quot;Xmas_LP_Grids_Pet_C_1000x1000_INT_1.jpg&quot;,
+    &quot;title&quot; : &quot;New &amp; Seasonal Products&quot;,
+    &quot;type&quot; : &quot;NEW_PRODUCTS&quot;,
+    &quot;whitespaceAfter&quot; : 0
+  } ],
+  &quot;title&quot; : &quot;Cat&quot;,
+  &quot;type&quot; : &quot;ANIMAL&quot;,
+  &quot;whitespaceAfter&quot; : 0
+}, {
+  &quot;animalType&quot; : &quot;RODENTS&quot;,
+  &quot;children&quot; : [ {
+    &quot;animalType&quot; : &quot;RODENTS&quot;,
+    &quot;children&quot; : [ {
+      &quot;animalType&quot; : &quot;RODENTS&quot;,
+      &quot;description&quot; : &quot;Customer Favourites: Small Pet Cages&quot;,
+      &quot;extId&quot; : 51885,
+      &quot;level&quot; : 4,
+      &quot;path&quot; : &quot;/shop/small_pets/hutches_cages/favourites&quot;,
+      &quot;title&quot; : &quot;★ Customer Favourites&quot;,
+      &quot;type&quot; : &quot;ANIMAL&quot;,
+      &quot;whitespaceAfter&quot; : 0
+    }, {
+      &quot;animalType&quot; : &quot;RODENTS&quot;,
+      &quot;description&quot; : &quot;Indoor Rabbit Cages&quot;,
+      &quot;extId&quot; : 3397,
+      &quot;level&quot; : 4,
+      &quot;path&quot; : &quot;/shop/small_pets/hutches_cages/rabbit_cage&quot;,
+      &quot;title&quot; : &quot;Indoor Rabbit Cages&quot;,
+      &quot;type&quot; : &quot;ANIMAL&quot;,
+      &quot;whitespaceAfter&quot; : 0
+    }, {
+      &quot;animalType&quot; : &quot;RODENTS&quot;,
+      &quot;description&quot; : &quot;Hamster Cages&quot;,
+      &quot;extId&quot; : 6536,
+      &quot;level&quot; : 4,
+      &quot;path&quot; : &quot;/shop/small_pets/hutches_cages/hamster_cages&quot;,
+      &quot;title&quot; : &quot;Hamster Cages&quot;,
+      &quot;type&quot; : &quot;ANIMAL&quot;,
+      &quot;whitespaceAfter&quot; : 0
+    }, {
+      &quot;animalType&quot; : &quot;RODENTS&quot;,
+      &quot;description&quot; : &quot;Guinea Pig Cages&quot;,
+      &quot;extId&quot; : 6535,
+      &quot;level&quot; : 4,
+      &quot;path&quot; : &quot;/shop/small_pets/hutches_cages/guinea_pig_cages&quot;,
+      &quot;title&quot; : &quot;Guinea Pig Cages&quot;,
+      &quot;type&quot; : &quot;ANIMAL&quot;,
+      &quot;whitespaceAfter&quot; : 0
+    }, {
+      &quot;animalType&quot; : &quot;RODENTS&quot;,
+      &quot;description&quot; : &quot;Gerbil Cages&quot;,
+      &quot;extId&quot; : 177428,
+      &quot;level&quot; : 4,
+      &quot;path&quot; : &quot;/shop/small_pets/hutches_cages/gerbils_cages&quot;,
+      &quot;title&quot; : &quot;Gerbil Cages&quot;,
+      &quot;type&quot; : &quot;ANIMAL&quot;,
+      &quot;whitespaceAfter&quot; : 0
+    }, {
+      &quot;animalType&quot; : &quot;RODENTS&quot;,
+      &quot;description&quot; : &quot;Ferret Cages&quot;,
+      &quot;extId&quot; : 3395,
+      &quot;level&quot; : 4,
+      &quot;path&quot; : &quot;/shop/small_pets/hutches_cages/ferret_cage&quot;,
+      &quot;title&quot; : &quot;Ferret Cages&quot;,
+      &quot;type&quot; : &quot;ANIMAL&quot;,
+      &quot;whitespaceAfter&quot; : 0
+    }, {
+      &quot;animalType&quot; : &quot;RODENTS&quot;,
+      &quot;description&quot; : &quot;Rat Cages&quot;,
+      &quot;extId&quot; : 3377,
+      &quot;level&quot; : 4,
+      &quot;path&quot; : &quot;/shop/small_pets/hutches_cages/rat_cage&quot;,
+      &quot;title&quot; : &quot;Rat Cages&quot;,
+      &quot;type&quot; : &quot;ANIMAL&quot;,
+      &quot;whitespaceAfter&quot; : 0
+    }, {
+      &quot;animalType&quot; : &quot;RODENTS&quot;,
+      &quot;description&quot; : &quot;Ferplast Cages&quot;,
+      &quot;extId&quot; : 73867,
+      &quot;level&quot; : 4,
+      &quot;path&quot; : &quot;/shop/small_pets/hutches_cages/ferplast_cages&quot;,
+      &quot;title&quot; : &quot;Ferplast&quot;,
+      &quot;type&quot; : &quot;ANIMAL&quot;,
+      &quot;whitespaceAfter&quot; : 0
+    }, {
+      &quot;animalType&quot; : &quot;RODENTS&quot;,
+      &quot;description&quot; : &quot;Savic Cages&quot;,
+      &quot;extId&quot; : 73869,
+      &quot;level&quot; : 4,
+      &quot;path&quot; : &quot;/shop/small_pets/hutches_cages/savic_cages&quot;,
+      &quot;title&quot; : &quot;Savic&quot;,
+      &quot;type&quot; : &quot;ANIMAL&quot;,
+      &quot;whitespaceAfter&quot; : 0
+    }, {
+      &quot;animalType&quot; : &quot;RODENTS&quot;,
+      &quot;description&quot; : &quot;Skyline Cages&quot;,
+      &quot;extId&quot; : 96223,
+      &quot;level&quot; : 4,
+      &quot;path&quot; : &quot;/shop/small_pets/hutches_cages/skyline&quot;,
+      &quot;title&quot; : &quot;Skyline&quot;,
+      &quot;type&quot; : &quot;ANIMAL&quot;,
+      &quot;whitespaceAfter&quot; : 0
+    } ],
+    &quot;description&quot; : &quot;Small Pet Cages&quot;,
+    &quot;extId&quot; : 3323,
+    &quot;level&quot; : 3,
+    &quot;path&quot; : &quot;/shop/small_pets/hutches_cages&quot;,
+    &quot;pictureFile&quot; : &quot;2017_07_SmallPetCages_1000x1000_2_1.jpg&quot;,
+    &quot;title&quot; : &quot;Small Pet Cages&quot;,
+    &quot;type&quot; : &quot;ANIMAL&quot;,
+    &quot;whitespaceAfter&quot; : 0
+  }, {
+    &quot;animalType&quot; : &quot;RODENTS&quot;,
+    &quot;children&quot; : [ {
+      &quot;animalType&quot; : &quot;RODENTS&quot;,
+      &quot;description&quot; : &quot;Tunnels &amp; Dens&quot;,
+      &quot;extId&quot; : 4924,
+      &quot;level&quot; : 4,
+      &quot;path&quot; : &quot;/shop/small_pets/accessories/tunnels&quot;,
+      &quot;title&quot; : &quot;Tunnels &amp; Dens&quot;,
+      &quot;type&quot; : &quot;ANIMAL&quot;,
+      &quot;whitespaceAfter&quot; : 0
+    }, {
+      &quot;animalType&quot; : &quot;RODENTS&quot;,
+      &quot;description&quot; : &quot;Bridges &amp; Stairs&quot;,
+      &quot;extId&quot; : 3415,
+      &quot;level&quot; : 4,
+      &quot;path&quot; : &quot;/shop/small_pets/accessories/bridges_stairs&quot;,
+      &quot;title&quot; : &quot;Bridges &amp; Stairs&quot;,
+      &quot;type&quot; : &quot;ANIMAL&quot;,
+      &quot;whitespaceAfter&quot; : 0
+    }, {
+      &quot;animalType&quot; : &quot;RODENTS&quot;,
+      &quot;description&quot; : &quot;Exercise Wheels&quot;,
+      &quot;extId&quot; : 7822,
+      &quot;level&quot; : 4,
+      &quot;path&quot; : &quot;/shop/small_pets/accessories/exercise_wheels&quot;,
+      &quot;title&quot; : &quot;Exercise Wheels&quot;,
+      &quot;type&quot; : &quot;ANIMAL&quot;,
+      &quot;whitespaceAfter&quot; : 0
+    }, {
+      &quot;animalType&quot; : &quot;RODENTS&quot;,
+      &quot;description&quot; : &quot;Small Cabins &amp; Houses&quot;,
+      &quot;extId&quot; : 3355,
+      &quot;level&quot; : 4,
+      &quot;path&quot; : &quot;/shop/small_pets/accessories/cabins&quot;,
+      &quot;title&quot; : &quot;Small Cabins &amp; Houses&quot;,
+      &quot;type&quot; : &quot;ANIMAL&quot;,
+      &quot;whitespaceAfter&quot; : 1
+    } ],
+    &quot;description&quot; : &quot;Cage Accessories&quot;,
+    &quot;extId&quot; : 3324,
+    &quot;level&quot; : 3,
+    &quot;path&quot; : &quot;/shop/small_pets/accessories&quot;,
+    &quot;pictureFile&quot; : &quot;2017_07_CageAccessories_1000x1000_1.jpg&quot;,
+    &quot;title&quot; : &quot;Cage Accessories&quot;,
+    &quot;type&quot; : &quot;ANIMAL&quot;,
+    &quot;whitespaceAfter&quot; : 0
+  }, {
+    &quot;animalType&quot; : &quot;RODENTS&quot;,
+    &quot;description&quot; : &quot;Hutches for Rabbit &amp; Guinea Pig&quot;,
+    &quot;extId&quot; : 73673,
+    &quot;level&quot; : 3,
+    &quot;path&quot; : &quot;/shop/small_pets/hutches&quot;,
+    &quot;pictureFile&quot; : &quot;2017_07_HutchesRabbitGuineaPig_1000x1000_1.jpg&quot;,
+    &quot;title&quot; : &quot;Hutches for Rabbit &amp; Guinea Pig&quot;,
+    &quot;type&quot; : &quot;ANIMAL&quot;,
+    &quot;whitespaceAfter&quot; : 0
+  }, {
+    &quot;animalType&quot; : &quot;RODENTS&quot;,
+    &quot;description&quot; : &quot;Small Pet Food&quot;,
+    &quot;extId&quot; : 3322,
+    &quot;level&quot; : 3,
+    &quot;path&quot; : &quot;/shop/small_pets/food&quot;,
+    &quot;pictureFile&quot; : &quot;2017_07_SmallPetFood_1000x1000_1.jpg&quot;,
+    &quot;title&quot; : &quot;Small Pet Food&quot;,
+    &quot;type&quot; : &quot;ANIMAL&quot;,
+    &quot;whitespaceAfter&quot; : 0
+  }, {
+    &quot;animalType&quot; : &quot;RODENTS&quot;,
+    &quot;description&quot; : &quot;Runs &amp; Enclosures&quot;,
+    &quot;extId&quot; : 73298,
+    &quot;level&quot; : 3,
+    &quot;path&quot; : &quot;/shop/small_pets/runs_fencing&quot;,
+    &quot;pictureFile&quot; : &quot;2017_07_RunsEnclosures_1000x1000_1.jpg&quot;,
+    &quot;title&quot; : &quot;Runs &amp; Enclosures&quot;,
+    &quot;type&quot; : &quot;ANIMAL&quot;,
+    &quot;whitespaceAfter&quot; : 0
+  }, {
+    &quot;animalType&quot; : &quot;RODENTS&quot;,
+    &quot;description&quot; : &quot;Forage, Snacks &amp; Supplements&quot;,
+    &quot;extId&quot; : 3333,
+    &quot;level&quot; : 3,
+    &quot;path&quot; : &quot;/shop/small_pets/snacks_supplements&quot;,
+    &quot;pictureFile&quot; : &quot;2017_07_SnacksSupplements_1000x1000_1.jpg&quot;,
+    &quot;title&quot; : &quot;Forage, Snacks &amp; Supplements&quot;,
+    &quot;type&quot; : &quot;ANIMAL&quot;,
+    &quot;whitespaceAfter&quot; : 0
+  }, {
+    &quot;animalType&quot; : &quot;RODENTS&quot;,
+    &quot;description&quot; : &quot;Straw &amp; Bedding&quot;,
+    &quot;extId&quot; : 52601,
+    &quot;level&quot; : 3,
+    &quot;path&quot; : &quot;/shop/small_pets/hay_and_bedding&quot;,
+    &quot;pictureFile&quot; : &quot;2017_07_StrawBedding_1000x1000_2.jpg&quot;,
+    &quot;title&quot; : &quot;Straw &amp; Bedding&quot;,
+    &quot;type&quot; : &quot;ANIMAL&quot;,
+    &quot;whitespaceAfter&quot; : 0
+  }, {
+    &quot;animalType&quot; : &quot;RODENTS&quot;,
+    &quot;description&quot; : &quot;Toys &amp; Travel&quot;,
+    &quot;extId&quot; : 10802,
+    &quot;level&quot; : 3,
+    &quot;path&quot; : &quot;/shop/small_pets/toys_transport&quot;,
+    &quot;pictureFile&quot; : &quot;2017_07_ToysTravel_1000x1000_1.jpg&quot;,
+    &quot;title&quot; : &quot;Toys &amp; Travel&quot;,
+    &quot;type&quot; : &quot;ANIMAL&quot;,
+    &quot;whitespaceAfter&quot; : 0
+  }, {
+    &quot;animalType&quot; : &quot;RODENTS&quot;,
+    &quot;description&quot; : &quot;Care &amp; Grooming&quot;,
+    &quot;extId&quot; : 3411,
+    &quot;level&quot; : 3,
+    &quot;path&quot; : &quot;/shop/small_pets/care_grooming&quot;,
+    &quot;pictureFile&quot; : &quot;2017_07_CareGrooming_1000x1000_1.jpg&quot;,
+    &quot;title&quot; : &quot;Care &amp; Grooming&quot;,
+    &quot;type&quot; : &quot;ANIMAL&quot;,
+    &quot;whitespaceAfter&quot; : 1
+  }, {
+    &quot;animalType&quot; : &quot;RODENTS&quot;,
+    &quot;description&quot; : &quot;Rabbit&quot;,
+    &quot;extId&quot; : 303577,
+    &quot;level&quot; : 3,
+    &quot;path&quot; : &quot;/shop/small_pets/rabbits&quot;,
+    &quot;pictureFile&quot; : &quot;Rabbit_1000x1000_4.jpg&quot;,
+    &quot;title&quot; : &quot;Rabbit&quot;,
+    &quot;type&quot; : &quot;ANIMAL&quot;,
+    &quot;whitespaceAfter&quot; : 0
+  }, {
+    &quot;animalType&quot; : &quot;RODENTS&quot;,
+    &quot;description&quot; : &quot;Guinea Pig&quot;,
+    &quot;extId&quot; : 303586,
+    &quot;level&quot; : 3,
+    &quot;path&quot; : &quot;/shop/small_pets/guinea_pig&quot;,
+    &quot;pictureFile&quot; : &quot;GuineaPig_1000x1000_3.jpg&quot;,
+    &quot;title&quot; : &quot;Guinea Pig&quot;,
+    &quot;type&quot; : &quot;ANIMAL&quot;,
+    &quot;whitespaceAfter&quot; : 0
+  }, {
+    &quot;animalType&quot; : &quot;RODENTS&quot;,
+    &quot;description&quot; : &quot;Hamster&quot;,
+    &quot;extId&quot; : 303627,
+    &quot;level&quot; : 3,
+    &quot;path&quot; : &quot;/shop/small_pets/hamster&quot;,
+    &quot;pictureFile&quot; : &quot;Hamster_1000x1000_4.jpg&quot;,
+    &quot;title&quot; : &quot;Hamster&quot;,
+    &quot;type&quot; : &quot;ANIMAL&quot;,
+    &quot;whitespaceAfter&quot; : 0
+  }, {
+    &quot;animalType&quot; : &quot;RODENTS&quot;,
+    &quot;description&quot; : &quot;Rat&quot;,
+    &quot;extId&quot; : 303599,
+    &quot;level&quot; : 3,
+    &quot;path&quot; : &quot;/shop/small_pets/rat&quot;,
+    &quot;pictureFile&quot; : &quot;Rat_1000x1000_3.jpg&quot;,
+    &quot;title&quot; : &quot;Rat&quot;,
+    &quot;type&quot; : &quot;ANIMAL&quot;,
+    &quot;whitespaceAfter&quot; : 0
+  }, {
+    &quot;animalType&quot; : &quot;RODENTS&quot;,
+    &quot;description&quot; : &quot;Mouse&quot;,
+    &quot;extId&quot; : 303639,
+    &quot;level&quot; : 3,
+    &quot;path&quot; : &quot;/shop/small_pets/mouse&quot;,
+    &quot;pictureFile&quot; : &quot;Mouse_1000x1000_2.jpg&quot;,
+    &quot;title&quot; : &quot;Mouse&quot;,
+    &quot;type&quot; : &quot;ANIMAL&quot;,
+    &quot;whitespaceAfter&quot; : 0
+  }, {
+    &quot;animalType&quot; : &quot;RODENTS&quot;,
+    &quot;description&quot; : &quot;Gerbil&quot;,
+    &quot;extId&quot; : 303670,
+    &quot;level&quot; : 3,
+    &quot;path&quot; : &quot;/shop/small_pets/gerbil&quot;,
+    &quot;pictureFile&quot; : &quot;Gerbil_1000x1000_3.jpg&quot;,
+    &quot;title&quot; : &quot;Gerbil&quot;,
+    &quot;type&quot; : &quot;ANIMAL&quot;,
+    &quot;whitespaceAfter&quot; : 0
+  }, {
+    &quot;animalType&quot; : &quot;RODENTS&quot;,
+    &quot;description&quot; : &quot;Degu&quot;,
+    &quot;extId&quot; : 303655,
+    &quot;level&quot; : 3,
+    &quot;path&quot; : &quot;/shop/small_pets/degus&quot;,
+    &quot;pictureFile&quot; : &quot;Degu_1000x1000_3.jpg&quot;,
+    &quot;title&quot; : &quot;Degu&quot;,
+    &quot;type&quot; : &quot;ANIMAL&quot;,
+    &quot;whitespaceAfter&quot; : 0
+  }, {
+    &quot;animalType&quot; : &quot;RODENTS&quot;,
+    &quot;description&quot; : &quot;Chinchilla&quot;,
+    &quot;extId&quot; : 303695,
+    &quot;level&quot; : 3,
+    &quot;path&quot; : &quot;/shop/small_pets/chinchillas&quot;,
+    &quot;pictureFile&quot; : &quot;Chinchilla_1000x1000_3.jpg&quot;,
+    &quot;title&quot; : &quot;Chinchilla&quot;,
+    &quot;type&quot; : &quot;ANIMAL&quot;,
+    &quot;whitespaceAfter&quot; : 0
+  }, {
+    &quot;animalType&quot; : &quot;RODENTS&quot;,
+    &quot;description&quot; : &quot;Ferret&quot;,
+    &quot;extId&quot; : 303713,
+    &quot;level&quot; : 3,
+    &quot;path&quot; : &quot;/shop/small_pets/ferret&quot;,
+    &quot;pictureFile&quot; : &quot;Ferret_1000x1000_3.jpg&quot;,
+    &quot;title&quot; : &quot;Ferret&quot;,
+    &quot;type&quot; : &quot;ANIMAL&quot;,
+    &quot;whitespaceAfter&quot; : 0
+  } ],
+  &quot;description&quot; : &quot;Small Pets Supplies &amp; Accessories&quot;,
+  &quot;extId&quot; : 3319,
+  &quot;level&quot; : 2,
+  &quot;path&quot; : &quot;/shop/small_pets&quot;,
+  &quot;pictureFile&quot; : &quot;Rodent_AllGoups_1000x1000_1.jpg&quot;,
+  &quot;specials&quot; : [ {
+    &quot;animalType&quot; : &quot;RODENTS&quot;,
+    &quot;description&quot; : &quot;Special Offers: Small Pet Supplies&quot;,
+    &quot;extId&quot; : 4914,
+    &quot;level&quot; : 4,
+    &quot;path&quot; : &quot;/specials/small_pets/special_offers/cages_and_pens/34887&quot;,
+    &quot;pictureFile&quot; : &quot;General_Offers_S_1000x1000_2.jpg&quot;,
+    &quot;title&quot; : &quot;Small Pet Special Offers&quot;,
+    &quot;type&quot; : &quot;SPECIAL_OFFERS&quot;,
+    &quot;whitespaceAfter&quot; : 0
+  }, {
+    &quot;animalType&quot; : &quot;RODENTS&quot;,
+    &quot;description&quot; : &quot;New Products: Small Animal Supplies&quot;,
+    &quot;extId&quot; : 4915,
+    &quot;level&quot; : 3,
+    &quot;path&quot; : &quot;/specials/small_pets/new_products&quot;,
+    &quot;pictureFile&quot; : &quot;NewProducts_S_1000x1000_INT_3.jpg&quot;,
+    &quot;title&quot; : &quot;Small Pet New Products&quot;,
+    &quot;type&quot; : &quot;NEW_PRODUCTS&quot;,
+    &quot;whitespaceAfter&quot; : 0
+  } ],
+  &quot;title&quot; : &quot;Small Pet&quot;,
+  &quot;type&quot; : &quot;ANIMAL&quot;,
+  &quot;whitespaceAfter&quot; : 0
+}, {
+  &quot;animalType&quot; : &quot;BIRDS&quot;,
+  &quot;children&quot; : [ {
+    &quot;animalType&quot; : &quot;BIRDS&quot;,
+    &quot;children&quot; : [ {
+      &quot;animalType&quot; : &quot;BIRDS&quot;,
+      &quot;description&quot; : &quot;Parrot Food&quot;,
+      &quot;extId&quot; : 3827,
+      &quot;level&quot; : 4,
+      &quot;path&quot; : &quot;/shop/birds/bird_food/parrot&quot;,
+      &quot;title&quot; : &quot;Parrot Food&quot;,
+      &quot;type&quot; : &quot;ANIMAL&quot;,
+      &quot;whitespaceAfter&quot; : 0
+    }, {
+      &quot;animalType&quot; : &quot;BIRDS&quot;,
+      &quot;description&quot; : &quot;Large Parakeet &amp; Cockatiel Food&quot;,
+      &quot;extId&quot; : 3826,
+      &quot;level&quot; : 4,
+      &quot;path&quot; : &quot;/shop/birds/bird_food/large_parakeet&quot;,
+      &quot;title&quot; : &quot;Large Parakeet &amp; Cockatiel&quot;,
+      &quot;type&quot; : &quot;ANIMAL&quot;,
+      &quot;whitespaceAfter&quot; : 0
+    }, {
+      &quot;animalType&quot; : &quot;BIRDS&quot;,
+      &quot;description&quot; : &quot;Canary Food&quot;,
+      &quot;extId&quot; : 11005,
+      &quot;level&quot; : 4,
+      &quot;path&quot; : &quot;/shop/birds/bird_food/canary_food&quot;,
+      &quot;title&quot; : &quot;Canary Food&quot;,
+      &quot;type&quot; : &quot;ANIMAL&quot;,
+      &quot;whitespaceAfter&quot; : 0
+    }, {
+      &quot;animalType&quot; : &quot;BIRDS&quot;,
+      &quot;description&quot; : &quot;Budgie Food&quot;,
+      &quot;extId&quot; : 3825,
+      &quot;level&quot; : 4,
+      &quot;path&quot; : &quot;/shop/birds/bird_food/parakeet&quot;,
+      &quot;title&quot; : &quot;Budgie Food&quot;,
+      &quot;type&quot; : &quot;ANIMAL&quot;,
+      &quot;whitespaceAfter&quot; : 0
+    }, {
+      &quot;animalType&quot; : &quot;BIRDS&quot;,
+      &quot;description&quot; : &quot;Exotic Bird Food&quot;,
+      &quot;extId&quot; : 97698,
+      &quot;level&quot; : 4,
+      &quot;path&quot; : &quot;/shop/birds/bird_food/exotic&quot;,
+      &quot;title&quot; : &quot;Exotic Bird Food&quot;,
+      &quot;type&quot; : &quot;ANIMAL&quot;,
+      &quot;whitespaceAfter&quot; : 0
+    } ],
+    &quot;description&quot; : &quot;Bird Food&quot;,
+    &quot;extId&quot; : 3824,
+    &quot;level&quot; : 3,
+    &quot;path&quot; : &quot;/shop/birds/bird_food&quot;,
+    &quot;pictureFile&quot; : &quot;BirdFood_1000x1000px_1.jpg&quot;,
+    &quot;title&quot; : &quot;Bird Food&quot;,
+    &quot;type&quot; : &quot;ANIMAL&quot;,
+    &quot;whitespaceAfter&quot; : 0
+  }, {
+    &quot;animalType&quot; : &quot;BIRDS&quot;,
+    &quot;children&quot; : [ {
+      &quot;animalType&quot; : &quot;BIRDS&quot;,
+      &quot;description&quot; : &quot;Budgie Cages&quot;,
+      &quot;extId&quot; : 3843,
+      &quot;level&quot; : 4,
+      &quot;path&quot; : &quot;/shop/birds/bird_cages_and_accessories/parakeet_cages&quot;,
+      &quot;title&quot; : &quot;Budgie Cages&quot;,
+      &quot;type&quot; : &quot;ANIMAL&quot;,
+      &quot;whitespaceAfter&quot; : 0
+    }, {
+      &quot;animalType&quot; : &quot;BIRDS&quot;,
+      &quot;description&quot; : &quot;Canary Cages&quot;,
+      &quot;extId&quot; : 3845,
+      &quot;level&quot; : 4,
+      &quot;path&quot; : &quot;/shop/birds/bird_cages_and_accessories/canary_cages&quot;,
+      &quot;title&quot; : &quot;Canary Cages&quot;,
+      &quot;type&quot; : &quot;ANIMAL&quot;,
+      &quot;whitespaceAfter&quot; : 0
+    }, {
+      &quot;animalType&quot; : &quot;BIRDS&quot;,
+      &quot;description&quot; : &quot;Chicken Coops&quot;,
+      &quot;extId&quot; : 41941,
+      &quot;level&quot; : 4,
+      &quot;path&quot; : &quot;/shop/birds/bird_cages_and_accessories/chicken_coops&quot;,
+      &quot;title&quot; : &quot;Chicken Coops&quot;,
+      &quot;type&quot; : &quot;ANIMAL&quot;,
+      &quot;whitespaceAfter&quot; : 0
+    }, {
+      &quot;animalType&quot; : &quot;BIRDS&quot;,
+      &quot;description&quot; : &quot;Cockatiel Cages&quot;,
+      &quot;extId&quot; : 37918,
+      &quot;level&quot; : 4,
+      &quot;path&quot; : &quot;/shop/birds/bird_cages_and_accessories/cockatiel&quot;,
+      &quot;title&quot; : &quot;Cockatiel Cages&quot;,
+      &quot;type&quot; : &quot;ANIMAL&quot;,
+      &quot;whitespaceAfter&quot; : 0
+    }, {
+      &quot;animalType&quot; : &quot;BIRDS&quot;,
+      &quot;description&quot; : &quot;Large Parakeet &amp; Lorikeet Cages&quot;,
+      &quot;extId&quot; : 3844,
+      &quot;level&quot; : 4,
+      &quot;path&quot; : &quot;/shop/birds/bird_cages_and_accessories/large_parakeet_cages&quot;,
+      &quot;title&quot; : &quot;Large Parakeet &amp; Lorikeet Cages&quot;,
+      &quot;type&quot; : &quot;ANIMAL&quot;,
+      &quot;whitespaceAfter&quot; : 0
+    }, {
+      &quot;animalType&quot; : &quot;BIRDS&quot;,
+      &quot;description&quot; : &quot;Parrot Cages&quot;,
+      &quot;extId&quot; : 4888,
+      &quot;level&quot; : 4,
+      &quot;path&quot; : &quot;/shop/birds/bird_cages_and_accessories/parrot_cages&quot;,
+      &quot;title&quot; : &quot;Parrot Cages&quot;,
+      &quot;type&quot; : &quot;ANIMAL&quot;,
+      &quot;whitespaceAfter&quot; : 1
+    } ],
+    &quot;description&quot; : &quot;Bird Cages&quot;,
+    &quot;extId&quot; : 3842,
+    &quot;level&quot; : 3,
+    &quot;path&quot; : &quot;/shop/birds/bird_cages_and_accessories&quot;,
+    &quot;pictureFile&quot; : &quot;BirdcageAndAviary_1000x1000px_02_1.jpg&quot;,
+    &quot;title&quot; : &quot;Bird Cages&quot;,
+    &quot;type&quot; : &quot;ANIMAL&quot;,
+    &quot;whitespaceAfter&quot; : 0
+  }, {
+    &quot;animalType&quot; : &quot;BIRDS&quot;,
+    &quot;description&quot; : &quot;Bird Cage Accessories&quot;,
+    &quot;extId&quot; : 3846,
+    &quot;level&quot; : 3,
+    &quot;path&quot; : &quot;/shop/birds/cage_accessories&quot;,
+    &quot;pictureFile&quot; : &quot;BirdAccessories_1000x1000px_01_1.jpg&quot;,
+    &quot;title&quot; : &quot;Bird Cage Accessories&quot;,
+    &quot;type&quot; : &quot;ANIMAL&quot;,
+    &quot;whitespaceAfter&quot; : 0
+  }, {
+    &quot;animalType&quot; : &quot;BIRDS&quot;,
+    &quot;description&quot; : &quot;Bird Snacks &amp; Crackers&quot;,
+    &quot;extId&quot; : 3830,
+    &quot;level&quot; : 3,
+    &quot;path&quot; : &quot;/shop/birds/snacks_and_supplements&quot;,
+    &quot;pictureFile&quot; : &quot;SnacksAndCrackers_1000x1000px_05_1.jpg&quot;,
+    &quot;title&quot; : &quot;Bird Snacks &amp; Crackers&quot;,
+    &quot;type&quot; : &quot;ANIMAL&quot;,
+    &quot;whitespaceAfter&quot; : 0
+  }, {
+    &quot;animalType&quot; : &quot;BIRDS&quot;,
+    &quot;description&quot; : &quot;Bird Toys&quot;,
+    &quot;extId&quot; : 3855,
+    &quot;level&quot; : 3,
+    &quot;path&quot; : &quot;/shop/birds/toys&quot;,
+    &quot;pictureFile&quot; : &quot;BirdToys_1000x1000px_01_1.jpg&quot;,
+    &quot;title&quot; : &quot;Bird Toys&quot;,
+    &quot;type&quot; : &quot;ANIMAL&quot;,
+    &quot;whitespaceAfter&quot; : 0
+  }, {
+    &quot;animalType&quot; : &quot;BIRDS&quot;,
+    &quot;description&quot; : &quot;Bird Food Supplements&quot;,
+    &quot;extId&quot; : 3836,
+    &quot;level&quot; : 3,
+    &quot;path&quot; : &quot;/shop/birds/supplements&quot;,
+    &quot;pictureFile&quot; : &quot;FoodSuppliments_1000x1000px_1.jpg&quot;,
+    &quot;title&quot; : &quot;Bird Food Supplements&quot;,
+    &quot;type&quot; : &quot;ANIMAL&quot;,
+    &quot;whitespaceAfter&quot; : 0
+  }, {
+    &quot;animalType&quot; : &quot;BIRDS&quot;,
+    &quot;description&quot; : &quot;Bird Cage Bedding &amp; Litter&quot;,
+    &quot;extId&quot; : 3849,
+    &quot;level&quot; : 3,
+    &quot;path&quot; : &quot;/shop/birds/bedding_and_litter&quot;,
+    &quot;pictureFile&quot; : &quot;LitterAndCare_1000x1000px_1.jpg&quot;,
+    &quot;title&quot; : &quot;Bird Cage Bedding &amp; Litter&quot;,
+    &quot;type&quot; : &quot;ANIMAL&quot;,
+    &quot;whitespaceAfter&quot; : 0
+  }, {
+    &quot;animalType&quot; : &quot;BIRDS&quot;,
+    &quot;description&quot; : &quot;Garden Birds &amp; Wildlife&quot;,
+    &quot;extId&quot; : 31435,
+    &quot;level&quot; : 3,
+    &quot;path&quot; : &quot;/shop/birds/wild_birds&quot;,
+    &quot;pictureFile&quot; : &quot;Wildbirds_1000x1000px_03_1.jpg&quot;,
+    &quot;title&quot; : &quot;Garden Birds &amp; Wildlife&quot;,
+    &quot;type&quot; : &quot;ANIMAL&quot;,
+    &quot;whitespaceAfter&quot; : 0
+  } ],
+  &quot;description&quot; : &quot;Bird Supplies &amp; Accessories&quot;,
+  &quot;extId&quot; : 3746,
+  &quot;level&quot; : 2,
+  &quot;path&quot; : &quot;/shop/birds&quot;,
+  &quot;pictureFile&quot; : &quot;Birds_ProductsByBirdSpecies_1000x1000px_1.jpg&quot;,
+  &quot;specials&quot; : [ {
+    &quot;animalType&quot; : &quot;BIRDS&quot;,
+    &quot;description&quot; : &quot;Special Offers: Bird Supplies&quot;,
+    &quot;extId&quot; : 4916,
+    &quot;level&quot; : 4,
+    &quot;path&quot; : &quot;/specials/birds/special_offers/cages_/34899&quot;,
+    &quot;pictureFile&quot; : &quot;General_Offers_B_1000x1000_2.jpg&quot;,
+    &quot;title&quot; : &quot;Bird Special Offers&quot;,
+    &quot;type&quot; : &quot;SPECIAL_OFFERS&quot;,
+    &quot;whitespaceAfter&quot; : 0
+  } ],
+  &quot;title&quot; : &quot;Bird&quot;,
+  &quot;type&quot; : &quot;ANIMAL&quot;,
+  &quot;whitespaceAfter&quot; : 0
+}, {
+  &quot;animalType&quot; : &quot;HORSES&quot;,
+  &quot;children&quot; : [ {
+    &quot;animalType&quot; : &quot;HORSES&quot;,
+    &quot;children&quot; : [ {
+      &quot;animalType&quot; : &quot;REPTILES&quot;,
+      &quot;description&quot; : &quot;Barkoo&quot;,
+      &quot;extId&quot; : 140812,
+      &quot;level&quot; : 4,
+      &quot;path&quot; : &quot;/shop/zooplus_exclusives/dog_food_treats/barkoo&quot;,
+      &quot;title&quot; : &quot;Barkoo&quot;,
+      &quot;type&quot; : &quot;ANIMAL&quot;,
+      &quot;whitespaceAfter&quot; : 0
+    }, {
+      &quot;animalType&quot; : &quot;HORSES&quot;,
+      &quot;description&quot; : &quot;Briantos&quot;,
+      &quot;extId&quot; : 224936,
+      &quot;level&quot; : 4,
+      &quot;path&quot; : &quot;/shop/zooplus_exclusives/dog_food_treats/briantos&quot;,
+      &quot;title&quot; : &quot;Briantos&quot;,
+      &quot;type&quot; : &quot;ANIMAL&quot;,
+      &quot;whitespaceAfter&quot; : 0
+    }, {
+      &quot;animalType&quot; : &quot;HORSES&quot;,
+      &quot;description&quot; : &quot;Concept for Life&quot;,
+      &quot;extId&quot; : 240564,
+      &quot;level&quot; : 4,
+      &quot;path&quot; : &quot;/shop/zooplus_exclusives/dog_food_treats/concept_for_life&quot;,
+      &quot;title&quot; : &quot;Concept for Life&quot;,
+      &quot;type&quot; : &quot;ANIMAL&quot;,
+      &quot;whitespaceAfter&quot; : 0
+    }, {
+      &quot;animalType&quot; : &quot;HORSES&quot;,
+      &quot;description&quot; : &quot;Concept for Life Veterinary Diet&quot;,
+      &quot;extId&quot; : 347820,
+      &quot;level&quot; : 4,
+      &quot;path&quot; : &quot;/shop/zooplus_exclusives/dog_food_treats/concept_for_life_vet_dog&quot;,
+      &quot;title&quot; : &quot;Concept for Life Veterinary Diet&quot;,
+      &quot;type&quot; : &quot;ANIMAL&quot;,
+      &quot;whitespaceAfter&quot; : 0
+    }, {
+      &quot;animalType&quot; : &quot;HORSES&quot;,
+      &quot;description&quot; : &quot;DogMio&quot;,
+      &quot;extId&quot; : 280584,
+      &quot;level&quot; : 4,
+      &quot;path&quot; : &quot;/shop/zooplus_exclusives/dog_food_treats/dogmio&quot;,
+      &quot;title&quot; : &quot;DogMio&quot;,
+      &quot;type&quot; : &quot;ANIMAL&quot;,
+      &quot;whitespaceAfter&quot; : 0
+    }, {
+      &quot;animalType&quot; : &quot;HORSES&quot;,
+      &quot;description&quot; : &quot;Greenwoods&quot;,
+      &quot;extId&quot; : 170994,
+      &quot;level&quot; : 4,
+      &quot;path&quot; : &quot;/shop/zooplus_exclusives/dog_food_treats/greenwoods&quot;,
+      &quot;title&quot; : &quot;Greenwoods&quot;,
+      &quot;type&quot; : &quot;ANIMAL&quot;,
+      &quot;whitespaceAfter&quot; : 0
+    }, {
+      &quot;animalType&quot; : &quot;HORSES&quot;,
+      &quot;description&quot; : &quot;Lukullus&quot;,
+      &quot;extId&quot; : 139922,
+      &quot;level&quot; : 4,
+      &quot;path&quot; : &quot;/shop/zooplus_exclusives/dog_food_treats/lukullus_dog_food_treats&quot;,
+      &quot;title&quot; : &quot;Lukullus&quot;,
+      &quot;type&quot; : &quot;ANIMAL&quot;,
+      &quot;whitespaceAfter&quot; : 0
+    }, {
+      &quot;animalType&quot; : &quot;HORSES&quot;,
+      &quot;description&quot; : &quot;Lukullus A Casa&quot;,
+      &quot;extId&quot; : 357229,
+      &quot;level&quot; : 4,
+      &quot;path&quot; : &quot;/shop/zooplus_exclusives/dog_food_treats/lukullus_a_casa&quot;,
+      &quot;title&quot; : &quot;Lukullus A Casa&quot;,
+      &quot;type&quot; : &quot;ANIMAL&quot;,
+      &quot;whitespaceAfter&quot; : 0
+    }, {
+      &quot;animalType&quot; : &quot;HORSES&quot;,
+      &quot;description&quot; : &quot;Purizon&quot;,
+      &quot;extId&quot; : 139700,
+      &quot;level&quot; : 4,
+      &quot;path&quot; : &quot;/shop/zooplus_exclusives/dog_food_treats/purizon&quot;,
+      &quot;title&quot; : &quot;Purizon&quot;,
+      &quot;type&quot; : &quot;ANIMAL&quot;,
+      &quot;whitespaceAfter&quot; : 0
+    }, {
+      &quot;animalType&quot; : &quot;HORSES&quot;,
+      &quot;description&quot; : &quot;Rocco&quot;,
+      &quot;extId&quot; : 140198,
+      &quot;level&quot; : 4,
+      &quot;path&quot; : &quot;/shop/zooplus_exclusives/dog_food_treats/rocco&quot;,
+      &quot;title&quot; : &quot;Rocco&quot;,
+      &quot;type&quot; : &quot;ANIMAL&quot;,
+      &quot;whitespaceAfter&quot; : 0
+    }, {
+      &quot;animalType&quot; : &quot;HORSES&quot;,
+      &quot;description&quot; : &quot;Rosie's Farm Exclusive Dog Food&quot;,
+      &quot;extId&quot; : 355632,
+      &quot;level&quot; : 4,
+      &quot;path&quot; : &quot;/shop/zooplus_exclusives/dog_food_treats/rosies_farm&quot;,
+      &quot;title&quot; : &quot;Rosie's Farm&quot;,
+      &quot;type&quot; : &quot;ANIMAL&quot;,
+      &quot;whitespaceAfter&quot; : 0
+    }, {
+      &quot;animalType&quot; : &quot;HORSES&quot;,
+      &quot;description&quot; : &quot;Wolf of Wilderness Dog Food&quot;,
+      &quot;extId&quot; : 197584,
+      &quot;level&quot; : 4,
+      &quot;path&quot; : &quot;/shop/zooplus_exclusives/dog_food_treats/wolf_of_wilderness&quot;,
+      &quot;title&quot; : &quot;Wolf of Wilderness&quot;,
+      &quot;type&quot; : &quot;ANIMAL&quot;,
+      &quot;whitespaceAfter&quot; : 0
+    }, {
+      &quot;animalType&quot; : &quot;HORSES&quot;,
+      &quot;description&quot; : &quot;★ zooplus Classic&quot;,
+      &quot;extId&quot; : 253195,
+      &quot;level&quot; : 4,
+      &quot;path&quot; : &quot;/shop/zooplus_exclusives/dog_food_treats/zooplus_classic&quot;,
+      &quot;title&quot; : &quot;zooplus Classic&quot;,
+      &quot;type&quot; : &quot;ANIMAL&quot;,
+      &quot;whitespaceAfter&quot; : 0
+    }, {
+      &quot;animalType&quot; : &quot;HORSES&quot;,
+      &quot;description&quot; : &quot;★ zooplus Selection&quot;,
+      &quot;extId&quot; : 231509,
+      &quot;level&quot; : 4,
+      &quot;path&quot; : &quot;/shop/zooplus_exclusives/dog_food_treats/zooplus_selection&quot;,
+      &quot;title&quot; : &quot;zooplus Selection&quot;,
+      &quot;type&quot; : &quot;ANIMAL&quot;,
+      &quot;whitespaceAfter&quot; : 0
+    }, {
+      &quot;animalType&quot; : &quot;HORSES&quot;,
+      &quot;description&quot; : &quot;zoolove by zooplus&quot;,
+      &quot;extId&quot; : 191257,
+      &quot;level&quot; : 4,
+      &quot;path&quot; : &quot;/shop/zooplus_exclusives/dog_food_treats/zoolove&quot;,
+      &quot;title&quot; : &quot;zoolove by zooplus&quot;,
+      &quot;type&quot; : &quot;ANIMAL&quot;,
+      &quot;whitespaceAfter&quot; : 0
+    } ],
+    &quot;description&quot; : &quot;Dog Food &amp; Treats&quot;,
+    &quot;extId&quot; : 139696,
+    &quot;level&quot; : 3,
+    &quot;path&quot; : &quot;/shop/zooplus_exclusives/dog_food_treats&quot;,
+    &quot;pictureFile&quot; : &quot;zooplus_Exclusive_D_1000x1000_5.jpg&quot;,
+    &quot;title&quot; : &quot;Dog Food &amp; Treats&quot;,
+    &quot;type&quot; : &quot;ANIMAL&quot;,
+    &quot;whitespaceAfter&quot; : 0
+  }, {
+    &quot;animalType&quot; : &quot;HORSES&quot;,
+    &quot;children&quot; : [ {
+      &quot;animalType&quot; : &quot;HORSES&quot;,
+      &quot;description&quot; : &quot;Catessy Cat Food&quot;,
+      &quot;extId&quot; : 139656,
+      &quot;level&quot; : 4,
+      &quot;path&quot; : &quot;/shop/zooplus_exclusives/cat_food_treats/catessy&quot;,
+      &quot;title&quot; : &quot;Catessy&quot;,
+      &quot;type&quot; : &quot;ANIMAL&quot;,
+      &quot;whitespaceAfter&quot; : 0
+    }, {
+      &quot;animalType&quot; : &quot;HORSES&quot;,
+      &quot;description&quot; : &quot;Concept for Life&quot;,
+      &quot;extId&quot; : 220313,
+      &quot;level&quot; : 4,
+      &quot;path&quot; : &quot;/shop/zooplus_exclusives/cat_food_treats/concept_for_life&quot;,
+      &quot;title&quot; : &quot;Concept for Life&quot;,
+      &quot;type&quot; : &quot;ANIMAL&quot;,
+      &quot;whitespaceAfter&quot; : 0
+    }, {
+      &quot;animalType&quot; : &quot;HORSES&quot;,
+      &quot;description&quot; : &quot;Concept for Life Veterinary Diet&quot;,
+      &quot;extId&quot; : 340085,
+      &quot;level&quot; : 4,
+      &quot;path&quot; : &quot;/shop/zooplus_exclusives/cat_food_treats/concept_for_life_vet_cat&quot;,
+      &quot;title&quot; : &quot;Concept for Life Veterinary Diet&quot;,
+      &quot;type&quot; : &quot;ANIMAL&quot;,
+      &quot;whitespaceAfter&quot; : 0
+    }, {
+      &quot;animalType&quot; : &quot;HORSES&quot;,
+      &quot;description&quot; : &quot;Cosma&quot;,
+      &quot;extId&quot; : 139727,
+      &quot;level&quot; : 4,
+      &quot;path&quot; : &quot;/shop/zooplus_exclusives/cat_food_treats/cosma&quot;,
+      &quot;title&quot; : &quot;Cosma&quot;,
+      &quot;type&quot; : &quot;ANIMAL&quot;,
+      &quot;whitespaceAfter&quot; : 0
+    }, {
+      &quot;animalType&quot; : &quot;HORSES&quot;,
+      &quot;description&quot; : &quot;Cosma Nature&quot;,
+      &quot;extId&quot; : 171960,
+      &quot;level&quot; : 4,
+      &quot;path&quot; : &quot;/shop/zooplus_exclusives/cat_food_treats/cosma_nature&quot;,
+      &quot;title&quot; : &quot;Cosma Nature&quot;,
+      &quot;type&quot; : &quot;ANIMAL&quot;,
+      &quot;whitespaceAfter&quot; : 0
+    }, {
+      &quot;animalType&quot; : &quot;HORSES&quot;,
+      &quot;description&quot; : &quot;Feringa Cat Food&quot;,
+      &quot;extId&quot; : 140274,
+      &quot;level&quot; : 4,
+      &quot;path&quot; : &quot;/shop/zooplus_exclusives/cat_food_treats/feringa&quot;,
+      &quot;title&quot; : &quot;Feringa&quot;,
+      &quot;type&quot; : &quot;ANIMAL&quot;,
+      &quot;whitespaceAfter&quot; : 0
+    }, {
+      &quot;animalType&quot; : &quot;HORSES&quot;,
+      &quot;description&quot; : &quot;Greenwoods Cat Food&quot;,
+      &quot;extId&quot; : 170993,
+      &quot;level&quot; : 4,
+      &quot;path&quot; : &quot;/shop/zooplus_exclusives/cat_food_treats/greenwoods&quot;,
+      &quot;title&quot; : &quot;Greenwoods&quot;,
+      &quot;type&quot; : &quot;ANIMAL&quot;,
+      &quot;whitespaceAfter&quot; : 0
+    }, {
+      &quot;animalType&quot; : &quot;HORSES&quot;,
+      &quot;description&quot; : &quot;My Star&quot;,
+      &quot;extId&quot; : 256030,
+      &quot;level&quot; : 4,
+      &quot;path&quot; : &quot;/shop/zooplus_exclusives/cat_food_treats/my_star&quot;,
+      &quot;title&quot; : &quot;My Star&quot;,
+      &quot;type&quot; : &quot;ANIMAL&quot;,
+      &quot;whitespaceAfter&quot; : 0
+    }, {
+      &quot;animalType&quot; : &quot;HORSES&quot;,
+      &quot;description&quot; : &quot;Purizon&quot;,
+      &quot;extId&quot; : 152527,
+      &quot;level&quot; : 4,
+      &quot;path&quot; : &quot;/shop/zooplus_exclusives/cat_food_treats/purizon&quot;,
+      &quot;title&quot; : &quot;Purizon&quot;,
+      &quot;type&quot; : &quot;ANIMAL&quot;,
+      &quot;whitespaceAfter&quot; : 0
+    }, {
+      &quot;animalType&quot; : &quot;HORSES&quot;,
+      &quot;description&quot; : &quot;Rosie's Farm Exclusive Cat Food&quot;,
+      &quot;extId&quot; : 365999,
+      &quot;level&quot; : 4,
+      &quot;path&quot; : &quot;/shop/zooplus_exclusives/cat_food_treats/rosies_farm&quot;,
+      &quot;title&quot; : &quot;Rosie's Farm&quot;,
+      &quot;type&quot; : &quot;ANIMAL&quot;,
+      &quot;whitespaceAfter&quot; : 0
+    }, {
+      &quot;animalType&quot; : &quot;HORSES&quot;,
+      &quot;description&quot; : &quot;Smilla Cat Food &amp; Treats&quot;,
+      &quot;extId&quot; : 140265,
+      &quot;level&quot; : 4,
+      &quot;path&quot; : &quot;/shop/zooplus_exclusives/cat_food_treats/smilla&quot;,
+      &quot;title&quot; : &quot;Smilla&quot;,
+      &quot;type&quot; : &quot;ANIMAL&quot;,
+      &quot;whitespaceAfter&quot; : 0
+    }, {
+      &quot;animalType&quot; : &quot;HORSES&quot;,
+      &quot;description&quot; : &quot;Tigeria&quot;,
+      &quot;extId&quot; : 172678,
+      &quot;level&quot; : 4,
+      &quot;path&quot; : &quot;/shop/zooplus_exclusives/cat_food_treats/tigeria&quot;,
+      &quot;title&quot; : &quot;Tigeria&quot;,
+      &quot;type&quot; : &quot;ANIMAL&quot;,
+      &quot;whitespaceAfter&quot; : 0
+    }, {
+      &quot;animalType&quot; : &quot;HORSES&quot;,
+      &quot;description&quot; : &quot;Wild Freedom&quot;,
+      &quot;extId&quot; : 292668,
+      &quot;level&quot; : 4,
+      &quot;path&quot; : &quot;/shop/zooplus_exclusives/cat_food_treats/wild_freedom&quot;,
+      &quot;title&quot; : &quot;Wild Freedom&quot;,
+      &quot;type&quot; : &quot;ANIMAL&quot;,
+      &quot;whitespaceAfter&quot; : 0
+    }, {
+      &quot;animalType&quot; : &quot;HORSES&quot;,
+      &quot;description&quot; : &quot;zoolove by zooplus&quot;,
+      &quot;extId&quot; : 191258,
+      &quot;level&quot; : 4,
+      &quot;path&quot; : &quot;/shop/zooplus_exclusives/cat_food_treats/zoolove&quot;,
+      &quot;title&quot; : &quot;zoolove by zooplus&quot;,
+      &quot;type&quot; : &quot;ANIMAL&quot;,
+      &quot;whitespaceAfter&quot; : 0
+    } ],
+    &quot;description&quot; : &quot;Cat Food &amp; Treats&quot;,
+    &quot;extId&quot; : 139654,
+    &quot;level&quot; : 3,
+    &quot;path&quot; : &quot;/shop/zooplus_exclusives/cat_food_treats&quot;,
+    &quot;pictureFile&quot; : &quot;zooplus_Exclusive_C_1000x1000_6.jpg&quot;,
+    &quot;title&quot; : &quot;Cat Food &amp; Treats&quot;,
+    &quot;type&quot; : &quot;ANIMAL&quot;,
+    &quot;whitespaceAfter&quot; : 0
+  }, {
+    &quot;animalType&quot; : &quot;HORSES&quot;,
+    &quot;description&quot; : &quot;Cat Litter&quot;,
+    &quot;extId&quot; : 139697,
+    &quot;level&quot; : 3,
+    &quot;path&quot; : &quot;/shop/zooplus_exclusives/cat_litter&quot;,
+    &quot;pictureFile&quot; : &quot;Cat_Litter_1000x1000_PT_1.jpg&quot;,
+    &quot;title&quot; : &quot;Cat Litter&quot;,
+    &quot;type&quot; : &quot;ANIMAL&quot;,
+    &quot;whitespaceAfter&quot; : 0
+  }, {
+    &quot;animalType&quot; : &quot;HORSES&quot;,
+    &quot;description&quot; : &quot;Small Pet &amp; Bird Food&quot;,
+    &quot;extId&quot; : 139655,
+    &quot;level&quot; : 3,
+    &quot;path&quot; : &quot;/shop/zooplus_exclusives/small_pet_bird_food&quot;,
+    &quot;pictureFile&quot; : &quot;zooplus_Exclusive_B_S_1000x1000_1.jpg&quot;,
+    &quot;title&quot; : &quot;Small Pet &amp; Bird Food&quot;,
+    &quot;type&quot; : &quot;ANIMAL&quot;,
+    &quot;whitespaceAfter&quot; : 0
+  }, {
+    &quot;animalType&quot; : &quot;HORSES&quot;,
+    &quot;description&quot; : &quot;All Pets&quot;,
+    &quot;extId&quot; : 253845,
+    &quot;level&quot; : 3,
+    &quot;path&quot; : &quot;/shop/zooplus_exclusives/all_pets&quot;,
+    &quot;pictureFile&quot; : &quot;More_Products_1000x1000_2.jpg&quot;,
+    &quot;title&quot; : &quot;All Pets&quot;,
+    &quot;type&quot; : &quot;ANIMAL&quot;,
+    &quot;whitespaceAfter&quot; : 0
+  }, {
+    &quot;animalType&quot; : &quot;REPTILES&quot;,
+    &quot;description&quot; : &quot;Exclusive Accessories&quot;,
+    &quot;extId&quot; : 141064,
+    &quot;level&quot; : 3,
+    &quot;path&quot; : &quot;/shop/zooplus_exclusives/accessories&quot;,
+    &quot;pictureFile&quot; : &quot;zooplus_Exclusive_Acc_1000x1000_4.jpg&quot;,
+    &quot;title&quot; : &quot;Exclusive Accessories&quot;,
+    &quot;type&quot; : &quot;ANIMAL&quot;,
+    &quot;whitespaceAfter&quot; : 0
+  } ],
+  &quot;description&quot; : &quot;★ Exclusives&quot;,
+  &quot;extId&quot; : 138596,
+  &quot;level&quot; : 2,
+  &quot;path&quot; : &quot;/shop/zooplus_exclusives&quot;,
+  &quot;pictureFile&quot; : &quot;zooplus_Exclusive_1000x1000_9.jpg&quot;,
+  &quot;title&quot; : &quot;★ Exclusives&quot;,
+  &quot;type&quot; : &quot;ANIMAL&quot;,
+  &quot;whitespaceAfter&quot; : 0
+}, {
+  &quot;animalType&quot; : &quot;REPTILES&quot;,
+  &quot;children&quot; : [ {
+    &quot;animalType&quot; : &quot;REPTILES&quot;,
+    &quot;children&quot; : [ {
+      &quot;animalType&quot; : &quot;REPTILES&quot;,
+      &quot;description&quot; : &quot;Royal Canin Veterinary Diet&quot;,
+      &quot;extId&quot; : 143732,
+      &quot;level&quot; : 4,
+      &quot;path&quot; : &quot;/shop/veterinary_food/dog_vet_food/royal_canin_veterinary_food&quot;,
+      &quot;title&quot; : &quot;Royal Canin Veterinary Diet&quot;,
+      &quot;type&quot; : &quot;ANIMAL&quot;,
+      &quot;whitespaceAfter&quot; : 0
+    }, {
+      &quot;animalType&quot; : &quot;REPTILES&quot;,
+      &quot;description&quot; : &quot;Hill's Prescription Diet Canine&quot;,
+      &quot;extId&quot; : 143733,
+      &quot;level&quot; : 4,
+      &quot;path&quot; : &quot;/shop/veterinary_food/dog_vet_food/hills_prescription_food&quot;,
+      &quot;title&quot; : &quot;Hill's Prescription Diet Canine&quot;,
+      &quot;type&quot; : &quot;ANIMAL&quot;,
+      &quot;whitespaceAfter&quot; : 0
+    }, {
+      &quot;animalType&quot; : &quot;REPTILES&quot;,
+      &quot;description&quot; : &quot;Affinity Advance Veterinary Diets&quot;,
+      &quot;extId&quot; : 214634,
+      &quot;level&quot; : 4,
+      &quot;path&quot; : &quot;/shop/veterinary_food/dog_vet_food/advance_vet_diets&quot;,
+      &quot;title&quot; : &quot;Affinity Advance Veterinary Diets&quot;,
+      &quot;type&quot; : &quot;ANIMAL&quot;,
+      &quot;whitespaceAfter&quot; : 0
+    }, {
+      &quot;animalType&quot; : &quot;REPTILES&quot;,
+      &quot;description&quot; : &quot;★ Concept for Life Veterinary Diet &quot;,
+      &quot;extId&quot; : 347821,
+      &quot;level&quot; : 4,
+      &quot;path&quot; : &quot;/shop/veterinary_food/dog_vet_food/concept_life_life_veterinary_dog&quot;,
+      &quot;title&quot; : &quot;★ Concept for Life Veterinary Diet &quot;,
+      &quot;type&quot; : &quot;ANIMAL&quot;,
+      &quot;whitespaceAfter&quot; : 0
+    }, {
+      &quot;animalType&quot; : &quot;REPTILES&quot;,
+      &quot;description&quot; : &quot;Integra Protect Dog Food&quot;,
+      &quot;extId&quot; : 176778,
+      &quot;level&quot; : 4,
+      &quot;path&quot; : &quot;/shop/veterinary_food/dog_vet_food/integra_vet_food&quot;,
+      &quot;title&quot; : &quot;Integra Protect&quot;,
+      &quot;type&quot; : &quot;ANIMAL&quot;,
+      &quot;whitespaceAfter&quot; : 0
+    }, {
+      &quot;animalType&quot; : &quot;REPTILES&quot;,
+      &quot;description&quot; : &quot;Purina Dry Dog Food Veterinary Diet&quot;,
+      &quot;extId&quot; : 143695,
+      &quot;level&quot; : 4,
+      &quot;path&quot; : &quot;/shop/veterinary_food/dog_vet_food/purina_vet_food&quot;,
+      &quot;title&quot; : &quot;Purina Veterinary Diet&quot;,
+      &quot;type&quot; : &quot;ANIMAL&quot;,
+      &quot;whitespaceAfter&quot; : 0
+    }, {
+      &quot;animalType&quot; : &quot;REPTILES&quot;,
+      &quot;description&quot; : &quot;Rinti Canine Dietetic Food&quot;,
+      &quot;extId&quot; : 176788,
+      &quot;level&quot; : 4,
+      &quot;path&quot; : &quot;/shop/veterinary_food/dog_vet_food/rinti_canine_vet_food&quot;,
+      &quot;title&quot; : &quot;Rinti Canine (formerly Reddy)&quot;,
+      &quot;type&quot; : &quot;ANIMAL&quot;,
+      &quot;whitespaceAfter&quot; : 0
+    }, {
+      &quot;animalType&quot; : &quot;REPTILES&quot;,
+      &quot;description&quot; : &quot;Rocco Diet Care&quot;,
+      &quot;extId&quot; : 348623,
+      &quot;level&quot; : 4,
+      &quot;path&quot; : &quot;/shop/veterinary_food/dog_vet_food/rocco_diet_care&quot;,
+      &quot;title&quot; : &quot;★ Rocco Diet Care&quot;,
+      &quot;type&quot; : &quot;ANIMAL&quot;,
+      &quot;whitespaceAfter&quot; : 0
+    } ],
+    &quot;description&quot; : &quot;Dog Vet Food &amp; Specialist Care&quot;,
+    &quot;extId&quot; : 143730,
+    &quot;level&quot; : 3,
+    &quot;path&quot; : &quot;/shop/veterinary_food/dog_vet_food&quot;,
+    &quot;pictureFile&quot; : &quot;2018_03_VET_Dog_1000x1000_DE_6.jpg&quot;,
+    &quot;title&quot; : &quot;Dog Vet Food &amp; Specialist Food&quot;,
+    &quot;type&quot; : &quot;ANIMAL&quot;,
+    &quot;whitespaceAfter&quot; : 0
+  }, {
+    &quot;animalType&quot; : &quot;REPTILES&quot;,
+    &quot;children&quot; : [ {
+      &quot;animalType&quot; : &quot;REPTILES&quot;,
+      &quot;description&quot; : &quot;Royal Canin Veterinary Diet&quot;,
+      &quot;extId&quot; : 143736,
+      &quot;level&quot; : 4,
+      &quot;path&quot; : &quot;/shop/veterinary_food/cat_vet_food/royal_canin_feline_vet_food&quot;,
+      &quot;title&quot; : &quot;Royal Canin Veterinary Diet&quot;,
+      &quot;type&quot; : &quot;ANIMAL&quot;,
+      &quot;whitespaceAfter&quot; : 0
+    }, {
+      &quot;animalType&quot; : &quot;REPTILES&quot;,
+      &quot;description&quot; : &quot;Hill's Prescription Diet Feline&quot;,
+      &quot;extId&quot; : 143696,
+      &quot;level&quot; : 4,
+      &quot;path&quot; : &quot;/shop/veterinary_food/cat_vet_food/hills_prescription_food&quot;,
+      &quot;title&quot; : &quot;Hill's Prescription Diet&quot;,
+      &quot;type&quot; : &quot;ANIMAL&quot;,
+      &quot;whitespaceAfter&quot; : 0
+    }, {
+      &quot;animalType&quot; : &quot;REPTILES&quot;,
+      &quot;description&quot; : &quot;Purina Veterinary Diets&quot;,
+      &quot;extId&quot; : 257524,
+      &quot;level&quot; : 4,
+      &quot;path&quot; : &quot;/shop/veterinary_food/cat_vet_food/purina_veterinary_diets&quot;,
+      &quot;title&quot; : &quot;Purina Veterinary Diets&quot;,
+      &quot;type&quot; : &quot;ANIMAL&quot;,
+      &quot;whitespaceAfter&quot; : 0
+    }, {
+      &quot;animalType&quot; : &quot;REPTILES&quot;,
+      &quot;description&quot; : &quot;Specific Dry Cat Food Veterinary Diet&quot;,
+      &quot;extId&quot; : 143738,
+      &quot;level&quot; : 4,
+      &quot;path&quot; : &quot;/shop/veterinary_food/cat_vet_food/specific_vet_food&quot;,
+      &quot;title&quot; : &quot;Specific Veterinary Diet&quot;,
+      &quot;type&quot; : &quot;ANIMAL&quot;,
+      &quot;whitespaceAfter&quot; : 0
+    }, {
+      &quot;animalType&quot; : &quot;REPTILES&quot;,
+      &quot;description&quot; : &quot;beaphar Special Cat Diet&quot;,
+      &quot;extId&quot; : 176158,
+      &quot;level&quot; : 4,
+      &quot;path&quot; : &quot;/shop/veterinary_food/cat_vet_food/beaphar&quot;,
+      &quot;title&quot; : &quot;beaphar Special Diet&quot;,
+      &quot;type&quot; : &quot;ANIMAL&quot;,
+      &quot;whitespaceAfter&quot; : 0
+    }, {
+      &quot;animalType&quot; : &quot;REPTILES&quot;,
+      &quot;description&quot; : &quot;★ Concept for Life Veterinary Diet &quot;,
+      &quot;extId&quot; : 339518,
+      &quot;level&quot; : 4,
+      &quot;path&quot; : &quot;/shop/veterinary_food/cat_vet_food/concept_life_life_veterinary_cat&quot;,
+      &quot;title&quot; : &quot;★ Concept for Life Veterinary Diet &quot;,
+      &quot;type&quot; : &quot;ANIMAL&quot;,
+      &quot;whitespaceAfter&quot; : 0
+    }, {
+      &quot;animalType&quot; : &quot;REPTILES&quot;,
+      &quot;description&quot; : &quot;Integra Protect Cat Food&quot;,
+      &quot;extId&quot; : 143697,
+      &quot;level&quot; : 4,
+      &quot;path&quot; : &quot;/shop/veterinary_food/cat_vet_food/integra_vet_food&quot;,
+      &quot;title&quot; : &quot;Integra Protect&quot;,
+      &quot;type&quot; : &quot;ANIMAL&quot;,
+      &quot;whitespaceAfter&quot; : 0
+    }, {
+      &quot;animalType&quot; : &quot;REPTILES&quot;,
+      &quot;description&quot; : &quot;Kattovit Special Diets&quot;,
+      &quot;extId&quot; : 143737,
+      &quot;level&quot; : 4,
+      &quot;path&quot; : &quot;/shop/veterinary_food/cat_vet_food/kattovit_vet_food&quot;,
+      &quot;title&quot; : &quot;Kattovit&quot;,
+      &quot;type&quot; : &quot;ANIMAL&quot;,
+      &quot;whitespaceAfter&quot; : 0
+    }, {
+      &quot;animalType&quot; : &quot;REPTILES&quot;,
+      &quot;description&quot; : &quot;★ Smilla Veterinary Diet&quot;,
+      &quot;extId&quot; : 350080,
+      &quot;level&quot; : 4,
+      &quot;path&quot; : &quot;/shop/veterinary_food/cat_vet_food/smilla_vet_food&quot;,
+      &quot;title&quot; : &quot;★ Smilla Veterinary Diet&quot;,
+      &quot;type&quot; : &quot;ANIMAL&quot;,
+      &quot;whitespaceAfter&quot; : 0
+    } ],
+    &quot;description&quot; : &quot;Cat Vet Food &amp; Specialist Care&quot;,
+    &quot;extId&quot; : 143735,
+    &quot;level&quot; : 3,
+    &quot;path&quot; : &quot;/shop/veterinary_food/cat_vet_food&quot;,
+    &quot;pictureFile&quot; : &quot;2018_03_VET_Cat_1000x1000_DE_5.jpg&quot;,
+    &quot;title&quot; : &quot;Cat Vet Food &amp; Specialist Food&quot;,
+    &quot;type&quot; : &quot;ANIMAL&quot;,
+    &quot;whitespaceAfter&quot; : 0
+  }, {
+    &quot;animalType&quot; : &quot;REPTILES&quot;,
+    &quot;description&quot; : &quot;Ailments&quot;,
+    &quot;extId&quot; : 374817,
+    &quot;level&quot; : 3,
+    &quot;path&quot; : &quot;/shop/veterinary_food/ailments&quot;,
+    &quot;pictureFile&quot; : &quot;Daily_Question_1000x1000_1.jpg&quot;,
+    &quot;title&quot; : &quot;Ailments&quot;,
+    &quot;type&quot; : &quot;ANIMAL&quot;,
+    &quot;whitespaceAfter&quot; : 0
+  } ],
+  &quot;description&quot; : &quot;Veterinary and Specialist Diet Food&quot;,
+  &quot;extId&quot; : 143666,
+  &quot;level&quot; : 2,
+  &quot;path&quot; : &quot;/shop/veterinary_food&quot;,
+  &quot;pictureFile&quot; : &quot;DryFood_VET_1000x1000_1.jpg&quot;,
+  &quot;title&quot; : &quot;+ Vet&quot;,
+  &quot;type&quot; : &quot;ANIMAL&quot;,
+  &quot;whitespaceAfter&quot; : 0
+}, {
+  &quot;children&quot; : [ {
+    &quot;description&quot; : &quot;Almo Nature Pet Food&quot;,
+    &quot;extId&quot; : 34941,
+    &quot;level&quot; : 3,
+    &quot;path&quot; : &quot;/shop/pet_food/almsonature&quot;,
+    &quot;pictureFile&quot; : &quot;logo_AlmoNature_1000x1000_5.jpg&quot;,
+    &quot;title&quot; : &quot;Almo Nature&quot;,
+    &quot;whitespaceAfter&quot; : 0
+  }, {
+    &quot;description&quot; : &quot;Animonda Pet Food&quot;,
+    &quot;extId&quot; : 34949,
+    &quot;level&quot; : 3,
+    &quot;path&quot; : &quot;/shop/pet_food/animonda_pet_food&quot;,
+    &quot;pictureFile&quot; : &quot;logo_Animonda_1000x1000_5.jpg&quot;,
+    &quot;title&quot; : &quot;Animonda&quot;,
+    &quot;whitespaceAfter&quot; : 0
+  }, {
+    &quot;description&quot; : &quot;Applaws Pet Food&quot;,
+    &quot;extId&quot; : 34958,
+    &quot;level&quot; : 3,
+    &quot;path&quot; : &quot;/shop/pet_food/applaws_pet_food&quot;,
+    &quot;pictureFile&quot; : &quot;logo_Applaws_1000x1000_1_1.jpg&quot;,
+    &quot;title&quot; : &quot;Applaws&quot;,
+    &quot;whitespaceAfter&quot; : 0
+  }, {
+    &quot;description&quot; : &quot;Arden Grange Pet Food&quot;,
+    &quot;extId&quot; : 42305,
+    &quot;level&quot; : 3,
+    &quot;path&quot; : &quot;/shop/pet_food/arden_grange&quot;,
+    &quot;pictureFile&quot; : &quot;logo_ArdenGrange_1000x1000_1.jpg&quot;,
+    &quot;title&quot; : &quot;Arden Grange&quot;,
+    &quot;whitespaceAfter&quot; : 0
+  }, {
+    &quot;description&quot; : &quot;Burns Pet Food&quot;,
+    &quot;extId&quot; : 34993,
+    &quot;level&quot; : 3,
+    &quot;path&quot; : &quot;/shop/pet_food/burns_&quot;,
+    &quot;pictureFile&quot; : &quot;logo_Burns_1000x1000_1.jpg&quot;,
+    &quot;title&quot; : &quot;Burns&quot;,
+    &quot;whitespaceAfter&quot; : 0
+  }, {
+    &quot;description&quot; : &quot;Catsan&quot;,
+    &quot;extId&quot; : 404374,
+    &quot;level&quot; : 3,
+    &quot;path&quot; : &quot;/shop/pet_food/catsan&quot;,
+    &quot;pictureFile&quot; : &quot;Logo_v2_1.png&quot;,
+    &quot;title&quot; : &quot;Catsan&quot;,
+    &quot;whitespaceAfter&quot; : 0
+  }, {
+    &quot;description&quot; : &quot;Concept for Life Pet Food&quot;,
+    &quot;extId&quot; : 289663,
+    &quot;level&quot; : 3,
+    &quot;path&quot; : &quot;/shop/pet_food/concept_for_life_range&quot;,
+    &quot;pictureFile&quot; : &quot;logo_CFL_1000x1000_2.jpg&quot;,
+    &quot;title&quot; : &quot;Concept for Life&quot;,
+    &quot;whitespaceAfter&quot; : 0
+  }, {
+    &quot;description&quot; : &quot;Crave&quot;,
+    &quot;extId&quot; : 407039,
+    &quot;level&quot; : 3,
+    &quot;path&quot; : &quot;/shop/pet_food/crave&quot;,
+    &quot;pictureFile&quot; : &quot;Crave_brandlogo_DE_3.jpg&quot;,
+    &quot;title&quot; : &quot;Crave&quot;,
+    &quot;whitespaceAfter&quot; : 0
+  }, {
+    &quot;description&quot; : &quot;Dreamies&quot;,
+    &quot;extId&quot; : 429064,
+    &quot;level&quot; : 3,
+    &quot;path&quot; : &quot;/shop/pet_food/dreamies&quot;,
+    &quot;pictureFile&quot; : &quot;Module1_logo_desktop_1.png&quot;,
+    &quot;title&quot; : &quot;Dreamies&quot;,
+    &quot;whitespaceAfter&quot; : 0
+  }, {
+    &quot;description&quot; : &quot;Eukanuba Pet Food&quot;,
+    &quot;extId&quot; : 35060,
+    &quot;level&quot; : 3,
+    &quot;path&quot; : &quot;/shop/pet_food/eukanuba_&quot;,
+    &quot;pictureFile&quot; : &quot;logo_Eukanuba_1000x1000_7.jpg&quot;,
+    &quot;title&quot; : &quot;Eukanuba&quot;,
+    &quot;whitespaceAfter&quot; : 0
+  }, {
+    &quot;description&quot; : &quot;Felix Cat Food&quot;,
+    &quot;extId&quot; : 11799,
+    &quot;level&quot; : 3,
+    &quot;path&quot; : &quot;/shop/pet_food/felix&quot;,
+    &quot;pictureFile&quot; : &quot;logo_Felix_1000x1000_8.jpg&quot;,
+    &quot;title&quot; : &quot;Felix&quot;,
+    &quot;whitespaceAfter&quot; : 0
+  }, {
+    &quot;description&quot; : &quot;Gourmet&quot;,
+    &quot;extId&quot; : 263320,
+    &quot;level&quot; : 3,
+    &quot;path&quot; : &quot;/shop/pet_food/gourmet&quot;,
+    &quot;pictureFile&quot; : &quot;logo_Gourmet_1000x1000_7.jpg&quot;,
+    &quot;title&quot; : &quot;Gourmet&quot;,
+    &quot;whitespaceAfter&quot; : 0
+  }, {
+    &quot;description&quot; : &quot;Hill's Pet Food&quot;,
+    &quot;extId&quot; : 35071,
+    &quot;level&quot; : 3,
+    &quot;path&quot; : &quot;/shop/pet_food/hills_pet&quot;,
+    &quot;pictureFile&quot; : &quot;logo_Hills_1000x1000_3.jpg&quot;,
+    &quot;title&quot; : &quot;Hill's&quot;,
+    &quot;whitespaceAfter&quot; : 0
+  }, {
+    &quot;description&quot; : &quot;Hill's Prescription Diet Pet Food&quot;,
+    &quot;extId&quot; : 216037,
+    &quot;level&quot; : 3,
+    &quot;path&quot; : &quot;/shop/pet_food/hills_prescription_diet&quot;,
+    &quot;pictureFile&quot; : &quot;logo_HillsPrescriptionDiet_1000x1000_5.jpg&quot;,
+    &quot;title&quot; : &quot;Hill's Prescription Diet&quot;,
+    &quot;whitespaceAfter&quot; : 0
+  }, {
+    &quot;description&quot; : &quot;IAMS Pet Food&quot;,
+    &quot;extId&quot; : 35083,
+    &quot;level&quot; : 3,
+    &quot;path&quot; : &quot;/shop/pet_food/iams_pet&quot;,
+    &quot;pictureFile&quot; : &quot;logo_Iams_1000x1000_7.jpg&quot;,
+    &quot;title&quot; : &quot;IAMS &quot;,
+    &quot;whitespaceAfter&quot; : 0
+  }, {
+    &quot;description&quot; : &quot;James Wellbeloved Pet Food&quot;,
+    &quot;extId&quot; : 35088,
+    &quot;level&quot; : 3,
+    &quot;path&quot; : &quot;/shop/pet_food/jameswelbeloved&quot;,
+    &quot;pictureFile&quot; : &quot;JWB_New_Logo_Green_1000x1000_1.jpg&quot;,
+    &quot;title&quot; : &quot;James Wellbeloved&quot;,
+    &quot;whitespaceAfter&quot; : 0
+  }, {
+    &quot;description&quot; : &quot;Lily's Kitchen Pet Food&quot;,
+    &quot;extId&quot; : 120679,
+    &quot;level&quot; : 3,
+    &quot;path&quot; : &quot;/shop/pet_food/lilys_kitchen&quot;,
+    &quot;pictureFile&quot; : &quot;Lilys_Kitchen_Logo_1000x1000_1.jpg&quot;,
+    &quot;title&quot; : &quot;Lily's Kitchen&quot;,
+    &quot;whitespaceAfter&quot; : 0
+  }, {
+    &quot;description&quot; : &quot;Nutro Pet Food&quot;,
+    &quot;extId&quot; : 9927,
+    &quot;level&quot; : 3,
+    &quot;path&quot; : &quot;/shop/pet_food/nutro&quot;,
+    &quot;pictureFile&quot; : &quot;logo_Nutro_1000x1000_3.jpg&quot;,
+    &quot;title&quot; : &quot;Nutro Pet Food&quot;,
+    &quot;whitespaceAfter&quot; : 0
+  }, {
+    &quot;description&quot; : &quot;Welcome to the Pedigree Shop!&quot;,
+    &quot;extId&quot; : 10248,
+    &quot;level&quot; : 3,
+    &quot;path&quot; : &quot;/shop/pet_food/pedigree&quot;,
+    &quot;pictureFile&quot; : &quot;logo_Pedigree_1000x1000_4.jpg&quot;,
+    &quot;title&quot; : &quot;Pedigree&quot;,
+    &quot;whitespaceAfter&quot; : 0
+  }, {
+    &quot;description&quot; : &quot;Pro Plan Veterinary Diets&quot;,
+    &quot;extId&quot; : 430081,
+    &quot;level&quot; : 3,
+    &quot;path&quot; : &quot;/shop/pet_food/pro_plan_veterinary_diets&quot;,
+    &quot;title&quot; : &quot;Pro Plan Veterinary Diets&quot;,
+    &quot;whitespaceAfter&quot; : 0
+  }, {
+    &quot;description&quot; : &quot;Purina One&quot;,
+    &quot;extId&quot; : 425717,
+    &quot;level&quot; : 3,
+    &quot;path&quot; : &quot;/shop/pet_food/purina_one&quot;,
+    &quot;title&quot; : &quot;Purina One&quot;,
+    &quot;whitespaceAfter&quot; : 0
+  }, {
+    &quot;description&quot; : &quot;Rosie's Farm&quot;,
+    &quot;extId&quot; : 428184,
+    &quot;level&quot; : 3,
+    &quot;path&quot; : &quot;/shop/pet_food/rosies_farm&quot;,
+    &quot;pictureFile&quot; : &quot;logo_RosiesFarm_1000x1000_1.jpg&quot;,
+    &quot;title&quot; : &quot;Rosie's Farm&quot;,
+    &quot;whitespaceAfter&quot; : 0
+  }, {
+    &quot;description&quot; : &quot;Royal Canin&quot;,
+    &quot;extId&quot; : 35143,
+    &quot;level&quot; : 3,
+    &quot;path&quot; : &quot;/shop/pet_food/royal_canin_food&quot;,
+    &quot;pictureFile&quot; : &quot;logo_RoyalCanin_1000x1000_7.jpg&quot;,
+    &quot;title&quot; : &quot;Royal Canin&quot;,
+    &quot;whitespaceAfter&quot; : 0
+  }, {
+    &quot;description&quot; : &quot;Royal Canin Veterinary Diet Pet Food&quot;,
+    &quot;extId&quot; : 218867,
+    &quot;level&quot; : 3,
+    &quot;path&quot; : &quot;/shop/pet_food/royal_canin_veterinary_diet&quot;,
+    &quot;pictureFile&quot; : &quot;logo_RC_VeterinaryDiet_1000x1000_5.jpg&quot;,
+    &quot;title&quot; : &quot;Royal Canin Veterinary Diet&quot;,
+    &quot;whitespaceAfter&quot; : 0
+  }, {
+    &quot;description&quot; : &quot;Sanabelle&quot;,
+    &quot;extId&quot; : 32089,
+    &quot;level&quot; : 3,
+    &quot;path&quot; : &quot;/shop/pet_food/sanabelle&quot;,
+    &quot;pictureFile&quot; : &quot;logo_Sanabelle_1000x1000_4.jpg&quot;,
+    &quot;title&quot; : &quot;Sanabelle&quot;,
+    &quot;whitespaceAfter&quot; : 0
+  }, {
+    &quot;description&quot; : &quot;Sheba Cat Food&quot;,
+    &quot;extId&quot; : 324800,
+    &quot;level&quot; : 3,
+    &quot;path&quot; : &quot;/shop/pet_food/sheba_brand&quot;,
+    &quot;pictureFile&quot; : &quot;logo_Sheba_1000x1000_2.jpg&quot;,
+    &quot;title&quot; : &quot;Sheba&quot;,
+    &quot;whitespaceAfter&quot; : 0
+  }, {
+    &quot;description&quot; : &quot;Taste of the Wild&quot;,
+    &quot;extId&quot; : 59575,
+    &quot;level&quot; : 3,
+    &quot;path&quot; : &quot;/shop/pet_food/taste_of_the_wild&quot;,
+    &quot;pictureFile&quot; : &quot;logo_TasteOfTheWild_1000x1000_1_1.jpg&quot;,
+    &quot;title&quot; : &quot;Taste of the Wild&quot;,
+    &quot;whitespaceAfter&quot; : 0
+  }, {
+    &quot;description&quot; : &quot;thrive Pet Food&quot;,
+    &quot;extId&quot; : 253527,
+    &quot;level&quot; : 3,
+    &quot;path&quot; : &quot;/shop/pet_food/thrive&quot;,
+    &quot;pictureFile&quot; : &quot;logo_Thrive_1000x1000_1.jpg&quot;,
+    &quot;title&quot; : &quot;thrive&quot;,
+    &quot;whitespaceAfter&quot; : 0
+  }, {
+    &quot;description&quot; : &quot;Whiskas&quot;,
+    &quot;extId&quot; : 11787,
+    &quot;level&quot; : 3,
+    &quot;path&quot; : &quot;/shop/pet_food/whiskas&quot;,
+    &quot;pictureFile&quot; : &quot;logo_Whiskas_1000x1000_4.jpg&quot;,
+    &quot;title&quot; : &quot;Whiskas&quot;,
+    &quot;whitespaceAfter&quot; : 0
+  }, {
+    &quot;description&quot; : &quot;Wolf of Wilderness Dog Food&quot;,
+    &quot;extId&quot; : 281990,
+    &quot;level&quot; : 3,
+    &quot;path&quot; : &quot;/shop/pet_food/wolf_of_wilderness_range&quot;,
+    &quot;pictureFile&quot; : &quot;logo_Wolf_of_Wilderness_1000x1000_3.jpg&quot;,
+    &quot;title&quot; : &quot;Wolf of Wilderness&quot;,
+    &quot;whitespaceAfter&quot; : 0
+  }, {
+    &quot;description&quot; : &quot;More brands&quot;,
+    &quot;extId&quot; : 319412,
+    &quot;level&quot; : 3,
+    &quot;path&quot; : &quot;/shop/pet_food/brands&quot;,
+    &quot;pictureFile&quot; : &quot;More_Products_1000x1000_2.jpg&quot;,
+    &quot;title&quot; : &quot;More Brands&quot;,
+    &quot;whitespaceAfter&quot; : 0
+  } ],
+  &quot;description&quot; : &quot;Shop by Brand for Pet Food &amp; Accessories&quot;,
+  &quot;extId&quot; : 9872,
+  &quot;level&quot; : 2,
+  &quot;path&quot; : &quot;/shop/pet_food&quot;,
+  &quot;pictureFile&quot; : &quot;zooplus_Boutique_1000x1000_2.jpg&quot;,
+  &quot;title&quot; : &quot;Top Brands&quot;,
+  &quot;type&quot; : &quot;BRANDS&quot;,
+  &quot;whitespaceAfter&quot; : 0
+}, {
+  &quot;children&quot; : [ {
+    &quot;description&quot; : &quot;July Food Offers&quot;,
+    &quot;extId&quot; : 280066,
+    &quot;level&quot; : 3,
+    &quot;path&quot; : &quot;/shop/pet_supplies_specials/new_food_offers&quot;,
+    &quot;pictureFile&quot; : &quot;General_Offers_ALL_1000x1000_5.jpg&quot;,
+    &quot;title&quot; : &quot;July Food Offers&quot;,
+    &quot;whitespaceAfter&quot; : 0
+  }, {
+    &quot;description&quot; : &quot;NEW at zooplus!&quot;,
+    &quot;extId&quot; : 230067,
+    &quot;level&quot; : 3,
+    &quot;path&quot; : &quot;/shop/pet_supplies_specials/new_products&quot;,
+    &quot;pictureFile&quot; : &quot;NewProducts_1000x1000_IE_1.jpg&quot;,
+    &quot;title&quot; : &quot;NEW at zooplus!&quot;,
+    &quot;whitespaceAfter&quot; : 0
+  }, {
+    &quot;description&quot; : &quot;&amp;nbsp;&quot;,
+    &quot;extId&quot; : 432074,
+    &quot;level&quot; : 3,
+    &quot;path&quot; : &quot;/shop/pet_supplies_specials/birthday_2021&quot;,
+    &quot;title&quot; : &quot;🥳 zooplus Birthday 2021&quot;,
+    &quot;whitespaceAfter&quot; : 0
+  }, {
+    &quot;description&quot; : &quot;Summer Splash&quot;,
+    &quot;extId&quot; : 387814,
+    &quot;level&quot; : 3,
+    &quot;path&quot; : &quot;/shop/pet_supplies_specials/summer_splash&quot;,
+    &quot;title&quot; : &quot;Summer Splash 💦&quot;,
+    &quot;whitespaceAfter&quot; : 0
+  }, {
+    &quot;description&quot; : &quot;Clearance Sale&quot;,
+    &quot;extId&quot; : 23968,
+    &quot;level&quot; : 3,
+    &quot;path&quot; : &quot;/shop/pet_supplies_specials/sale&quot;,
+    &quot;pictureFile&quot; : &quot;Clearance_General_1000x1000_4.jpg&quot;,
+    &quot;title&quot; : &quot;Clearance Sale&quot;,
+    &quot;whitespaceAfter&quot; : 0
+  }, {
+    &quot;description&quot; : &quot;Trial Packs&quot;,
+    &quot;extId&quot; : 299063,
+    &quot;level&quot; : 3,
+    &quot;path&quot; : &quot;/shop/pet_supplies_specials/trial_packs&quot;,
+    &quot;pictureFile&quot; : &quot;Trialpacks_General_1000x1000_3.jpg&quot;,
+    &quot;title&quot; : &quot;Trial Packs&quot;,
+    &quot;whitespaceAfter&quot; : 0
+  }, {
+    &quot;description&quot; : &quot;Coupon Codes &amp; Discounts&quot;,
+    &quot;extId&quot; : 22918,
+    &quot;level&quot; : 3,
+    &quot;path&quot; : &quot;/shop/pet_supplies_specials/gift_certificates&quot;,
+    &quot;pictureFile&quot; : &quot;Dog_Puppy_Training_1000x1000_1.jpg&quot;,
+    &quot;title&quot; : &quot;Coupon Codes &amp; Discounts&quot;,
+    &quot;whitespaceAfter&quot; : 0
+  }, {
+    &quot;description&quot; : &quot;Dog Breed Shop&quot;,
+    &quot;extId&quot; : 226505,
+    &quot;level&quot; : 3,
+    &quot;path&quot; : &quot;/shop/pet_supplies_specials/dog_breed_shop&quot;,
+    &quot;pictureFile&quot; : &quot;Dog_Breed_1000x1000_5.jpg&quot;,
+    &quot;title&quot; : &quot;Dog Breed Shop&quot;,
+    &quot;whitespaceAfter&quot; : 0
+  }, {
+    &quot;description&quot; : &quot;Dog Life Stages&quot;,
+    &quot;extId&quot; : 203697,
+    &quot;level&quot; : 3,
+    &quot;path&quot; : &quot;/shop/pet_supplies_specials/dog_life_stages_puppy_senior&quot;,
+    &quot;pictureFile&quot; : &quot;Dog_ALL_1000x1000px_1.jpg&quot;,
+    &quot;title&quot; : &quot;Dog Life Stages&quot;,
+    &quot;whitespaceAfter&quot; : 0
+  }, {
+    &quot;description&quot; : &quot;Cat Life Stages&quot;,
+    &quot;extId&quot; : 203731,
+    &quot;level&quot; : 3,
+    &quot;path&quot; : &quot;/shop/pet_supplies_specials/cat_life_stages&quot;,
+    &quot;pictureFile&quot; : &quot;Cat_ALL_1000x1000px_1.jpg&quot;,
+    &quot;title&quot; : &quot;Cat Life Stages&quot;,
+    &quot;whitespaceAfter&quot; : 0
+  }, {
+    &quot;description&quot; : &quot;Seasonal Specials&quot;,
+    &quot;extId&quot; : 9259,
+    &quot;level&quot; : 3,
+    &quot;path&quot; : &quot;/shop/pet_supplies_specials/pet_supplies_seasonal&quot;,
+    &quot;pictureFile&quot; : &quot;Seasonal_Offers_Spring_1000x1000_1.jpg&quot;,
+    &quot;title&quot; : &quot;Seasonal Specials  &quot;,
+    &quot;whitespaceAfter&quot; : 0
+  }, {
+    &quot;description&quot; : &quot;Buy in bulk at zooplus!&quot;,
+    &quot;extId&quot; : 328541,
+    &quot;level&quot; : 3,
+    &quot;path&quot; : &quot;/shop/pet_supplies_specials/bulk_buy&quot;,
+    &quot;pictureFile&quot; : &quot;SaverPacks_1000x1000_INT_1.jpg&quot;,
+    &quot;title&quot; : &quot;Bulk Buys&quot;,
+    &quot;whitespaceAfter&quot; : 1
+  } ],
+  &quot;description&quot; : &quot;Pet supplies at their very best for you!&quot;,
+  &quot;extId&quot; : 9258,
+  &quot;level&quot; : 2,
+  &quot;path&quot; : &quot;/shop/pet_supplies_specials&quot;,
+  &quot;pictureFile&quot; : &quot;General_Offers_ALL_1000x1000_1.jpg&quot;,
+  &quot;specials&quot; : [ {
+    &quot;animalType&quot; : &quot;DOGS&quot;,
+    &quot;description&quot; : &quot;Special Offers: Dog Supplies&quot;,
+    &quot;extId&quot; : 4908,
+    &quot;level&quot; : 4,
+    &quot;path&quot; : &quot;/specials/dogs/special_offers/food/34874&quot;,
+    &quot;pictureFile&quot; : &quot;Dog_Seasonal_1000x1000_2.jpg&quot;,
+    &quot;title&quot; : &quot;Dog&quot;,
+    &quot;type&quot; : &quot;SPECIAL_OFFERS&quot;,
+    &quot;whitespaceAfter&quot; : 0
+  }, {
+    &quot;animalType&quot; : &quot;CATS&quot;,
+    &quot;description&quot; : &quot;Special Offers: Cat Supplies&quot;,
+    &quot;extId&quot; : 4909,
+    &quot;level&quot; : 4,
+    &quot;path&quot; : &quot;/specials/cats/special_offers/cat_trees_/34883&quot;,
+    &quot;pictureFile&quot; : &quot;Cat_Seasonal_1000x1000_2.jpg&quot;,
+    &quot;title&quot; : &quot;Cat&quot;,
+    &quot;type&quot; : &quot;SPECIAL_OFFERS&quot;,
+    &quot;whitespaceAfter&quot; : 0
+  }, {
+    &quot;animalType&quot; : &quot;RODENTS&quot;,
+    &quot;description&quot; : &quot;Special Offers: Small Pet Supplies&quot;,
+    &quot;extId&quot; : 4914,
+    &quot;level&quot; : 4,
+    &quot;path&quot; : &quot;/specials/small_pets/special_offers/cages_and_pens/34887&quot;,
+    &quot;pictureFile&quot; : &quot;General_Offers_S_1000x1000_2.jpg&quot;,
+    &quot;title&quot; : &quot;Small Pet&quot;,
+    &quot;type&quot; : &quot;SPECIAL_OFFERS&quot;,
+    &quot;whitespaceAfter&quot; : 0
+  }, {
+    &quot;animalType&quot; : &quot;BIRDS&quot;,
+    &quot;description&quot; : &quot;Special Offers: Bird Supplies&quot;,
+    &quot;extId&quot; : 4916,
+    &quot;level&quot; : 4,
+    &quot;path&quot; : &quot;/specials/birds/special_offers/cages_/34899&quot;,
+    &quot;pictureFile&quot; : &quot;General_Offers_B_1000x1000_2.jpg&quot;,
+    &quot;title&quot; : &quot;Bird&quot;,
+    &quot;type&quot; : &quot;SPECIAL_OFFERS&quot;,
+    &quot;whitespaceAfter&quot; : 0
+  } ],
+  &quot;title&quot; : &quot;Special Offers &quot;,
+  &quot;type&quot; : &quot;OFFERS&quot;,
+  &quot;whitespaceAfter&quot; : 0
+}]" data-via-webc="true" data-original-host="zooplus.co.uk"> 
+     <div>  
+      <div id="webc-shop-header"> 
+       <div></div> 
+      </div> 
+     </div> 
+    </div> 
+    <div id="shop-header-security-icons-box" style="display:none"> 
+    </div> 
+    <div id="shop-header-shipping-fee-text" style="display: none"> 
+     <a class="shop-header-delivery-information-link" href="https://www.zooplus.co.uk/content/shippingcosts" target="_self"> <span class="shop-header-delivery-information-message"> Free delivery from £39 (T&amp;C’s apply)**</span> </a> 
+    </div> 
+    <div id="header-shop-mini-cart" style="display:none"> 
+     <div id="shop-minicart-component-init" data-component-available="true" data-bundle="zooplus" data-styleguide-version="v3" data-media-server-url="https://shop-checkout-webc-components.mediazs.com/shop-mini-cart/SMC-REL-2.7.0/" data-translations="{&quot;shop.header.cart.button.label&quot;:&quot;Shopping Cart&quot;,&quot;shop.header.minicart.flyout.header&quot;:&quot;Your Shopping Basket&quot;,&quot;shop.header.minicart.flyout.button&quot;:&quot;Go to Basket&quot;,&quot;checkout.overview.grandtotal&quot;:&quot;Total&quot;,&quot;general.item.text&quot;:&quot;item&quot;,&quot;shop.header.minicart.flyout.empty.header&quot;:&quot;Your Shopping Basket is empty :(&quot;,&quot;checkout.invalid.workflow&quot;:&quot;An unexpected error has occurred. Please try again. &quot;,&quot;general.items.text&quot;:&quot;items&quot;,&quot;shop.header.minicart.flyout.total&quot;:&quot;Total&quot;,&quot;general.prices.inclMwst&quot;:&quot;incl. VAT&quot;,&quot;shop.header.minicart.flyout.empty.text&quot;:&quot;There are no products in your shopping basket&quot;}"></div> 
+    </div> 
+   </div> 
+   <div class="container"> 
+    <div id="btn-goTop" class="button__goTop__fixed"> 
+     <a class="btn" href="#page-content"> <span class="icon-arw-up"></span> </a> 
+    </div> 
+    <main class="pos-relative"> 
+     <section class="uxt-static-body-wrapper"> 
+      <div> 
+       <div class="zooplus"> 
+        <section class="uxt-sp-components-wrapper uxt-component" data-styleguide-version="3"> 
+         <section class="right-side-container full-width"> 
+          <section class="uxt-sp-buttons-container uxt-sp-component uxt-sp-top-margin"> 
+           <h1 class="v3-h1" id="animal-welfare-at-zooplus-we-help-your-four-legged-friends">Animal Welfare at zooplus: we help your four-legged friends!</h1> 
+          </section> 
+          <section class="uxt-sp-middle-banner uxt-sp-component uxt-sp-top-margin"> 
+           <img class="image-mobile uxt-br5" src="//uxt-cf-images.mediazs.com/6m1fgbkwnn0h/LWlILbBmF5lZDP2jqEQyB/ef5229fc3a94125b74b035ec19fd38e8/2020_07_Charity_Mood_500x320_UK.jpg?fm=jpg&amp;fl=progressive&amp;w=544&amp;q=85" srcset="//uxt-cf-images.mediazs.com/6m1fgbkwnn0h/LWlILbBmF5lZDP2jqEQyB/ef5229fc3a94125b74b035ec19fd38e8/2020_07_Charity_Mood_500x320_UK.jpg?fm=jpg&amp;fl=progressive&amp;w=1&amp;q=85 1w,
+          //uxt-cf-images.mediazs.com/6m1fgbkwnn0h/LWlILbBmF5lZDP2jqEQyB/ef5229fc3a94125b74b035ec19fd38e8/2020_07_Charity_Mood_500x320_UK.jpg?fm=jpg&amp;fl=progressive&amp;w=300&amp;q=85 300w,
+          //uxt-cf-images.mediazs.com/6m1fgbkwnn0h/LWlILbBmF5lZDP2jqEQyB/ef5229fc3a94125b74b035ec19fd38e8/2020_07_Charity_Mood_500x320_UK.jpg?fm=jpg&amp;fl=progressive&amp;w=400&amp;q=85 400w,
+          //uxt-cf-images.mediazs.com/6m1fgbkwnn0h/LWlILbBmF5lZDP2jqEQyB/ef5229fc3a94125b74b035ec19fd38e8/2020_07_Charity_Mood_500x320_UK.jpg?fm=jpg&amp;fl=progressive&amp;w=500&amp;q=85 500w,
+          //uxt-cf-images.mediazs.com/6m1fgbkwnn0h/LWlILbBmF5lZDP2jqEQyB/ef5229fc3a94125b74b035ec19fd38e8/2020_07_Charity_Mood_500x320_UK.jpg?fm=jpg&amp;fl=progressive&amp;w=544&amp;q=85 544w" sizes="(max-width: 543px) 100vw, (min-width: 544px) 0px" alt="" title=""> 
+           <img class="image-desktop uxt-br5" src="//uxt-cf-images.mediazs.com/6m1fgbkwnn0h/2zcQ1lc8fHcAB7qAkXZieA/2c98b994ab0124981113ace7dd1054f5/2020_07_Charity_Header_1000x160_UK.jpg?fm=jpg&amp;fl=progressive&amp;w=928&amp;q=85" srcset="//uxt-cf-images.mediazs.com/6m1fgbkwnn0h/2zcQ1lc8fHcAB7qAkXZieA/2c98b994ab0124981113ace7dd1054f5/2020_07_Charity_Header_1000x160_UK.jpg?fm=jpg&amp;fl=progressive&amp;w=1&amp;q=85 1w,
+        //uxt-cf-images.mediazs.com/6m1fgbkwnn0h/2zcQ1lc8fHcAB7qAkXZieA/2c98b994ab0124981113ace7dd1054f5/2020_07_Charity_Header_1000x160_UK.jpg?fm=jpg&amp;fl=progressive&amp;w=600&amp;q=85 600w,
+        //uxt-cf-images.mediazs.com/6m1fgbkwnn0h/2zcQ1lc8fHcAB7qAkXZieA/2c98b994ab0124981113ace7dd1054f5/2020_07_Charity_Header_1000x160_UK.jpg?fm=jpg&amp;fl=progressive&amp;w=700&amp;q=85 700w,
+        //uxt-cf-images.mediazs.com/6m1fgbkwnn0h/2zcQ1lc8fHcAB7qAkXZieA/2c98b994ab0124981113ace7dd1054f5/2020_07_Charity_Header_1000x160_UK.jpg?fm=jpg&amp;fl=progressive&amp;w=800&amp;q=85 800w,
+        //uxt-cf-images.mediazs.com/6m1fgbkwnn0h/2zcQ1lc8fHcAB7qAkXZieA/2c98b994ab0124981113ace7dd1054f5/2020_07_Charity_Header_1000x160_UK.jpg?fm=jpg&amp;fl=progressive&amp;w=900&amp;q=85 900w,
+        //uxt-cf-images.mediazs.com/6m1fgbkwnn0h/2zcQ1lc8fHcAB7qAkXZieA/2c98b994ab0124981113ace7dd1054f5/2020_07_Charity_Header_1000x160_UK.jpg?fm=jpg&amp;fl=progressive&amp;w=1000&amp;q=85 1000w" sizes="(max-width: 543px) 0px, (min-width: 544px) 100vw" alt="Animal Welfare" title="Animal Welfare"> 
+          </section> 
+          <section class="uxt-sp-text uxt-sp-component"> 
+           <p>The well-being of our pets is at the core of our business. We believe that all pets deserve care, affection and a loving family. Sadly, this is not always the case; every year many dogs, cats and small pets end up homeless or abandoned. Thankfully, charities and animal shelters are there to help these animals in need. Here at zooplus, we are always looking for ways we can help pets less fortunate than our own by supporting animal charities with their excellent work. Our customers also play a vital role in this support; through generous donations and discounts, we can improve the lives of rescued animals together.</p> 
+          </section> 
+          <section class="uxt-sp-top-picture-text uxt-sp-top-picture-text-with-buttons uxt-sp-top-margin uxt-sp-component text-grids-3"> 
+           <h2 class="v3-h2 headline" id="how-you-can-help">How you can help</h2> 
+           <div class="text-grids-container"> 
+            <div class="text-grid-item"> 
+             <a href="https://www.zooplus.co.uk/info/about/charity_support" target="_self"> <img class="uxt-br5" src="//uxt-cf-images.mediazs.com/6m1fgbkwnn0h/2bs4Jy67Nt3wxI2Lzsh62P/a279b629548a67b448e9361843a06f24/2020_07_Charity_BonusPoints_1000x640_UK.jpg?fm=jpg&amp;fl=progressive&amp;fit=scale&amp;w=485&amp;h=310&amp;q=85" srcset="//uxt-cf-images.mediazs.com/6m1fgbkwnn0h/2bs4Jy67Nt3wxI2Lzsh62P/a279b629548a67b448e9361843a06f24/2020_07_Charity_BonusPoints_1000x640_UK.jpg?fm=jpg&amp;fl=progressive&amp;fit=scale&amp;w=544&amp;h=348&amp;q=85 544w,
+              //uxt-cf-images.mediazs.com/6m1fgbkwnn0h/2bs4Jy67Nt3wxI2Lzsh62P/a279b629548a67b448e9361843a06f24/2020_07_Charity_BonusPoints_1000x640_UK.jpg?fm=jpg&amp;fl=progressive&amp;fit=scale&amp;w=500&amp;h=320&amp;q=85 500w,
+              //uxt-cf-images.mediazs.com/6m1fgbkwnn0h/2bs4Jy67Nt3wxI2Lzsh62P/a279b629548a67b448e9361843a06f24/2020_07_Charity_BonusPoints_1000x640_UK.jpg?fm=jpg&amp;fl=progressive&amp;fit=scale&amp;w=400&amp;h=256&amp;q=85 400w,
+              //uxt-cf-images.mediazs.com/6m1fgbkwnn0h/2bs4Jy67Nt3wxI2Lzsh62P/a279b629548a67b448e9361843a06f24/2020_07_Charity_BonusPoints_1000x640_UK.jpg?fm=jpg&amp;fl=progressive&amp;fit=scale&amp;w=300&amp;h=192&amp;q=85 300w" sizes="(max-width: 543px) 100vw,(min-width: 544px) 50vw" alt="Donate zooPoints"> </a> 
+             <span class="headline">Donate zooPoints</span> 
+             <span class="sub-headline">♥</span> 
+             <div class="text-grid-item-paragrah with-fixed-height"> 
+              <p>Each month, zooplus.co.uk teams up with a pet charity to give you a chance to help animals in need. You collect zooPoints when you shop with us which can be donated in our Reward Shop. At the end of the partnership, we convert your donations into a parcel of food &amp; accessories for the charity.<br></p> 
+             </div> 
+             <a href="https://www.zooplus.co.uk/info/about/charity_support"> <button class="v3-btn v3-btn--main">Find out more</button> </a> 
+            </div> 
+            <div class="text-grid-item"> 
+             <a href="https://www.zooplus.co.uk/info/about/zoolove" target="_self"> <img class="uxt-br5" src="//uxt-cf-images.mediazs.com/6m1fgbkwnn0h/V1lJcUbJFx9uL6DcNv9m9/d36ab7b224ca281c01a568f9b8bf5b8f/2020_05_Charity_zoolove_1000x640_DE.jpg?fm=jpg&amp;fl=progressive&amp;fit=scale&amp;w=485&amp;h=310&amp;q=85" srcset="//uxt-cf-images.mediazs.com/6m1fgbkwnn0h/V1lJcUbJFx9uL6DcNv9m9/d36ab7b224ca281c01a568f9b8bf5b8f/2020_05_Charity_zoolove_1000x640_DE.jpg?fm=jpg&amp;fl=progressive&amp;fit=scale&amp;w=544&amp;h=348&amp;q=85 544w,
+              //uxt-cf-images.mediazs.com/6m1fgbkwnn0h/V1lJcUbJFx9uL6DcNv9m9/d36ab7b224ca281c01a568f9b8bf5b8f/2020_05_Charity_zoolove_1000x640_DE.jpg?fm=jpg&amp;fl=progressive&amp;fit=scale&amp;w=500&amp;h=320&amp;q=85 500w,
+              //uxt-cf-images.mediazs.com/6m1fgbkwnn0h/V1lJcUbJFx9uL6DcNv9m9/d36ab7b224ca281c01a568f9b8bf5b8f/2020_05_Charity_zoolove_1000x640_DE.jpg?fm=jpg&amp;fl=progressive&amp;fit=scale&amp;w=400&amp;h=256&amp;q=85 400w,
+              //uxt-cf-images.mediazs.com/6m1fgbkwnn0h/V1lJcUbJFx9uL6DcNv9m9/d36ab7b224ca281c01a568f9b8bf5b8f/2020_05_Charity_zoolove_1000x640_DE.jpg?fm=jpg&amp;fl=progressive&amp;fit=scale&amp;w=300&amp;h=192&amp;q=85 300w" sizes="(max-width: 543px) 100vw,(min-width: 544px) 50vw" alt="zoolove by zooplus"> </a> 
+             <span class="headline">zoolove by zooplus</span> 
+             <span class="sub-headline">♥</span> 
+             <div class="text-grid-item-paragrah with-fixed-height"> 
+              <p>In 2014 we created the exclusive "zoolove by zooplus" brand. This range includes a selection of premium pet food and treats, as well as stylish accessories for your cat or dog. 10% of the sale price (excluding VAT) of all zoolove products sold is donated to an animal charity.</p> 
+             </div> 
+             <a href="https://www.zooplus.co.uk/info/about/zoolove"> <button class="v3-btn v3-btn--main">Discover zoolove</button> </a> 
+            </div> 
+            <div class="text-grid-item"> 
+             <a href="https://www.zooplus.co.uk/info/about/charity_overview_2019" target="_self"> <img class="uxt-br5" src="//uxt-cf-images.mediazs.com/6m1fgbkwnn0h/4FZuI3BXu3kJ99CKdlUJas/354a5a157b155edb33f7d674deec3598/2020_07_Charity_Projects_1000x640_UK.jpg?fm=jpg&amp;fl=progressive&amp;fit=scale&amp;w=485&amp;h=310&amp;q=85" srcset="//uxt-cf-images.mediazs.com/6m1fgbkwnn0h/4FZuI3BXu3kJ99CKdlUJas/354a5a157b155edb33f7d674deec3598/2020_07_Charity_Projects_1000x640_UK.jpg?fm=jpg&amp;fl=progressive&amp;fit=scale&amp;w=544&amp;h=348&amp;q=85 544w,
+              //uxt-cf-images.mediazs.com/6m1fgbkwnn0h/4FZuI3BXu3kJ99CKdlUJas/354a5a157b155edb33f7d674deec3598/2020_07_Charity_Projects_1000x640_UK.jpg?fm=jpg&amp;fl=progressive&amp;fit=scale&amp;w=500&amp;h=320&amp;q=85 500w,
+              //uxt-cf-images.mediazs.com/6m1fgbkwnn0h/4FZuI3BXu3kJ99CKdlUJas/354a5a157b155edb33f7d674deec3598/2020_07_Charity_Projects_1000x640_UK.jpg?fm=jpg&amp;fl=progressive&amp;fit=scale&amp;w=400&amp;h=256&amp;q=85 400w,
+              //uxt-cf-images.mediazs.com/6m1fgbkwnn0h/4FZuI3BXu3kJ99CKdlUJas/354a5a157b155edb33f7d674deec3598/2020_07_Charity_Projects_1000x640_UK.jpg?fm=jpg&amp;fl=progressive&amp;fit=scale&amp;w=300&amp;h=192&amp;q=85 300w" sizes="(max-width: 543px) 100vw,(min-width: 544px) 50vw" alt="Joint Projects 2019"> </a> 
+             <span class="headline">Joint Projects 2019</span> 
+             <span class="sub-headline"> ♥</span> 
+             <div class="text-grid-item-paragrah with-fixed-height"> 
+              <p>Together with you we were able to do good and donate over £40,000 to animal welfare organisations in the UK! In addition, we also supported the WWF project "Koalas in Australia" to help koalas that were injured in the devastating fires in Australia.</p> 
+             </div> 
+             <a href="https://www.zooplus.co.uk/info/about/charity_overview_2019"> <button class="v3-btn v3-btn--main">Find out more</button> </a> 
+            </div> 
+           </div> 
+          </section> 
+          <section class="uxt-sp-top-picture-text uxt-sp-top-picture-text-with-buttons uxt-sp-top-margin uxt-sp-component text-grids-2"> 
+           <h2 class="v3-h2 headline" id="how-we-help">How we help</h2> 
+           <div class="text-grids-container"> 
+            <div class="text-grid-item"> 
+             <a href="https://www.zooplus.co.uk/info/legal/animalcharity" target="_self"> <img class="uxt-br5" src="//uxt-cf-images.mediazs.com/6m1fgbkwnn0h/5o5emymmq37dP2ZKas6u6j/3149c87dc1a2449508f68231548d83ad/2020_07_Charity_Discount_1000x640_UK.jpg?fm=jpg&amp;fl=progressive&amp;fit=scale&amp;w=485&amp;h=310&amp;q=85" srcset="//uxt-cf-images.mediazs.com/6m1fgbkwnn0h/5o5emymmq37dP2ZKas6u6j/3149c87dc1a2449508f68231548d83ad/2020_07_Charity_Discount_1000x640_UK.jpg?fm=jpg&amp;fl=progressive&amp;fit=scale&amp;w=544&amp;h=348&amp;q=85 544w,
+              //uxt-cf-images.mediazs.com/6m1fgbkwnn0h/5o5emymmq37dP2ZKas6u6j/3149c87dc1a2449508f68231548d83ad/2020_07_Charity_Discount_1000x640_UK.jpg?fm=jpg&amp;fl=progressive&amp;fit=scale&amp;w=500&amp;h=320&amp;q=85 500w,
+              //uxt-cf-images.mediazs.com/6m1fgbkwnn0h/5o5emymmq37dP2ZKas6u6j/3149c87dc1a2449508f68231548d83ad/2020_07_Charity_Discount_1000x640_UK.jpg?fm=jpg&amp;fl=progressive&amp;fit=scale&amp;w=400&amp;h=256&amp;q=85 400w,
+              //uxt-cf-images.mediazs.com/6m1fgbkwnn0h/5o5emymmq37dP2ZKas6u6j/3149c87dc1a2449508f68231548d83ad/2020_07_Charity_Discount_1000x640_UK.jpg?fm=jpg&amp;fl=progressive&amp;fit=scale&amp;w=300&amp;h=192&amp;q=85 300w" sizes="(max-width: 543px) 100vw,(min-width: 544px) 50vw" alt="Charity Discount"> </a> 
+             <span class="headline">8% Discount for Animal Charities</span> 
+             <span class="sub-headline">♥</span> 
+             <div class="text-grid-item-paragrah with-fixed-height"> 
+              <p>zooplus offers registered charities and shelters an 8% discount on all orders of £75 or more. Simply send in an electronic copy of the charitable status of your shelter/organisation to become a member.</p> 
+             </div> 
+             <a href="https://www.zooplus.co.uk/info/legal/animalcharity"> <button class="v3-btn v3-btn--main">Request a discount</button> </a> 
+            </div> 
+            <div class="text-grid-item"> 
+             <a href="https://www.zooplus.co.uk/info/about/charity_support" target="_self"> <img class="uxt-br5" src="//uxt-cf-images.mediazs.com/6m1fgbkwnn0h/0BUTtORgtRHbOWb97CT1i/1f850ca06205ec01eb9e965f69e7470e/2020_07_Charity_DonationWarehouse_1000x640_UK.jpg?fm=jpg&amp;fl=progressive&amp;fit=scale&amp;w=485&amp;h=310&amp;q=85" srcset="//uxt-cf-images.mediazs.com/6m1fgbkwnn0h/0BUTtORgtRHbOWb97CT1i/1f850ca06205ec01eb9e965f69e7470e/2020_07_Charity_DonationWarehouse_1000x640_UK.jpg?fm=jpg&amp;fl=progressive&amp;fit=scale&amp;w=544&amp;h=348&amp;q=85 544w,
+              //uxt-cf-images.mediazs.com/6m1fgbkwnn0h/0BUTtORgtRHbOWb97CT1i/1f850ca06205ec01eb9e965f69e7470e/2020_07_Charity_DonationWarehouse_1000x640_UK.jpg?fm=jpg&amp;fl=progressive&amp;fit=scale&amp;w=500&amp;h=320&amp;q=85 500w,
+              //uxt-cf-images.mediazs.com/6m1fgbkwnn0h/0BUTtORgtRHbOWb97CT1i/1f850ca06205ec01eb9e965f69e7470e/2020_07_Charity_DonationWarehouse_1000x640_UK.jpg?fm=jpg&amp;fl=progressive&amp;fit=scale&amp;w=400&amp;h=256&amp;q=85 400w,
+              //uxt-cf-images.mediazs.com/6m1fgbkwnn0h/0BUTtORgtRHbOWb97CT1i/1f850ca06205ec01eb9e965f69e7470e/2020_07_Charity_DonationWarehouse_1000x640_UK.jpg?fm=jpg&amp;fl=progressive&amp;fit=scale&amp;w=300&amp;h=192&amp;q=85 300w" sizes="(max-width: 543px) 100vw,(min-width: 544px) 50vw" alt="Warehouse Donations"> </a> 
+             <span class="headline">Donations from our Warehouses</span> 
+             <span class="sub-headline">♥</span> 
+             <div class="text-grid-item-paragrah with-fixed-height"> 
+              <p>At zooplus, we love to help in any way we can. That's why a selection of our returned stock is set aside to be donated to animal charities.</p> 
+             </div> 
+             <a href="https://www.zooplus.co.uk/info/about/charity_support"> <button class="v3-btn v3-btn--main">Find out more</button> </a> 
+            </div> 
+           </div> 
+          </section> 
+          <section class="uxt-sp-middle-banner uxt-sp-component uxt-sp-top-margin"> 
+           <h2 class="v3-h2 title-mobile-not-displayed" id="our-joint-successes-2019">Our Joint Successes 2019</h2> 
+           <img class="image-desktop uxt-br5" src="//uxt-cf-images.mediazs.com/6m1fgbkwnn0h/9phkw38HqvIRgPKQtZK69/013f309b5372d62ef8b807c156c62285/2020_07_Charity_InfoCollage_1000x640_UK.jpg?fm=jpg&amp;fl=progressive&amp;w=928&amp;q=85" srcset="//uxt-cf-images.mediazs.com/6m1fgbkwnn0h/9phkw38HqvIRgPKQtZK69/013f309b5372d62ef8b807c156c62285/2020_07_Charity_InfoCollage_1000x640_UK.jpg?fm=jpg&amp;fl=progressive&amp;w=1&amp;q=85 1w,
+        //uxt-cf-images.mediazs.com/6m1fgbkwnn0h/9phkw38HqvIRgPKQtZK69/013f309b5372d62ef8b807c156c62285/2020_07_Charity_InfoCollage_1000x640_UK.jpg?fm=jpg&amp;fl=progressive&amp;w=600&amp;q=85 600w,
+        //uxt-cf-images.mediazs.com/6m1fgbkwnn0h/9phkw38HqvIRgPKQtZK69/013f309b5372d62ef8b807c156c62285/2020_07_Charity_InfoCollage_1000x640_UK.jpg?fm=jpg&amp;fl=progressive&amp;w=700&amp;q=85 700w,
+        //uxt-cf-images.mediazs.com/6m1fgbkwnn0h/9phkw38HqvIRgPKQtZK69/013f309b5372d62ef8b807c156c62285/2020_07_Charity_InfoCollage_1000x640_UK.jpg?fm=jpg&amp;fl=progressive&amp;w=800&amp;q=85 800w,
+        //uxt-cf-images.mediazs.com/6m1fgbkwnn0h/9phkw38HqvIRgPKQtZK69/013f309b5372d62ef8b807c156c62285/2020_07_Charity_InfoCollage_1000x640_UK.jpg?fm=jpg&amp;fl=progressive&amp;w=900&amp;q=85 900w,
+        //uxt-cf-images.mediazs.com/6m1fgbkwnn0h/9phkw38HqvIRgPKQtZK69/013f309b5372d62ef8b807c156c62285/2020_07_Charity_InfoCollage_1000x640_UK.jpg?fm=jpg&amp;fl=progressive&amp;w=1000&amp;q=85 1000w" sizes="(max-width: 543px) 0px, (min-width: 544px) 100vw" alt="Our Joint Successes 2019" title="Our Joint Successes 2019"> 
+          </section> 
+          <section class="uxt-sp-text uxt-sp-component"> 
+           <p></p>
+           <h2 class="v3-h2">Do you know of an animal charity or shelter that urgently needs support?</h2>
+           <p></p>
+           <p>Every month zooplus.co.uk teams up with a British pet charity to give you the chance to help animals that are not as fortunate as your own and we convert your generous donations into a fantastic parcel of food and accessories. You can also support our charity partner by buying an item from our exclusive “zoolove by zooplus” range. For each product sold, 10% of the sale price will go directly to our current animal charity, to be spent wherever it is needed most. To suggest an animal charity go to our zooplus <a href="https://www.facebook.com/ZooplusUK" class="v3-link">Facebook Page</a><br></p> 
+          </section> 
+          <h2 id="time-to-share" class="v3-h2 uxt-sp-top-margin">Time to Share</h2> 
+          <section class="uxt-sp-video uxt-sp-top-margin "> 
+           <div class="youtube-video"> 
+            <img class="thumbnail-image" src="https://i.ytimg.com/vi/byiUcOdqCrQ/hqdefault.jpg" srcset="https://i.ytimg.com/vi/byiUcOdqCrQ/maxresdefault.jpg 1000w,
+                 https://i.ytimg.com/vi/byiUcOdqCrQ/sddefault.jpg 544w,
+                 https://i.ytimg.com/vi/byiUcOdqCrQ/sddefault.jpg 500w,
+                 https://i.ytimg.com/vi/byiUcOdqCrQ/hqdefault.jpg 400w,
+                 https://i.ytimg.com/vi/byiUcOdqCrQ/mqdefault.jpg 300w" sizes="(max-width: 1043px) 100vw,(min-width: 1044px) 500px" alt=""> 
+            <iframe class="teaser-iframe" width="100%" height="100%" data-src="https://www.youtube.com/embed/byiUcOdqCrQ" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe> 
+           </div> 
+          </section> 
+         </section> 
+         <section class="uxt-advantages-teaser uxt-sp-component"> 
+          <span class="heading" id="our-quality-promise">Our Quality Promise</span> 
+          <div class="advantages-container"> 
+           <div class="advantage"> 
+            <i aria-hidden="true" class="icon"> 
+             <svg width="24" height="24">
+              <path d="M12.0314474,1.51184098 C11.9975223,1.49447111 11.9559448,1.50788988 11.9406587,1.53771415 L8.59965865,8.16271415 C8.48408653,8.39188665 8.25934856,8.54604419 8.00393383,8.5713477 L1.5521022,9.21042528 C1.53905106,9.21150977 1.52681482,9.21721652 1.5175952,9.22651914 C1.49621277,9.24809402 1.49636877,9.28291757 1.5177563,9.30411444 L6.8217563,14.5571144 C7.01436057,14.7478667 7.08904293,15.0277058 7.01709528,15.2890607 L5.0538729,22.4204869 C5.04991921,22.435376 5.05155749,22.4511976 5.05847403,22.4649526 C5.07410812,22.4960436 5.11198296,22.5085732 5.1471477,22.4909066 L11.6671477,19.2619066 C11.8768789,19.1580381 12.1230755,19.1580312 12.3328126,19.2618879 L18.865929,22.4969419 C18.879691,22.5036571 18.8955122,22.5055002 18.9103999,22.5015469 C18.9440283,22.492617 18.9640507,22.4581163 18.9568981,22.4310604 L16.9918981,15.2930604 C16.9199773,15.0318031 16.9945757,14.7520669 17.1870361,14.5613133 L22.4870516,9.30829794 C22.4963535,9.29907905 22.5020606,9.28684207 22.5033358,9.27378817 C22.5056609,9.24351786 22.4831607,9.21693929 22.4410607,9.21334642 L16.0010607,8.57534642 C15.7457411,8.55005233 15.5210683,8.39599875 15.4054571,8.16695304 L12.0610131,1.54103579 C12.0543951,1.52850323 12.0440738,1.51830582 12.0314474,1.51184098 Z M7.44591525,7.11928673 L10.6034123,0.858191511 C10.9983326,0.0868800875 11.9437474,-0.218244082 12.7150637,0.17667477 C13.0081125,0.326718813 13.2465377,0.565143885 13.3965814,0.85819284 L13.3985429,0.862046965 L16.5589092,7.12327463 L22.5771107,7.71957625 C23.4329638,7.79069735 24.0691151,8.54215859 23.9979928,9.39801076 C23.9673258,9.76704884 23.8059665,10.1130296 23.5429619,10.3736867 L18.5545289,15.3178827 L20.4048773,22.0395123 C20.6264232,22.8738191 20.1296824,23.7297569 19.2953757,23.9513033 C18.9260078,24.049387 18.533503,24.0087442 18.1961855,23.8391128 L12.0000218,20.7709251 L5.81692905,23.8330586 C5.04571977,24.2208511 4.10616431,23.9100316 3.7183607,23.1388193 C3.54667534,22.7973857 3.50603272,22.4048813 3.60589343,22.0289399 L5.45441261,15.3140646 L0.462044814,10.3697003 C-0.147933914,9.76516115 -0.152344281,8.7806007 0.452193069,8.17062223 C0.712866246,7.90760206 1.05884799,7.74624278 1.41605526,7.71665485 L7.44591525,7.11928673 Z" fill-rule="evenodd" />
+             </svg> </i> 
+            <span class="text">Popular, top-rated brands</span> 
+           </div> 
+           <div class="advantage"> 
+            <i aria-hidden="true" class="icon"> 
+             <svg width="24" height="24">
+              <path d="M21.0585913,11.3107486 C22.5565773,9.81231823 22.9277942,7.52350053 21.9802183,5.62848752 C21.2724186,4.21329603 19.9275276,3.2245803 18.3656249,2.97116909 C16.8037349,2.71775595 15.2152285,3.23054446 14.0961607,4.34949944 L12.5301607,5.91449944 C12.2373063,6.20716685 11.7626937,6.20716685 11.4698393,5.91449944 L9.90369686,4.34935703 C8.78477072,3.23054457 7.19627325,2.71775864 5.63437446,2.9711692 C4.07247042,3.22458322 2.72757955,4.213298 2.01967973,5.62869137 C1.07077218,7.52451929 1.44242969,9.81494977 2.95336493,11.3249393 L11.9999535,20.7602632 L21.0585913,11.3107486 Z M12,4.32367843 L13.0356967,3.28864318 C14.4955513,1.82893574 16.5680648,1.15990401 18.6058533,1.49053061 C20.6436521,1.82115365 22.3983213,3.1111237 23.3218106,4.95757014 C24.5581445,7.43005694 24.0738207,10.4162598 22.1304157,12.3600078 L12.5414157,22.3630078 C12.246193,22.6709766 11.7538879,22.6710006 11.4586351,22.3630607 L1.88187871,12.3745388 C-0.0748500879,10.4193498 -0.559771924,7.43090021 0.678218111,4.95751281 C1.60167644,3.11112602 3.35634513,1.82115751 5.39414674,1.49053061 C7.43194518,1.15990762 9.50444815,1.8289363 10.9641607,3.28850056 L12,4.32367843 Z" fill-rule="evenodd" />
+             </svg> </i> 
+            <span class="text">By pet lovers for pet lovers</span> 
+           </div> 
+           <div class="advantage"> 
+            <i aria-hidden="true" class="icon"> 
+             <svg width="24" height="24">
+              <path d="M15,-8.58081288e-07 C16.6568536,-8.58081288e-07 18,1.34314558 18,2.99999914 L18,6.38204266 C17.9999801,6.72674771 18.2349269,7.02708336 18.5491375,7.10529457 L20.0263606,7.42850713 C22.4590138,8.03830084 24.1206798,10.2835046 23.9927058,12.7940415 L23.6902406,17.9250001 C23.3435833,21.3741916 20.4405563,23.9999991 16.974,23.9999991 L12.0887711,23.9999991 C11.4620785,23.9999991 10.8384621,23.9123434 10.2360116,23.7401579 L6.60203963,22.7021659 C6.40412728,22.6456434 6.20327504,22.6008695 6.0005352,22.5679994 L6,23.25 C6,23.6642136 5.66421356,24 5.25,24 L0.75,24 C0.335786438,24 0,23.6642136 0,23.25 L0,9.75 C0,9.33578644 0.335786438,9 0.75,9 L5.25,9 C5.66421356,9 6,9.33578644 6,9.75 L6.00070161,11.2627251 C9.37533006,10.8893238 12,8.02817798 12,4.55399914 L12,2.99999914 C12,1.34314558 13.3431465,-8.58081288e-07 15,-8.58081288e-07 Z M4.5,10.5 L1.5,10.5 L1.5,22.5 L4.5,22.5 L4.50013395,21.7653131 C4.50004478,21.7605527 4.5,21.7557815 4.5,21.751 L4.5,12.0539991 L4.5,12.0389991 L4.5,10.5 Z M15,1.49999914 C14.1715736,1.49999914 13.5,2.1715727 13.5,2.99999914 L13.5,4.55399914 C13.5,8.85753542 10.2048786,12.3914461 6,12.770367 L6,21.0527599 C6.34243223,21.0956909 6.68143293,21.1648663 7.01398845,21.2598421 L10.6481036,22.297875 C11.1167659,22.4318226 11.6018015,22.4999991 12.089,22.4999991 L16.9740094,22.4999991 C19.6702274,22.4999991 21.9281371,20.4577047 22.1952942,17.8059585 L22.4949722,12.7118253 C22.5861522,10.922775 21.3992476,9.31905777 19.6838625,8.8887037 L18.2084981,8.56595452 C17.2047779,8.31707459 16.4999401,7.41607119 16.5,6.38199914 L16.5,2.99999914 C16.5,2.1715727 15.8284265,1.49999914 15,1.49999914 Z" fill-rule="evenodd" />
+             </svg> </i> 
+            <span class="text">Something for every pet</span> 
+           </div> 
+          </div> 
+         </section> 
+        </section> 
+       </div> 
+      </div> 
+     </section> 
+    </main> 
+    <footer class="row catalog-footer" data-zta="footer-content"> 
+     <div class="footer__UVP">
+       *RRP= Recommended Retail Price ** 
+      <a href="/content/shippingcosts">Conditions apply</a> 
+     </div> 
+     <!-- responsive_footer.ftl --> 
+     <div class="footer-main-sections"> 
+      <form action="/newsletter" method="GET" id="mailingForm" name="mailingForm" novalidate> 
+       <div class="footer__newsletter" data-zta="footer-newsletter"> 
+        <div class="newsletter__discount"> 
+         <div> 
+          <span class="voucher__amount">333</span> 
+          <span class="voucher__text">zooPoints</span> 
+          <span class="voucher__desc">for subscribing</span> 
+         </div> 
+        </div> 
+        <div class="newsletter__form"> 
+         <h4>Newsletter</h4> 
+         <div class="newsletter__selection"> 
+          <div class="checkbox"> 
+           <label for="topic_DOG" class="icon-dog"></label> 
+           <input type="checkbox" class="" name="topics[DOG].checked" id="topic_DOG"> 
+           <label class="newsletter__checkbox" for="topic_DOG">Dogs</label> 
+          </div> 
+          <div class="checkbox"> 
+           <label for="topic_CAT" class="icon-cat"></label> 
+           <input type="checkbox" class="" name="topics[CAT].checked" id="topic_CAT"> 
+           <label class="newsletter__checkbox" for="topic_CAT">Cats</label> 
+          </div> 
+          <div class="checkbox"> 
+           <label for="topic_BIRD" class="icon-birds"></label> 
+           <input type="checkbox" class="" name="topics[BIRD].checked" id="topic_BIRD"> 
+           <label class="newsletter__checkbox" for="topic_BIRD">Birds</label> 
+          </div> 
+          <div class="checkbox"> 
+           <label for="topic_SMALL_ANIMALS" class="icon-small_animals"></label> 
+           <input type="checkbox" class="" name="topics[SMALL_ANIMALS].checked" id="topic_SMALL_ANIMALS"> 
+           <label class="newsletter__checkbox" for="topic_SMALL_ANIMALS">Small Pets</label> 
+          </div> 
+         </div> 
+         <div id="js-newsletter__allPets" class="newsletter__allPets"> 
+          <span><span>Show all pets</span><span class="icon-arw-down"></span></span> 
+          <span class="hidden"><span>Hide all pets</span><span class="icon-arw-up"></span></span> 
+         </div> 
+        </div> 
+        <div class="newsletter__button"> 
+         <h4>Newsletter</h4> 
+         <button type="submit" data-zta="newsletter_save" class="btn btn-primary"> Subscribe </button> 
+        </div> 
+       </div> 
+      </form> 
+      <div class="sections__separator top__separator news-letter-separator">
+       <hr>
+      </div> 
+      <div class="footer__features clearfix" data-zta="footer-content-features"> 
+       <div class="footer__customer " data-zta="footer-content-services"> 
+        <h4>Services</h4> 
+        <ul> 
+         <li><a href="/account"><span>my zooplus</span></a></li> 
+         <li><a href="/contact_us"><span>Help</span></a></li> 
+         <li><a href="/contact_us"><span>Contact</span></a></li> 
+         <li><a href="/info/about/shippingcosts"><span>Shipping &amp; Delivery</span></a></li> 
+         <li><a href="/info/about/returns"><span>Returns</span></a></li> 
+         <li><a href="/info/about/affiliate_programme"><span>Affiliate Programme</span></a></li> 
+         <li><a href="https://www.zooplus.co.uk/magazine"><span>Magazine</span></a></li> 
+        </ul>
+       </div> 
+       <div class="footer__benefits " data-zta="footer-content-benefits"> 
+        <h4>Advantages</h4> 
+        <ul> 
+         <li><a href="/bonuspoints/overview"><span>Loyalty Programme</span></a></li> 
+         <li><a href="/info/about/charity_support"><span>Charity Support</span></a></li> 
+         <li><a href="/info/legal/animalcharity"><span>Charity Discount</span></a></li> 
+         <li><a href="/info/legal/breeder"><span>Breeder Programme</span></a></li> 
+         <li><a href="/newsletter?utm_source=shop&amp;utm_medium=footer&amp;utm_campaign=newsletter&amp;utm_content=button"><span>Newsletter</span></a></li> 
+        </ul>
+       </div> 
+       <div class="footer__shopper " data-zta="footer-content-shopper"> 
+        <h4>Shopping</h4> 
+        <ul> 
+         <li><a href="/shop/pet_supplies_specials"><span>Special Offers</span></a></li> 
+         <li><a href="/shop/pet_supplies_specials/sale"><span>Clearance Sale</span></a></li> 
+         <li><a href="/shop/pet_supplies_specials/pet_supplies_seasonal"><span>Seasonal Specials</span></a></li> 
+         <li><a href="/info/about/discounts_vouchers"><span>Exclusive Benefits &amp; Vouchers</span></a></li> 
+         <li><a href="/info/apps/apps"><span>zooplus App</span></a></li> 
+        </ul>
+       </div> 
+       <div class="footer__social" data-zta="footer-content-social"> 
+        <h4>Social</h4> 
+        <ul class="clearfix"> 
+         <li class="facebook"><a href="https://www.facebook.com/ZooplusUK" rel="false" target="_blank"><span>facebook</span></a></li> 
+         <li class="twitter"><a href="https://twitter.com/zooplusUK" rel="false" target="_blank"><span>twitter</span></a></li> 
+         <li class="youtube"><a href="https://www.youtube.com/zooplus" rel="false" target="_blank"><span>YouTube</span></a></li> 
+         <li class="instagram"><a href="https://www.instagram.com/zooplusuk/" rel="false" target="_blank"><span>Instagram</span></a></li> 
+         <li class="zooplus-blog"><a href="http://blog.zooplus.co.uk/" rel="false"><span>zooblog</span></a></li> 
+        </ul>
+       </div> 
+      </div> 
+      <div class="sections__separator top__separator">
+       <hr>
+      </div> 
+      <div class="footer__conditions"> 
+       <div class="paymentmethod" data-zta="footer-content-payment"> 
+        <h4>Methods of Payment</h4> 
+        <a href="/info/legal/terms#8.-payment-methods,-invoices-and-credit-notes"> 
+         <!--Visa pictures 1x is 32px, 2x is 128px --> <img loading="lazy" src="https://shop-cdn-m.shpp.ext.zooplus.io/bilder/1/visa_1.png" srcset="https://shop-cdn-m.shpp.ext.zooplus.io/bilder/1/visa2x_1.png 2x, 
+https://shop-cdn-m.shpp.ext.zooplus.io/bilder/1/visa_1.png 1x" alt="Visa"> 
+         <!--Mastercard pictures 1x is 32px, 2x is 128px --> <img loading="lazy" src="https://shop-cdn-m.shpp.ext.zooplus.io/bilder/1/mastercard_1.png" srcset="https://shop-cdn-m.shpp.ext.zooplus.io/bilder/1/mastercard2x_1.png 2x, 
+https://shop-cdn-m.shpp.ext.zooplus.io/bilder/1/mastercard_1.png 1x" alt="Mastercard"> 
+         <!--Maestro pictures 1x is 32px, 2x is 128px --> <img loading="lazy" src="https://shop-cdn-m.shpp.ext.zooplus.io/bilder/1/maestro_1.png" srcset="https://shop-cdn-m.shpp.ext.zooplus.io/bilder/1/maestro2x_1.png 2x, 
+https://shop-cdn-m.shpp.ext.zooplus.io/bilder/1/maestro_1.png 1x"> 
+         <!--American express pictures 1x is 32px, 2x is 128px --> <img loading="lazy" src="https://shop-cdn-m.shpp.ext.zooplus.io/bilder/1/amex_1.png" srcset="https://shop-cdn-m.shpp.ext.zooplus.io/bilder/1/amex2x_1.png 2x, 
+https://shop-cdn-m.shpp.ext.zooplus.io/bilder/1/amex_1.png 1x" alt="American Express"> 
+         <!--Pay Pal pictures 1x is 32px, 2x is 128px --> <img loading="lazy" src="https://shop-cdn-m.shpp.ext.zooplus.io/bilder/1/paypal_1.png" srcset="https://shop-cdn-m.shpp.ext.zooplus.io/bilder/1/paypal2x_1.png 2x, 
+https://shop-cdn-m.shpp.ext.zooplus.io/bilder/1/paypal_1.png 1x" alt="PayPal"> 
+         <ul>
+          <li>Bank Transfer</li>
+         </ul> </a> 
+       </div> 
+       <div class="deliveryprovider" data-zta="footer-content-delivery"> 
+        <h4>Delivery</h4> 
+        <a href="/content/shippingcosts"> 
+         <!--DHL picture we have only one format 
+<img loading=lazy src="https://shop-cdn-m.shpp.ext.zooplus.io/bilder/1/2015_06_Checkout_Delivery_Icons_DHL_1.png" 
+srcset="https://shop-cdn-m.shpp.ext.zooplus.io/bilder/1/2015_06_Checkout_Delivery_Icons_DHL_1.png 2x, 
+https://shop-cdn-m.shpp.ext.zooplus.io/bilder/1/2015_06_Checkout_Delivery_Icons_DHL_1.png 1x"> --> 
+         <!--DPD picture we have only one format --> <img loading="lazy" src="https://shop-cdn-m.shpp.ext.zooplus.io/bilder/1/2015_06_Checkout_Delivery_Icons_DPD_1.png" srcset="https://shop-cdn-m.shpp.ext.zooplus.io/bilder/1/2015_06_Checkout_Delivery_Icons_DPD_1.png 2x, 
+https://shop-cdn-m.shpp.ext.zooplus.io/bilder/1/2015_06_Checkout_Delivery_Icons_DPD_1.png 1x"> 
+         <!--Yodel picture we have only one format --> <img loading="lazy" src="https://shop-cdn-m.shpp.ext.zooplus.io/bilder/1/2015_06_Checkout_Delivery_Icons_YODEL_1.png" srcset="https://shop-cdn-m.shpp.ext.zooplus.io/bilder/1/2015_06_Checkout_Delivery_Icons_YODEL_1.png 2x, 
+https://shop-cdn-m.shpp.ext.zooplus.io/bilder/1/2015_06_Checkout_Delivery_Icons_YODEL_1.png 1x"> 
+         <div> 
+          <span class="img-delivery_van"></span>
+          <span><b>Free Delivery</b><br><i>from £39 **</i></span>
+         </div> </a> 
+       </div> 
+      </div> 
+      <div class="sections__separator top__separator hidden-xs">
+       <hr>
+      </div> 
+      <div class="footer__shops clearfix" id="js-footer-shops" data-zta="footer-content-international"> 
+       <h4>International</h4> 
+       <ul> 
+        <li><a href="https://www.zooplus.at/"> <span class="img-flag_AT"></span><span>Austria</span></a></li> 
+        <li><a href="https://www.zooplus.be/"> <span class="img-flag_BE"></span><span>Belgium</span></a></li> 
+        <li><a href="https://www.zooplus.bg/"> <span class="img-flag_BG"></span><span>Bulgaria</span></a></li> 
+        <li><a href="https://www.zooplus.hr/"> <span class="img-flag_HR"></span><span>Croatia</span></a></li> 
+        <li><a href="https://www.zoohit.cz/"> <span class="img-flag_CZ"></span><span>Czech Rep.</span></a></li> 
+        <li><a href="https://www.zooplus.dk/"> <span class="img-flag_DK"></span><span>Denmark</span></a></li> 
+        <li><a href="https://www.zooplus.fi/"> <span class="img-flag_FI"></span><span>Finland</span></a></li> 
+        <li><a href="https://www.zooplus.fr/"> <span class="img-flag_FR"></span><span>France</span></a></li> 
+        <li><a href="https://www.zooplus.de/"> <span class="img-flag_DE"></span><span>Germany</span></a></li> 
+        <li><a href="https://www.zooplus.gr/"> <span class="img-flag_GR"></span><span>Greece</span></a></li> 
+        <li><a href="https://www.zooplus.hu/"> <span class="img-flag_HU"></span><span>Hungary</span></a></li> 
+        <li><a href="https://www.zooplus.ie/"> <span class="img-flag_IE"></span><span>Ireland</span></a></li> 
+        <li><a href="https://www.zooplus.it/"> <span class="img-flag_IT"></span><span>Italy</span></a></li> 
+        <li><a href="https://www.zooplus.nl/"> <span class="img-flag_NL"></span><span>Netherlands</span></a></li> 
+        <li><a href="https://www.zooplus.no/"> <span class="img-flag_NO"></span><span>Norway</span></a></li> 
+        <li><a href="https://www.zooplus.pl/"> <span class="img-flag_PL"></span><span>Poland</span></a></li> 
+        <li><a href="https://www.zooplus.pt/"> <span class="img-flag_PT"></span><span>Portugal</span></a></li> 
+        <li><a href="https://www.zooplus.ro/"> <span class="img-flag_RO"></span><span>Romania</span></a></li> 
+        <li><a href="https://www.zoochic-eu.ru/"> <span class="img-flag_EU_RU"></span><span>Russia</span></a></li> 
+        <li><a href="https://www.zoohit.sk/"> <span class="img-flag_SK"></span><span>Slovakia</span></a></li> 
+        <li><a href="https://www.zoohit.si/"> <span class="img-flag_SI"></span><span>Slovenia</span></a></li> 
+        <li><a href="https://www.zooplus.es/"> <span class="img-flag_ES"></span><span>Spain</span></a></li> 
+        <li><a href="https://www.zooplus.se/"> <span class="img-flag_SE"></span><span>Sweden</span></a></li> 
+        <li><a href="https://www.zooplus.ch/"> <span class="img-flag_CH"></span><span>Switzerland</span></a></li> 
+        <li><a href="https://www.zooplus.co.uk/"> <span class="img-flag_CO_UK"></span><span>UK</span></a></li> 
+        <li><a href="https://www.zooplus.com/"> <span class="img-flag_COM"></span><span>zooplus.com</span></a></li> 
+       </ul>
+      </div> 
+      <div class="footer__legalcontent" id="js-footer-legal" data-zta="footer-legal-content">
+       <ul> 
+        <li><a href="/content/about" target="_blank">About us</a></li> 
+        <li><a href="https://jobs.zooplus.co.uk/" target="_blank">Careers</a></li> 
+        <li><a href="https://investors.zooplus.com/en/" target="_blank">Investor Relations</a></li> 
+        <li><a href="/info/legal/imprint" target="_blank">Imprint</a></li> 
+        <li><a href="/info/legal/terms" target="_blank">Terms &amp; Conditions</a></li> 
+        <li><a href="/bilder/2/withdrawalENdoc_2.pdf" target="_blank">Withdrawal Form</a></li> 
+        <li><a href="/info/legal/terms#8.-payment-methods,-invoices-and-credit-notes" target="_blank">Methods of Payment</a></li> 
+        <li><a href="/info/legal/disposal" target="_blank">WEEE</a></li> 
+        <li><a href="/info/legal/privacy" target="_blank">Privacy</a></li> 
+       </ul>
+      </div> 
+     </div> 
+     <div class="footer__copyright" data-zta="footer-copyright">
+      © zooplus AG 2021
+     </div> 
+    </footer> 
+   </div> 
+  </div>   
+  <!-- analytical code --> 
+  <!-- key <adobe.analytics.code> not found -->   
+  <script src="https://shop-checkout-webc-components.mediazs.com/cart-service-js/js/latest/CartService.js" defer></script>
+  <script type="text/javascript" src="https://shop-content-cdn.mediazs.com/acdd7f06787b7151870b7fb5fbf6bf55/theme/zooplus/zooplus.co.uk/javascript/static-pages/static-vendor.js" async></script>
+  <script type="text/javascript" src="https://shop-content-cdn.mediazs.com/acdd7f06787b7151870b7fb5fbf6bf55/theme/zooplus/zooplus.co.uk/javascript/static-pages/static.js" async></script>
+  <script type="text/javascript" src="https://vam-cdn-prod.mediazs.com/js/shop/polyfill.js"></script>
+  <script type="text/javascript" src="https://vam-cdn-prod.mediazs.com/js/shop/events-bus.js" defer></script>
+  <script type="text/javascript" src="https://vam-cdn-prod.mediazs.com/js/react/react_16.8.5__react-dom_16.8.5.js" defer></script>
+  <script type="text/javascript" src="https://vam-cdn-prod.mediazs.com/js/sentry/sentry_5.27.js" defer></script>
+  <script type="text/javascript" src="https://shop-checkout-webc-components.mediazs.com/shop-mini-cart/SMC-REL-2.7.0/v1/js/shop-mini-cart.js" defer></script>
+ </body>
+</html>

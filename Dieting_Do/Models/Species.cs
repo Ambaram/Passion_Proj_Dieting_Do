@@ -3,7 +3,6 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Web;
 using System.ComponentModel.DataAnnotations;
-using System.ComponentModel.DataAnnotations.Schema;
 
 namespace Dieting_Do.Models
 {
@@ -12,6 +11,9 @@ namespace Dieting_Do.Models
         [Key]
         public int SpeciesId { get; set; }
         public string AnimalSpecies { get; set; }
+        public ICollection<Animal> Animals { get; set; }
+        public ICollection<Shelter> Shelters { get; set; }
+        public ICollection<Vet> Vets { get; set; }
         
     }
 
